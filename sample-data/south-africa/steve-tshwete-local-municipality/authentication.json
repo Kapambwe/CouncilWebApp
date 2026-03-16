@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@steve-tshwete.council.za",
+    "role": "TownClerk",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-STL-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@steve-tshwete.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-STL-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@steve-tshwete.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-STL-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@steve-tshwete.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-STL-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@steve-tshwete.council.za",
+    "role": "AssetManager",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-STL-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@steve-tshwete.council.za",
+    "role": "PropertyManager",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-STL-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@steve-tshwete.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-STL-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@steve-tshwete.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-STL-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@steve-tshwete.council.za",
+    "role": "Councillor",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-STL-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@steve-tshwete.council.za",
+    "role": "Auditor",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-STL-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@steve-tshwete.council.za",
+    "role": "TownClerk",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-STL-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@steve-tshwete.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-STL-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@steve-tshwete.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-STL-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@steve-tshwete.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-STL-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@steve-tshwete.council.za",
+    "role": "AssetManager",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-STL-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@steve-tshwete.council.za",
+    "role": "PropertyManager",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-STL-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@steve-tshwete.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-STL-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@steve-tshwete.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-STL-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@steve-tshwete.council.za",
+    "role": "Councillor",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-STL-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@steve-tshwete.council.za",
+    "role": "Auditor",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-STL-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@steve-tshwete.council.za",
+    "role": "TownClerk",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-STL-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@steve-tshwete.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-STL-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@steve-tshwete.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-STL-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@steve-tshwete.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-STL-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@steve-tshwete.council.za",
+    "role": "AssetManager",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-STL-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@steve-tshwete.council.za",
+    "role": "PropertyManager",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-STL-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@steve-tshwete.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-STL-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@steve-tshwete.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-STL-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@steve-tshwete.council.za",
+    "role": "Councillor",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-STL-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@steve-tshwete.council.za",
+    "role": "Auditor",
+    "tenantId": "steve-tshwete-local-municipality",
+    "councilName": "Steve Tshwete Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-STL-0030",
+    "isActive": true
+  }
+]

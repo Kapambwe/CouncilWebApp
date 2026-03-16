@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@dodoma.council.tz",
+    "role": "TownClerk",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Administration",
+    "employeeId": "EMP-DDCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@dodoma.council.tz",
+    "role": "DirectorOfFinance",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Finance",
+    "employeeId": "EMP-DDCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@dodoma.council.tz",
+    "role": "BudgetOfficer",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-DDCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@dodoma.council.tz",
+    "role": "ProcurementOfficer",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Assets",
+    "employeeId": "EMP-DDCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@dodoma.council.tz",
+    "role": "AssetManager",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Property",
+    "employeeId": "EMP-DDCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@dodoma.council.tz",
+    "role": "PropertyManager",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Planning",
+    "employeeId": "EMP-DDCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@dodoma.council.tz",
+    "role": "LandUseOfficer",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Legal",
+    "employeeId": "EMP-DDCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@dodoma.council.tz",
+    "role": "PermitsOfficer",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Audit",
+    "employeeId": "EMP-DDCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@dodoma.council.tz",
+    "role": "Councillor",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Administration",
+    "employeeId": "EMP-DDCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@dodoma.council.tz",
+    "role": "Auditor",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Finance",
+    "employeeId": "EMP-DDCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@dodoma.council.tz",
+    "role": "TownClerk",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-DDCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@dodoma.council.tz",
+    "role": "DirectorOfFinance",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Assets",
+    "employeeId": "EMP-DDCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@dodoma.council.tz",
+    "role": "BudgetOfficer",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Property",
+    "employeeId": "EMP-DDCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@dodoma.council.tz",
+    "role": "ProcurementOfficer",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Planning",
+    "employeeId": "EMP-DDCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@dodoma.council.tz",
+    "role": "AssetManager",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Legal",
+    "employeeId": "EMP-DDCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@dodoma.council.tz",
+    "role": "PropertyManager",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Audit",
+    "employeeId": "EMP-DDCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@dodoma.council.tz",
+    "role": "LandUseOfficer",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Administration",
+    "employeeId": "EMP-DDCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@dodoma.council.tz",
+    "role": "PermitsOfficer",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Finance",
+    "employeeId": "EMP-DDCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@dodoma.council.tz",
+    "role": "Councillor",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-DDCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@dodoma.council.tz",
+    "role": "Auditor",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Assets",
+    "employeeId": "EMP-DDCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@dodoma.council.tz",
+    "role": "TownClerk",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Property",
+    "employeeId": "EMP-DDCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@dodoma.council.tz",
+    "role": "DirectorOfFinance",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Planning",
+    "employeeId": "EMP-DDCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@dodoma.council.tz",
+    "role": "BudgetOfficer",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Legal",
+    "employeeId": "EMP-DDCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@dodoma.council.tz",
+    "role": "ProcurementOfficer",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Audit",
+    "employeeId": "EMP-DDCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@dodoma.council.tz",
+    "role": "AssetManager",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Administration",
+    "employeeId": "EMP-DDCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@dodoma.council.tz",
+    "role": "PropertyManager",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Finance",
+    "employeeId": "EMP-DDCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@dodoma.council.tz",
+    "role": "LandUseOfficer",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-DDCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@dodoma.council.tz",
+    "role": "PermitsOfficer",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Assets",
+    "employeeId": "EMP-DDCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@dodoma.council.tz",
+    "role": "Councillor",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Property",
+    "employeeId": "EMP-DDCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@dodoma.council.tz",
+    "role": "Auditor",
+    "tenantId": "dodoma-city-council",
+    "councilName": "Dodoma City Council",
+    "department": "Planning",
+    "employeeId": "EMP-DDCC-0030",
+    "isActive": true
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@accra.assembly.gh",
+    "role": "TownClerk",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Administration",
+    "employeeId": "EMP-AMA-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@accra.assembly.gh",
+    "role": "DirectorOfFinance",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Finance",
+    "employeeId": "EMP-AMA-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@accra.assembly.gh",
+    "role": "BudgetOfficer",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Procurement",
+    "employeeId": "EMP-AMA-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@accra.assembly.gh",
+    "role": "ProcurementOfficer",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Assets",
+    "employeeId": "EMP-AMA-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@accra.assembly.gh",
+    "role": "AssetManager",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Property",
+    "employeeId": "EMP-AMA-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@accra.assembly.gh",
+    "role": "PropertyManager",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Planning",
+    "employeeId": "EMP-AMA-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@accra.assembly.gh",
+    "role": "LandUseOfficer",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Legal",
+    "employeeId": "EMP-AMA-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@accra.assembly.gh",
+    "role": "PermitsOfficer",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Audit",
+    "employeeId": "EMP-AMA-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@accra.assembly.gh",
+    "role": "Councillor",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Administration",
+    "employeeId": "EMP-AMA-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@accra.assembly.gh",
+    "role": "Auditor",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Finance",
+    "employeeId": "EMP-AMA-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@accra.assembly.gh",
+    "role": "TownClerk",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Procurement",
+    "employeeId": "EMP-AMA-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@accra.assembly.gh",
+    "role": "DirectorOfFinance",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Assets",
+    "employeeId": "EMP-AMA-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@accra.assembly.gh",
+    "role": "BudgetOfficer",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Property",
+    "employeeId": "EMP-AMA-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@accra.assembly.gh",
+    "role": "ProcurementOfficer",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Planning",
+    "employeeId": "EMP-AMA-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@accra.assembly.gh",
+    "role": "AssetManager",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Legal",
+    "employeeId": "EMP-AMA-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@accra.assembly.gh",
+    "role": "PropertyManager",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Audit",
+    "employeeId": "EMP-AMA-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@accra.assembly.gh",
+    "role": "LandUseOfficer",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Administration",
+    "employeeId": "EMP-AMA-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@accra.assembly.gh",
+    "role": "PermitsOfficer",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Finance",
+    "employeeId": "EMP-AMA-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@accra.assembly.gh",
+    "role": "Councillor",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Procurement",
+    "employeeId": "EMP-AMA-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@accra.assembly.gh",
+    "role": "Auditor",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Assets",
+    "employeeId": "EMP-AMA-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@accra.assembly.gh",
+    "role": "TownClerk",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Property",
+    "employeeId": "EMP-AMA-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@accra.assembly.gh",
+    "role": "DirectorOfFinance",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Planning",
+    "employeeId": "EMP-AMA-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@accra.assembly.gh",
+    "role": "BudgetOfficer",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Legal",
+    "employeeId": "EMP-AMA-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@accra.assembly.gh",
+    "role": "ProcurementOfficer",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Audit",
+    "employeeId": "EMP-AMA-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@accra.assembly.gh",
+    "role": "AssetManager",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Administration",
+    "employeeId": "EMP-AMA-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@accra.assembly.gh",
+    "role": "PropertyManager",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Finance",
+    "employeeId": "EMP-AMA-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@accra.assembly.gh",
+    "role": "LandUseOfficer",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Procurement",
+    "employeeId": "EMP-AMA-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@accra.assembly.gh",
+    "role": "PermitsOfficer",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Assets",
+    "employeeId": "EMP-AMA-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@accra.assembly.gh",
+    "role": "Councillor",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Property",
+    "employeeId": "EMP-AMA-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@accra.assembly.gh",
+    "role": "Auditor",
+    "tenantId": "accra-metropolitan-assembly",
+    "councilName": "Accra Metropolitan Assembly",
+    "department": "Planning",
+    "employeeId": "EMP-AMA-0030",
+    "isActive": true
+  }
+]

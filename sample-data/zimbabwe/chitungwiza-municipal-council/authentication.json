@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@chitungwiza.council.zw",
+    "role": "TownClerk",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-CMC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@chitungwiza.council.zw",
+    "role": "DirectorOfFinance",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-CMC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@chitungwiza.council.zw",
+    "role": "BudgetOfficer",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-CMC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@chitungwiza.council.zw",
+    "role": "ProcurementOfficer",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-CMC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@chitungwiza.council.zw",
+    "role": "AssetManager",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-CMC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@chitungwiza.council.zw",
+    "role": "PropertyManager",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-CMC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@chitungwiza.council.zw",
+    "role": "LandUseOfficer",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-CMC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@chitungwiza.council.zw",
+    "role": "PermitsOfficer",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-CMC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@chitungwiza.council.zw",
+    "role": "Councillor",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-CMC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@chitungwiza.council.zw",
+    "role": "Auditor",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-CMC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@chitungwiza.council.zw",
+    "role": "TownClerk",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-CMC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@chitungwiza.council.zw",
+    "role": "DirectorOfFinance",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-CMC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@chitungwiza.council.zw",
+    "role": "BudgetOfficer",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-CMC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@chitungwiza.council.zw",
+    "role": "ProcurementOfficer",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-CMC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@chitungwiza.council.zw",
+    "role": "AssetManager",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-CMC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@chitungwiza.council.zw",
+    "role": "PropertyManager",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-CMC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@chitungwiza.council.zw",
+    "role": "LandUseOfficer",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-CMC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@chitungwiza.council.zw",
+    "role": "PermitsOfficer",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-CMC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@chitungwiza.council.zw",
+    "role": "Councillor",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-CMC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@chitungwiza.council.zw",
+    "role": "Auditor",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-CMC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@chitungwiza.council.zw",
+    "role": "TownClerk",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-CMC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@chitungwiza.council.zw",
+    "role": "DirectorOfFinance",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-CMC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@chitungwiza.council.zw",
+    "role": "BudgetOfficer",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-CMC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@chitungwiza.council.zw",
+    "role": "ProcurementOfficer",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-CMC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@chitungwiza.council.zw",
+    "role": "AssetManager",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-CMC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@chitungwiza.council.zw",
+    "role": "PropertyManager",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-CMC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@chitungwiza.council.zw",
+    "role": "LandUseOfficer",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-CMC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@chitungwiza.council.zw",
+    "role": "PermitsOfficer",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-CMC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@chitungwiza.council.zw",
+    "role": "Councillor",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-CMC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@chitungwiza.council.zw",
+    "role": "Auditor",
+    "tenantId": "chitungwiza-municipal-council",
+    "councilName": "Chitungwiza Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-CMC-0030",
+    "isActive": true
+  }
+]

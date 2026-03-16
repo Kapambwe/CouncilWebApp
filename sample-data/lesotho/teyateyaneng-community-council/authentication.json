@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@teyateyaneng.council.ls",
+    "role": "TownClerk",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Administration",
+    "employeeId": "EMP-TCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@teyateyaneng.council.ls",
+    "role": "DirectorOfFinance",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Finance",
+    "employeeId": "EMP-TCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@teyateyaneng.council.ls",
+    "role": "BudgetOfficer",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Procurement",
+    "employeeId": "EMP-TCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@teyateyaneng.council.ls",
+    "role": "ProcurementOfficer",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Assets",
+    "employeeId": "EMP-TCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@teyateyaneng.council.ls",
+    "role": "AssetManager",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Property",
+    "employeeId": "EMP-TCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@teyateyaneng.council.ls",
+    "role": "PropertyManager",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Planning",
+    "employeeId": "EMP-TCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@teyateyaneng.council.ls",
+    "role": "LandUseOfficer",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Legal",
+    "employeeId": "EMP-TCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@teyateyaneng.council.ls",
+    "role": "PermitsOfficer",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Audit",
+    "employeeId": "EMP-TCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@teyateyaneng.council.ls",
+    "role": "Councillor",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Administration",
+    "employeeId": "EMP-TCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@teyateyaneng.council.ls",
+    "role": "Auditor",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Finance",
+    "employeeId": "EMP-TCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@teyateyaneng.council.ls",
+    "role": "TownClerk",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Procurement",
+    "employeeId": "EMP-TCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@teyateyaneng.council.ls",
+    "role": "DirectorOfFinance",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Assets",
+    "employeeId": "EMP-TCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@teyateyaneng.council.ls",
+    "role": "BudgetOfficer",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Property",
+    "employeeId": "EMP-TCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@teyateyaneng.council.ls",
+    "role": "ProcurementOfficer",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Planning",
+    "employeeId": "EMP-TCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@teyateyaneng.council.ls",
+    "role": "AssetManager",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Legal",
+    "employeeId": "EMP-TCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@teyateyaneng.council.ls",
+    "role": "PropertyManager",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Audit",
+    "employeeId": "EMP-TCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@teyateyaneng.council.ls",
+    "role": "LandUseOfficer",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Administration",
+    "employeeId": "EMP-TCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@teyateyaneng.council.ls",
+    "role": "PermitsOfficer",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Finance",
+    "employeeId": "EMP-TCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@teyateyaneng.council.ls",
+    "role": "Councillor",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Procurement",
+    "employeeId": "EMP-TCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@teyateyaneng.council.ls",
+    "role": "Auditor",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Assets",
+    "employeeId": "EMP-TCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@teyateyaneng.council.ls",
+    "role": "TownClerk",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Property",
+    "employeeId": "EMP-TCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@teyateyaneng.council.ls",
+    "role": "DirectorOfFinance",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Planning",
+    "employeeId": "EMP-TCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@teyateyaneng.council.ls",
+    "role": "BudgetOfficer",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Legal",
+    "employeeId": "EMP-TCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@teyateyaneng.council.ls",
+    "role": "ProcurementOfficer",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Audit",
+    "employeeId": "EMP-TCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@teyateyaneng.council.ls",
+    "role": "AssetManager",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Administration",
+    "employeeId": "EMP-TCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@teyateyaneng.council.ls",
+    "role": "PropertyManager",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Finance",
+    "employeeId": "EMP-TCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@teyateyaneng.council.ls",
+    "role": "LandUseOfficer",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Procurement",
+    "employeeId": "EMP-TCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@teyateyaneng.council.ls",
+    "role": "PermitsOfficer",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Assets",
+    "employeeId": "EMP-TCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@teyateyaneng.council.ls",
+    "role": "Councillor",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Property",
+    "employeeId": "EMP-TCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@teyateyaneng.council.ls",
+    "role": "Auditor",
+    "tenantId": "teyateyaneng-community-council",
+    "councilName": "Teyateyaneng Community Council",
+    "department": "Planning",
+    "employeeId": "EMP-TCC-0030",
+    "isActive": true
+  }
+]

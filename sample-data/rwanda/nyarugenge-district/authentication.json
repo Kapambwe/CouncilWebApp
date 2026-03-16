@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@nyarugenge.district.rw",
+    "role": "TownClerk",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Administration",
+    "employeeId": "EMP-NYAR-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@nyarugenge.district.rw",
+    "role": "DirectorOfFinance",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Finance",
+    "employeeId": "EMP-NYAR-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@nyarugenge.district.rw",
+    "role": "BudgetOfficer",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Procurement",
+    "employeeId": "EMP-NYAR-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@nyarugenge.district.rw",
+    "role": "ProcurementOfficer",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Assets",
+    "employeeId": "EMP-NYAR-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@nyarugenge.district.rw",
+    "role": "AssetManager",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Property",
+    "employeeId": "EMP-NYAR-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@nyarugenge.district.rw",
+    "role": "PropertyManager",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Planning",
+    "employeeId": "EMP-NYAR-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@nyarugenge.district.rw",
+    "role": "LandUseOfficer",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Legal",
+    "employeeId": "EMP-NYAR-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@nyarugenge.district.rw",
+    "role": "PermitsOfficer",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Audit",
+    "employeeId": "EMP-NYAR-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@nyarugenge.district.rw",
+    "role": "Councillor",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Administration",
+    "employeeId": "EMP-NYAR-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@nyarugenge.district.rw",
+    "role": "Auditor",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Finance",
+    "employeeId": "EMP-NYAR-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@nyarugenge.district.rw",
+    "role": "TownClerk",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Procurement",
+    "employeeId": "EMP-NYAR-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@nyarugenge.district.rw",
+    "role": "DirectorOfFinance",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Assets",
+    "employeeId": "EMP-NYAR-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@nyarugenge.district.rw",
+    "role": "BudgetOfficer",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Property",
+    "employeeId": "EMP-NYAR-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@nyarugenge.district.rw",
+    "role": "ProcurementOfficer",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Planning",
+    "employeeId": "EMP-NYAR-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@nyarugenge.district.rw",
+    "role": "AssetManager",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Legal",
+    "employeeId": "EMP-NYAR-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@nyarugenge.district.rw",
+    "role": "PropertyManager",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Audit",
+    "employeeId": "EMP-NYAR-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@nyarugenge.district.rw",
+    "role": "LandUseOfficer",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Administration",
+    "employeeId": "EMP-NYAR-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@nyarugenge.district.rw",
+    "role": "PermitsOfficer",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Finance",
+    "employeeId": "EMP-NYAR-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@nyarugenge.district.rw",
+    "role": "Councillor",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Procurement",
+    "employeeId": "EMP-NYAR-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@nyarugenge.district.rw",
+    "role": "Auditor",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Assets",
+    "employeeId": "EMP-NYAR-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@nyarugenge.district.rw",
+    "role": "TownClerk",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Property",
+    "employeeId": "EMP-NYAR-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@nyarugenge.district.rw",
+    "role": "DirectorOfFinance",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Planning",
+    "employeeId": "EMP-NYAR-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@nyarugenge.district.rw",
+    "role": "BudgetOfficer",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Legal",
+    "employeeId": "EMP-NYAR-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@nyarugenge.district.rw",
+    "role": "ProcurementOfficer",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Audit",
+    "employeeId": "EMP-NYAR-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@nyarugenge.district.rw",
+    "role": "AssetManager",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Administration",
+    "employeeId": "EMP-NYAR-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@nyarugenge.district.rw",
+    "role": "PropertyManager",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Finance",
+    "employeeId": "EMP-NYAR-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@nyarugenge.district.rw",
+    "role": "LandUseOfficer",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Procurement",
+    "employeeId": "EMP-NYAR-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@nyarugenge.district.rw",
+    "role": "PermitsOfficer",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Assets",
+    "employeeId": "EMP-NYAR-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@nyarugenge.district.rw",
+    "role": "Councillor",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Property",
+    "employeeId": "EMP-NYAR-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@nyarugenge.district.rw",
+    "role": "Auditor",
+    "tenantId": "nyarugenge-district",
+    "councilName": "Nyarugenge District",
+    "department": "Planning",
+    "employeeId": "EMP-NYAR-0030",
+    "isActive": true
+  }
+]

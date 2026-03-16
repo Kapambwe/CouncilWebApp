@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@mahebourg.council.mu",
+    "role": "TownClerk",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Administration",
+    "employeeId": "EMP-GPDC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@mahebourg.council.mu",
+    "role": "DirectorOfFinance",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Finance",
+    "employeeId": "EMP-GPDC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@mahebourg.council.mu",
+    "role": "BudgetOfficer",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Procurement",
+    "employeeId": "EMP-GPDC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@mahebourg.council.mu",
+    "role": "ProcurementOfficer",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Assets",
+    "employeeId": "EMP-GPDC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@mahebourg.council.mu",
+    "role": "AssetManager",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Property",
+    "employeeId": "EMP-GPDC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@mahebourg.council.mu",
+    "role": "PropertyManager",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Planning",
+    "employeeId": "EMP-GPDC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@mahebourg.council.mu",
+    "role": "LandUseOfficer",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Legal",
+    "employeeId": "EMP-GPDC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@mahebourg.council.mu",
+    "role": "PermitsOfficer",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Audit",
+    "employeeId": "EMP-GPDC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@mahebourg.council.mu",
+    "role": "Councillor",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Administration",
+    "employeeId": "EMP-GPDC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@mahebourg.council.mu",
+    "role": "Auditor",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Finance",
+    "employeeId": "EMP-GPDC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@mahebourg.council.mu",
+    "role": "TownClerk",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Procurement",
+    "employeeId": "EMP-GPDC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@mahebourg.council.mu",
+    "role": "DirectorOfFinance",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Assets",
+    "employeeId": "EMP-GPDC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@mahebourg.council.mu",
+    "role": "BudgetOfficer",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Property",
+    "employeeId": "EMP-GPDC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@mahebourg.council.mu",
+    "role": "ProcurementOfficer",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Planning",
+    "employeeId": "EMP-GPDC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@mahebourg.council.mu",
+    "role": "AssetManager",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Legal",
+    "employeeId": "EMP-GPDC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@mahebourg.council.mu",
+    "role": "PropertyManager",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Audit",
+    "employeeId": "EMP-GPDC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@mahebourg.council.mu",
+    "role": "LandUseOfficer",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Administration",
+    "employeeId": "EMP-GPDC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@mahebourg.council.mu",
+    "role": "PermitsOfficer",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Finance",
+    "employeeId": "EMP-GPDC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@mahebourg.council.mu",
+    "role": "Councillor",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Procurement",
+    "employeeId": "EMP-GPDC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@mahebourg.council.mu",
+    "role": "Auditor",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Assets",
+    "employeeId": "EMP-GPDC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@mahebourg.council.mu",
+    "role": "TownClerk",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Property",
+    "employeeId": "EMP-GPDC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@mahebourg.council.mu",
+    "role": "DirectorOfFinance",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Planning",
+    "employeeId": "EMP-GPDC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@mahebourg.council.mu",
+    "role": "BudgetOfficer",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Legal",
+    "employeeId": "EMP-GPDC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@mahebourg.council.mu",
+    "role": "ProcurementOfficer",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Audit",
+    "employeeId": "EMP-GPDC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@mahebourg.council.mu",
+    "role": "AssetManager",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Administration",
+    "employeeId": "EMP-GPDC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@mahebourg.council.mu",
+    "role": "PropertyManager",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Finance",
+    "employeeId": "EMP-GPDC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@mahebourg.council.mu",
+    "role": "LandUseOfficer",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Procurement",
+    "employeeId": "EMP-GPDC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@mahebourg.council.mu",
+    "role": "PermitsOfficer",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Assets",
+    "employeeId": "EMP-GPDC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@mahebourg.council.mu",
+    "role": "Councillor",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Property",
+    "employeeId": "EMP-GPDC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@mahebourg.council.mu",
+    "role": "Auditor",
+    "tenantId": "grand-port-district-council",
+    "councilName": "Grand Port District Council",
+    "department": "Planning",
+    "employeeId": "EMP-GPDC-0030",
+    "isActive": true
+  }
+]

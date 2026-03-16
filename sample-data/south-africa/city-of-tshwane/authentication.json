@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@city-of-tshwane.council.za",
+    "role": "TownClerk",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Administration",
+    "employeeId": "EMP-COT-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@city-of-tshwane.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Finance",
+    "employeeId": "EMP-COT-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@city-of-tshwane.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Procurement",
+    "employeeId": "EMP-COT-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@city-of-tshwane.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Assets",
+    "employeeId": "EMP-COT-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@city-of-tshwane.council.za",
+    "role": "AssetManager",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Property",
+    "employeeId": "EMP-COT-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@city-of-tshwane.council.za",
+    "role": "PropertyManager",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Planning",
+    "employeeId": "EMP-COT-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@city-of-tshwane.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Legal",
+    "employeeId": "EMP-COT-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@city-of-tshwane.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Audit",
+    "employeeId": "EMP-COT-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@city-of-tshwane.council.za",
+    "role": "Councillor",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Administration",
+    "employeeId": "EMP-COT-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@city-of-tshwane.council.za",
+    "role": "Auditor",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Finance",
+    "employeeId": "EMP-COT-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@city-of-tshwane.council.za",
+    "role": "TownClerk",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Procurement",
+    "employeeId": "EMP-COT-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@city-of-tshwane.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Assets",
+    "employeeId": "EMP-COT-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@city-of-tshwane.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Property",
+    "employeeId": "EMP-COT-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@city-of-tshwane.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Planning",
+    "employeeId": "EMP-COT-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@city-of-tshwane.council.za",
+    "role": "AssetManager",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Legal",
+    "employeeId": "EMP-COT-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@city-of-tshwane.council.za",
+    "role": "PropertyManager",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Audit",
+    "employeeId": "EMP-COT-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@city-of-tshwane.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Administration",
+    "employeeId": "EMP-COT-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@city-of-tshwane.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Finance",
+    "employeeId": "EMP-COT-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@city-of-tshwane.council.za",
+    "role": "Councillor",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Procurement",
+    "employeeId": "EMP-COT-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@city-of-tshwane.council.za",
+    "role": "Auditor",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Assets",
+    "employeeId": "EMP-COT-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@city-of-tshwane.council.za",
+    "role": "TownClerk",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Property",
+    "employeeId": "EMP-COT-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@city-of-tshwane.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Planning",
+    "employeeId": "EMP-COT-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@city-of-tshwane.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Legal",
+    "employeeId": "EMP-COT-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@city-of-tshwane.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Audit",
+    "employeeId": "EMP-COT-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@city-of-tshwane.council.za",
+    "role": "AssetManager",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Administration",
+    "employeeId": "EMP-COT-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@city-of-tshwane.council.za",
+    "role": "PropertyManager",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Finance",
+    "employeeId": "EMP-COT-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@city-of-tshwane.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Procurement",
+    "employeeId": "EMP-COT-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@city-of-tshwane.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Assets",
+    "employeeId": "EMP-COT-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@city-of-tshwane.council.za",
+    "role": "Councillor",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Property",
+    "employeeId": "EMP-COT-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@city-of-tshwane.council.za",
+    "role": "Auditor",
+    "tenantId": "city-of-tshwane",
+    "councilName": "City of Tshwane",
+    "department": "Planning",
+    "employeeId": "EMP-COT-0030",
+    "isActive": true
+  }
+]

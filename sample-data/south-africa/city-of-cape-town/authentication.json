@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@city-of-cape-town.council.za",
+    "role": "TownClerk",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Administration",
+    "employeeId": "EMP-CCT-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@city-of-cape-town.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Finance",
+    "employeeId": "EMP-CCT-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@city-of-cape-town.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Procurement",
+    "employeeId": "EMP-CCT-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@city-of-cape-town.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Assets",
+    "employeeId": "EMP-CCT-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@city-of-cape-town.council.za",
+    "role": "AssetManager",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Property",
+    "employeeId": "EMP-CCT-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@city-of-cape-town.council.za",
+    "role": "PropertyManager",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Planning",
+    "employeeId": "EMP-CCT-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@city-of-cape-town.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Legal",
+    "employeeId": "EMP-CCT-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@city-of-cape-town.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Audit",
+    "employeeId": "EMP-CCT-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@city-of-cape-town.council.za",
+    "role": "Councillor",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Administration",
+    "employeeId": "EMP-CCT-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@city-of-cape-town.council.za",
+    "role": "Auditor",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Finance",
+    "employeeId": "EMP-CCT-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@city-of-cape-town.council.za",
+    "role": "TownClerk",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Procurement",
+    "employeeId": "EMP-CCT-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@city-of-cape-town.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Assets",
+    "employeeId": "EMP-CCT-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@city-of-cape-town.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Property",
+    "employeeId": "EMP-CCT-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@city-of-cape-town.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Planning",
+    "employeeId": "EMP-CCT-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@city-of-cape-town.council.za",
+    "role": "AssetManager",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Legal",
+    "employeeId": "EMP-CCT-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@city-of-cape-town.council.za",
+    "role": "PropertyManager",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Audit",
+    "employeeId": "EMP-CCT-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@city-of-cape-town.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Administration",
+    "employeeId": "EMP-CCT-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@city-of-cape-town.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Finance",
+    "employeeId": "EMP-CCT-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@city-of-cape-town.council.za",
+    "role": "Councillor",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Procurement",
+    "employeeId": "EMP-CCT-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@city-of-cape-town.council.za",
+    "role": "Auditor",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Assets",
+    "employeeId": "EMP-CCT-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@city-of-cape-town.council.za",
+    "role": "TownClerk",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Property",
+    "employeeId": "EMP-CCT-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@city-of-cape-town.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Planning",
+    "employeeId": "EMP-CCT-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@city-of-cape-town.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Legal",
+    "employeeId": "EMP-CCT-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@city-of-cape-town.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Audit",
+    "employeeId": "EMP-CCT-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@city-of-cape-town.council.za",
+    "role": "AssetManager",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Administration",
+    "employeeId": "EMP-CCT-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@city-of-cape-town.council.za",
+    "role": "PropertyManager",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Finance",
+    "employeeId": "EMP-CCT-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@city-of-cape-town.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Procurement",
+    "employeeId": "EMP-CCT-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@city-of-cape-town.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Assets",
+    "employeeId": "EMP-CCT-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@city-of-cape-town.council.za",
+    "role": "Councillor",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Property",
+    "employeeId": "EMP-CCT-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@city-of-cape-town.council.za",
+    "role": "Auditor",
+    "tenantId": "city-of-cape-town",
+    "councilName": "City of Cape Town",
+    "department": "Planning",
+    "employeeId": "EMP-CCT-0030",
+    "isActive": true
+  }
+]

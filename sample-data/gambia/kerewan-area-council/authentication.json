@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@kerewan.council.gm",
+    "role": "TownClerk",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Administration",
+    "employeeId": "EMP-KAC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@kerewan.council.gm",
+    "role": "DirectorOfFinance",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Finance",
+    "employeeId": "EMP-KAC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@kerewan.council.gm",
+    "role": "BudgetOfficer",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Procurement",
+    "employeeId": "EMP-KAC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@kerewan.council.gm",
+    "role": "ProcurementOfficer",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Assets",
+    "employeeId": "EMP-KAC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@kerewan.council.gm",
+    "role": "AssetManager",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Property",
+    "employeeId": "EMP-KAC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@kerewan.council.gm",
+    "role": "PropertyManager",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Planning",
+    "employeeId": "EMP-KAC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@kerewan.council.gm",
+    "role": "LandUseOfficer",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Legal",
+    "employeeId": "EMP-KAC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@kerewan.council.gm",
+    "role": "PermitsOfficer",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Audit",
+    "employeeId": "EMP-KAC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@kerewan.council.gm",
+    "role": "Councillor",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Administration",
+    "employeeId": "EMP-KAC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@kerewan.council.gm",
+    "role": "Auditor",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Finance",
+    "employeeId": "EMP-KAC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@kerewan.council.gm",
+    "role": "TownClerk",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Procurement",
+    "employeeId": "EMP-KAC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@kerewan.council.gm",
+    "role": "DirectorOfFinance",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Assets",
+    "employeeId": "EMP-KAC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@kerewan.council.gm",
+    "role": "BudgetOfficer",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Property",
+    "employeeId": "EMP-KAC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@kerewan.council.gm",
+    "role": "ProcurementOfficer",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Planning",
+    "employeeId": "EMP-KAC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@kerewan.council.gm",
+    "role": "AssetManager",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Legal",
+    "employeeId": "EMP-KAC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@kerewan.council.gm",
+    "role": "PropertyManager",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Audit",
+    "employeeId": "EMP-KAC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@kerewan.council.gm",
+    "role": "LandUseOfficer",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Administration",
+    "employeeId": "EMP-KAC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@kerewan.council.gm",
+    "role": "PermitsOfficer",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Finance",
+    "employeeId": "EMP-KAC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@kerewan.council.gm",
+    "role": "Councillor",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Procurement",
+    "employeeId": "EMP-KAC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@kerewan.council.gm",
+    "role": "Auditor",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Assets",
+    "employeeId": "EMP-KAC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@kerewan.council.gm",
+    "role": "TownClerk",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Property",
+    "employeeId": "EMP-KAC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@kerewan.council.gm",
+    "role": "DirectorOfFinance",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Planning",
+    "employeeId": "EMP-KAC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@kerewan.council.gm",
+    "role": "BudgetOfficer",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Legal",
+    "employeeId": "EMP-KAC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@kerewan.council.gm",
+    "role": "ProcurementOfficer",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Audit",
+    "employeeId": "EMP-KAC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@kerewan.council.gm",
+    "role": "AssetManager",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Administration",
+    "employeeId": "EMP-KAC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@kerewan.council.gm",
+    "role": "PropertyManager",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Finance",
+    "employeeId": "EMP-KAC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@kerewan.council.gm",
+    "role": "LandUseOfficer",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Procurement",
+    "employeeId": "EMP-KAC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@kerewan.council.gm",
+    "role": "PermitsOfficer",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Assets",
+    "employeeId": "EMP-KAC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@kerewan.council.gm",
+    "role": "Councillor",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Property",
+    "employeeId": "EMP-KAC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@kerewan.council.gm",
+    "role": "Auditor",
+    "tenantId": "kerewan-area-council",
+    "councilName": "Kerewan Area Council",
+    "department": "Planning",
+    "employeeId": "EMP-KAC-0030",
+    "isActive": true
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@voinjama.corporation.lr",
+    "role": "TownClerk",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Administration",
+    "employeeId": "EMP-VJCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@voinjama.corporation.lr",
+    "role": "DirectorOfFinance",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Finance",
+    "employeeId": "EMP-VJCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@voinjama.corporation.lr",
+    "role": "BudgetOfficer",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Procurement",
+    "employeeId": "EMP-VJCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@voinjama.corporation.lr",
+    "role": "ProcurementOfficer",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Assets",
+    "employeeId": "EMP-VJCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@voinjama.corporation.lr",
+    "role": "AssetManager",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Property",
+    "employeeId": "EMP-VJCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@voinjama.corporation.lr",
+    "role": "PropertyManager",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Planning",
+    "employeeId": "EMP-VJCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@voinjama.corporation.lr",
+    "role": "LandUseOfficer",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Legal",
+    "employeeId": "EMP-VJCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@voinjama.corporation.lr",
+    "role": "PermitsOfficer",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Audit",
+    "employeeId": "EMP-VJCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@voinjama.corporation.lr",
+    "role": "Councillor",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Administration",
+    "employeeId": "EMP-VJCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@voinjama.corporation.lr",
+    "role": "Auditor",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Finance",
+    "employeeId": "EMP-VJCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@voinjama.corporation.lr",
+    "role": "TownClerk",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Procurement",
+    "employeeId": "EMP-VJCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@voinjama.corporation.lr",
+    "role": "DirectorOfFinance",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Assets",
+    "employeeId": "EMP-VJCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@voinjama.corporation.lr",
+    "role": "BudgetOfficer",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Property",
+    "employeeId": "EMP-VJCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@voinjama.corporation.lr",
+    "role": "ProcurementOfficer",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Planning",
+    "employeeId": "EMP-VJCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@voinjama.corporation.lr",
+    "role": "AssetManager",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Legal",
+    "employeeId": "EMP-VJCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@voinjama.corporation.lr",
+    "role": "PropertyManager",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Audit",
+    "employeeId": "EMP-VJCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@voinjama.corporation.lr",
+    "role": "LandUseOfficer",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Administration",
+    "employeeId": "EMP-VJCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@voinjama.corporation.lr",
+    "role": "PermitsOfficer",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Finance",
+    "employeeId": "EMP-VJCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@voinjama.corporation.lr",
+    "role": "Councillor",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Procurement",
+    "employeeId": "EMP-VJCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@voinjama.corporation.lr",
+    "role": "Auditor",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Assets",
+    "employeeId": "EMP-VJCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@voinjama.corporation.lr",
+    "role": "TownClerk",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Property",
+    "employeeId": "EMP-VJCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@voinjama.corporation.lr",
+    "role": "DirectorOfFinance",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Planning",
+    "employeeId": "EMP-VJCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@voinjama.corporation.lr",
+    "role": "BudgetOfficer",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Legal",
+    "employeeId": "EMP-VJCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@voinjama.corporation.lr",
+    "role": "ProcurementOfficer",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Audit",
+    "employeeId": "EMP-VJCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@voinjama.corporation.lr",
+    "role": "AssetManager",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Administration",
+    "employeeId": "EMP-VJCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@voinjama.corporation.lr",
+    "role": "PropertyManager",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Finance",
+    "employeeId": "EMP-VJCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@voinjama.corporation.lr",
+    "role": "LandUseOfficer",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Procurement",
+    "employeeId": "EMP-VJCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@voinjama.corporation.lr",
+    "role": "PermitsOfficer",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Assets",
+    "employeeId": "EMP-VJCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@voinjama.corporation.lr",
+    "role": "Councillor",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Property",
+    "employeeId": "EMP-VJCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@voinjama.corporation.lr",
+    "role": "Auditor",
+    "tenantId": "voinjama-city-corporation",
+    "councilName": "Voinjama City Corporation",
+    "department": "Planning",
+    "employeeId": "EMP-VJCC-0030",
+    "isActive": true
+  }
+]

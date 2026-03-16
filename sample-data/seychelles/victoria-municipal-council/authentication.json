@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@victoria.district.sc",
+    "role": "TownClerk",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-VMC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@victoria.district.sc",
+    "role": "DirectorOfFinance",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-VMC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@victoria.district.sc",
+    "role": "BudgetOfficer",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-VMC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@victoria.district.sc",
+    "role": "ProcurementOfficer",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-VMC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@victoria.district.sc",
+    "role": "AssetManager",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-VMC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@victoria.district.sc",
+    "role": "PropertyManager",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-VMC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@victoria.district.sc",
+    "role": "LandUseOfficer",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-VMC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@victoria.district.sc",
+    "role": "PermitsOfficer",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-VMC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@victoria.district.sc",
+    "role": "Councillor",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-VMC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@victoria.district.sc",
+    "role": "Auditor",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-VMC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@victoria.district.sc",
+    "role": "TownClerk",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-VMC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@victoria.district.sc",
+    "role": "DirectorOfFinance",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-VMC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@victoria.district.sc",
+    "role": "BudgetOfficer",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-VMC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@victoria.district.sc",
+    "role": "ProcurementOfficer",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-VMC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@victoria.district.sc",
+    "role": "AssetManager",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-VMC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@victoria.district.sc",
+    "role": "PropertyManager",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-VMC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@victoria.district.sc",
+    "role": "LandUseOfficer",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-VMC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@victoria.district.sc",
+    "role": "PermitsOfficer",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-VMC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@victoria.district.sc",
+    "role": "Councillor",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-VMC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@victoria.district.sc",
+    "role": "Auditor",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-VMC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@victoria.district.sc",
+    "role": "TownClerk",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-VMC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@victoria.district.sc",
+    "role": "DirectorOfFinance",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-VMC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@victoria.district.sc",
+    "role": "BudgetOfficer",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-VMC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@victoria.district.sc",
+    "role": "ProcurementOfficer",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-VMC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@victoria.district.sc",
+    "role": "AssetManager",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-VMC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@victoria.district.sc",
+    "role": "PropertyManager",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-VMC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@victoria.district.sc",
+    "role": "LandUseOfficer",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-VMC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@victoria.district.sc",
+    "role": "PermitsOfficer",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-VMC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@victoria.district.sc",
+    "role": "Councillor",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-VMC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@victoria.district.sc",
+    "role": "Auditor",
+    "tenantId": "victoria-municipal-council",
+    "councilName": "Victoria Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-VMC-0030",
+    "isActive": true
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@freetown.council.sl",
+    "role": "TownClerk",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Administration",
+    "employeeId": "EMP-FCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@freetown.council.sl",
+    "role": "DirectorOfFinance",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Finance",
+    "employeeId": "EMP-FCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@freetown.council.sl",
+    "role": "BudgetOfficer",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-FCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@freetown.council.sl",
+    "role": "ProcurementOfficer",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Assets",
+    "employeeId": "EMP-FCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@freetown.council.sl",
+    "role": "AssetManager",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Property",
+    "employeeId": "EMP-FCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@freetown.council.sl",
+    "role": "PropertyManager",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Planning",
+    "employeeId": "EMP-FCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@freetown.council.sl",
+    "role": "LandUseOfficer",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Legal",
+    "employeeId": "EMP-FCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@freetown.council.sl",
+    "role": "PermitsOfficer",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Audit",
+    "employeeId": "EMP-FCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@freetown.council.sl",
+    "role": "Councillor",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Administration",
+    "employeeId": "EMP-FCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@freetown.council.sl",
+    "role": "Auditor",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Finance",
+    "employeeId": "EMP-FCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@freetown.council.sl",
+    "role": "TownClerk",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-FCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@freetown.council.sl",
+    "role": "DirectorOfFinance",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Assets",
+    "employeeId": "EMP-FCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@freetown.council.sl",
+    "role": "BudgetOfficer",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Property",
+    "employeeId": "EMP-FCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@freetown.council.sl",
+    "role": "ProcurementOfficer",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Planning",
+    "employeeId": "EMP-FCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@freetown.council.sl",
+    "role": "AssetManager",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Legal",
+    "employeeId": "EMP-FCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@freetown.council.sl",
+    "role": "PropertyManager",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Audit",
+    "employeeId": "EMP-FCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@freetown.council.sl",
+    "role": "LandUseOfficer",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Administration",
+    "employeeId": "EMP-FCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@freetown.council.sl",
+    "role": "PermitsOfficer",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Finance",
+    "employeeId": "EMP-FCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@freetown.council.sl",
+    "role": "Councillor",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-FCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@freetown.council.sl",
+    "role": "Auditor",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Assets",
+    "employeeId": "EMP-FCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@freetown.council.sl",
+    "role": "TownClerk",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Property",
+    "employeeId": "EMP-FCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@freetown.council.sl",
+    "role": "DirectorOfFinance",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Planning",
+    "employeeId": "EMP-FCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@freetown.council.sl",
+    "role": "BudgetOfficer",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Legal",
+    "employeeId": "EMP-FCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@freetown.council.sl",
+    "role": "ProcurementOfficer",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Audit",
+    "employeeId": "EMP-FCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@freetown.council.sl",
+    "role": "AssetManager",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Administration",
+    "employeeId": "EMP-FCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@freetown.council.sl",
+    "role": "PropertyManager",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Finance",
+    "employeeId": "EMP-FCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@freetown.council.sl",
+    "role": "LandUseOfficer",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-FCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@freetown.council.sl",
+    "role": "PermitsOfficer",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Assets",
+    "employeeId": "EMP-FCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@freetown.council.sl",
+    "role": "Councillor",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Property",
+    "employeeId": "EMP-FCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@freetown.council.sl",
+    "role": "Auditor",
+    "tenantId": "freetown-city-council",
+    "councilName": "Freetown City Council",
+    "department": "Planning",
+    "employeeId": "EMP-FCC-0030",
+    "isActive": true
+  }
+]

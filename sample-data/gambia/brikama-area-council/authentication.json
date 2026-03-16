@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@brikama.council.gm",
+    "role": "TownClerk",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Administration",
+    "employeeId": "EMP-BAC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@brikama.council.gm",
+    "role": "DirectorOfFinance",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Finance",
+    "employeeId": "EMP-BAC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@brikama.council.gm",
+    "role": "BudgetOfficer",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Procurement",
+    "employeeId": "EMP-BAC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@brikama.council.gm",
+    "role": "ProcurementOfficer",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Assets",
+    "employeeId": "EMP-BAC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@brikama.council.gm",
+    "role": "AssetManager",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Property",
+    "employeeId": "EMP-BAC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@brikama.council.gm",
+    "role": "PropertyManager",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Planning",
+    "employeeId": "EMP-BAC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@brikama.council.gm",
+    "role": "LandUseOfficer",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Legal",
+    "employeeId": "EMP-BAC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@brikama.council.gm",
+    "role": "PermitsOfficer",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Audit",
+    "employeeId": "EMP-BAC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@brikama.council.gm",
+    "role": "Councillor",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Administration",
+    "employeeId": "EMP-BAC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@brikama.council.gm",
+    "role": "Auditor",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Finance",
+    "employeeId": "EMP-BAC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@brikama.council.gm",
+    "role": "TownClerk",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Procurement",
+    "employeeId": "EMP-BAC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@brikama.council.gm",
+    "role": "DirectorOfFinance",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Assets",
+    "employeeId": "EMP-BAC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@brikama.council.gm",
+    "role": "BudgetOfficer",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Property",
+    "employeeId": "EMP-BAC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@brikama.council.gm",
+    "role": "ProcurementOfficer",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Planning",
+    "employeeId": "EMP-BAC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@brikama.council.gm",
+    "role": "AssetManager",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Legal",
+    "employeeId": "EMP-BAC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@brikama.council.gm",
+    "role": "PropertyManager",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Audit",
+    "employeeId": "EMP-BAC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@brikama.council.gm",
+    "role": "LandUseOfficer",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Administration",
+    "employeeId": "EMP-BAC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@brikama.council.gm",
+    "role": "PermitsOfficer",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Finance",
+    "employeeId": "EMP-BAC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@brikama.council.gm",
+    "role": "Councillor",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Procurement",
+    "employeeId": "EMP-BAC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@brikama.council.gm",
+    "role": "Auditor",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Assets",
+    "employeeId": "EMP-BAC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@brikama.council.gm",
+    "role": "TownClerk",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Property",
+    "employeeId": "EMP-BAC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@brikama.council.gm",
+    "role": "DirectorOfFinance",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Planning",
+    "employeeId": "EMP-BAC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@brikama.council.gm",
+    "role": "BudgetOfficer",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Legal",
+    "employeeId": "EMP-BAC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@brikama.council.gm",
+    "role": "ProcurementOfficer",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Audit",
+    "employeeId": "EMP-BAC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@brikama.council.gm",
+    "role": "AssetManager",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Administration",
+    "employeeId": "EMP-BAC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@brikama.council.gm",
+    "role": "PropertyManager",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Finance",
+    "employeeId": "EMP-BAC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@brikama.council.gm",
+    "role": "LandUseOfficer",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Procurement",
+    "employeeId": "EMP-BAC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@brikama.council.gm",
+    "role": "PermitsOfficer",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Assets",
+    "employeeId": "EMP-BAC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@brikama.council.gm",
+    "role": "Councillor",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Property",
+    "employeeId": "EMP-BAC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@brikama.council.gm",
+    "role": "Auditor",
+    "tenantId": "brikama-area-council",
+    "councilName": "Brikama Area Council",
+    "department": "Planning",
+    "employeeId": "EMP-BAC-0030",
+    "isActive": true
+  }
+]

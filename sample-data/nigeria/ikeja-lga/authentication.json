@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@ikeja.lga.ng",
+    "role": "TownClerk",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Administration",
+    "employeeId": "EMP-IKEJA-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@ikeja.lga.ng",
+    "role": "DirectorOfFinance",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Finance",
+    "employeeId": "EMP-IKEJA-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@ikeja.lga.ng",
+    "role": "BudgetOfficer",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Procurement",
+    "employeeId": "EMP-IKEJA-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@ikeja.lga.ng",
+    "role": "ProcurementOfficer",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Assets",
+    "employeeId": "EMP-IKEJA-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@ikeja.lga.ng",
+    "role": "AssetManager",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Property",
+    "employeeId": "EMP-IKEJA-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@ikeja.lga.ng",
+    "role": "PropertyManager",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Planning",
+    "employeeId": "EMP-IKEJA-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@ikeja.lga.ng",
+    "role": "LandUseOfficer",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Legal",
+    "employeeId": "EMP-IKEJA-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@ikeja.lga.ng",
+    "role": "PermitsOfficer",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Audit",
+    "employeeId": "EMP-IKEJA-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@ikeja.lga.ng",
+    "role": "Councillor",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Administration",
+    "employeeId": "EMP-IKEJA-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@ikeja.lga.ng",
+    "role": "Auditor",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Finance",
+    "employeeId": "EMP-IKEJA-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@ikeja.lga.ng",
+    "role": "TownClerk",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Procurement",
+    "employeeId": "EMP-IKEJA-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@ikeja.lga.ng",
+    "role": "DirectorOfFinance",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Assets",
+    "employeeId": "EMP-IKEJA-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@ikeja.lga.ng",
+    "role": "BudgetOfficer",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Property",
+    "employeeId": "EMP-IKEJA-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@ikeja.lga.ng",
+    "role": "ProcurementOfficer",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Planning",
+    "employeeId": "EMP-IKEJA-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@ikeja.lga.ng",
+    "role": "AssetManager",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Legal",
+    "employeeId": "EMP-IKEJA-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@ikeja.lga.ng",
+    "role": "PropertyManager",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Audit",
+    "employeeId": "EMP-IKEJA-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@ikeja.lga.ng",
+    "role": "LandUseOfficer",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Administration",
+    "employeeId": "EMP-IKEJA-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@ikeja.lga.ng",
+    "role": "PermitsOfficer",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Finance",
+    "employeeId": "EMP-IKEJA-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@ikeja.lga.ng",
+    "role": "Councillor",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Procurement",
+    "employeeId": "EMP-IKEJA-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@ikeja.lga.ng",
+    "role": "Auditor",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Assets",
+    "employeeId": "EMP-IKEJA-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@ikeja.lga.ng",
+    "role": "TownClerk",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Property",
+    "employeeId": "EMP-IKEJA-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@ikeja.lga.ng",
+    "role": "DirectorOfFinance",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Planning",
+    "employeeId": "EMP-IKEJA-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@ikeja.lga.ng",
+    "role": "BudgetOfficer",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Legal",
+    "employeeId": "EMP-IKEJA-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@ikeja.lga.ng",
+    "role": "ProcurementOfficer",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Audit",
+    "employeeId": "EMP-IKEJA-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@ikeja.lga.ng",
+    "role": "AssetManager",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Administration",
+    "employeeId": "EMP-IKEJA-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@ikeja.lga.ng",
+    "role": "PropertyManager",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Finance",
+    "employeeId": "EMP-IKEJA-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@ikeja.lga.ng",
+    "role": "LandUseOfficer",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Procurement",
+    "employeeId": "EMP-IKEJA-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@ikeja.lga.ng",
+    "role": "PermitsOfficer",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Assets",
+    "employeeId": "EMP-IKEJA-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@ikeja.lga.ng",
+    "role": "Councillor",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Property",
+    "employeeId": "EMP-IKEJA-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@ikeja.lga.ng",
+    "role": "Auditor",
+    "tenantId": "ikeja-lga",
+    "councilName": "Ikeja LGA",
+    "department": "Planning",
+    "employeeId": "EMP-IKEJA-0030",
+    "isActive": true
+  }
+]

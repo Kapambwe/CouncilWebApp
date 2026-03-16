@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@mogale-city.council.za",
+    "role": "TownClerk",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-MCLM-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@mogale-city.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-MCLM-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@mogale-city.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-MCLM-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@mogale-city.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-MCLM-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@mogale-city.council.za",
+    "role": "AssetManager",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-MCLM-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@mogale-city.council.za",
+    "role": "PropertyManager",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-MCLM-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@mogale-city.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-MCLM-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@mogale-city.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-MCLM-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@mogale-city.council.za",
+    "role": "Councillor",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-MCLM-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@mogale-city.council.za",
+    "role": "Auditor",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-MCLM-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@mogale-city.council.za",
+    "role": "TownClerk",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-MCLM-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@mogale-city.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-MCLM-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@mogale-city.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-MCLM-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@mogale-city.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-MCLM-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@mogale-city.council.za",
+    "role": "AssetManager",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-MCLM-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@mogale-city.council.za",
+    "role": "PropertyManager",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-MCLM-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@mogale-city.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-MCLM-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@mogale-city.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-MCLM-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@mogale-city.council.za",
+    "role": "Councillor",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-MCLM-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@mogale-city.council.za",
+    "role": "Auditor",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-MCLM-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@mogale-city.council.za",
+    "role": "TownClerk",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-MCLM-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@mogale-city.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-MCLM-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@mogale-city.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-MCLM-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@mogale-city.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-MCLM-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@mogale-city.council.za",
+    "role": "AssetManager",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-MCLM-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@mogale-city.council.za",
+    "role": "PropertyManager",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-MCLM-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@mogale-city.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-MCLM-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@mogale-city.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-MCLM-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@mogale-city.council.za",
+    "role": "Councillor",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-MCLM-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@mogale-city.council.za",
+    "role": "Auditor",
+    "tenantId": "mogale-city-local-municipality",
+    "councilName": "Mogale City Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-MCLM-0030",
+    "isActive": true
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@muhanga.district.rw",
+    "role": "TownClerk",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Administration",
+    "employeeId": "EMP-MUHA-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@muhanga.district.rw",
+    "role": "DirectorOfFinance",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Finance",
+    "employeeId": "EMP-MUHA-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@muhanga.district.rw",
+    "role": "BudgetOfficer",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Procurement",
+    "employeeId": "EMP-MUHA-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@muhanga.district.rw",
+    "role": "ProcurementOfficer",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Assets",
+    "employeeId": "EMP-MUHA-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@muhanga.district.rw",
+    "role": "AssetManager",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Property",
+    "employeeId": "EMP-MUHA-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@muhanga.district.rw",
+    "role": "PropertyManager",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Planning",
+    "employeeId": "EMP-MUHA-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@muhanga.district.rw",
+    "role": "LandUseOfficer",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Legal",
+    "employeeId": "EMP-MUHA-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@muhanga.district.rw",
+    "role": "PermitsOfficer",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Audit",
+    "employeeId": "EMP-MUHA-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@muhanga.district.rw",
+    "role": "Councillor",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Administration",
+    "employeeId": "EMP-MUHA-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@muhanga.district.rw",
+    "role": "Auditor",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Finance",
+    "employeeId": "EMP-MUHA-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@muhanga.district.rw",
+    "role": "TownClerk",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Procurement",
+    "employeeId": "EMP-MUHA-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@muhanga.district.rw",
+    "role": "DirectorOfFinance",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Assets",
+    "employeeId": "EMP-MUHA-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@muhanga.district.rw",
+    "role": "BudgetOfficer",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Property",
+    "employeeId": "EMP-MUHA-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@muhanga.district.rw",
+    "role": "ProcurementOfficer",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Planning",
+    "employeeId": "EMP-MUHA-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@muhanga.district.rw",
+    "role": "AssetManager",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Legal",
+    "employeeId": "EMP-MUHA-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@muhanga.district.rw",
+    "role": "PropertyManager",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Audit",
+    "employeeId": "EMP-MUHA-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@muhanga.district.rw",
+    "role": "LandUseOfficer",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Administration",
+    "employeeId": "EMP-MUHA-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@muhanga.district.rw",
+    "role": "PermitsOfficer",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Finance",
+    "employeeId": "EMP-MUHA-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@muhanga.district.rw",
+    "role": "Councillor",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Procurement",
+    "employeeId": "EMP-MUHA-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@muhanga.district.rw",
+    "role": "Auditor",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Assets",
+    "employeeId": "EMP-MUHA-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@muhanga.district.rw",
+    "role": "TownClerk",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Property",
+    "employeeId": "EMP-MUHA-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@muhanga.district.rw",
+    "role": "DirectorOfFinance",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Planning",
+    "employeeId": "EMP-MUHA-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@muhanga.district.rw",
+    "role": "BudgetOfficer",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Legal",
+    "employeeId": "EMP-MUHA-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@muhanga.district.rw",
+    "role": "ProcurementOfficer",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Audit",
+    "employeeId": "EMP-MUHA-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@muhanga.district.rw",
+    "role": "AssetManager",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Administration",
+    "employeeId": "EMP-MUHA-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@muhanga.district.rw",
+    "role": "PropertyManager",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Finance",
+    "employeeId": "EMP-MUHA-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@muhanga.district.rw",
+    "role": "LandUseOfficer",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Procurement",
+    "employeeId": "EMP-MUHA-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@muhanga.district.rw",
+    "role": "PermitsOfficer",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Assets",
+    "employeeId": "EMP-MUHA-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@muhanga.district.rw",
+    "role": "Councillor",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Property",
+    "employeeId": "EMP-MUHA-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@muhanga.district.rw",
+    "role": "Auditor",
+    "tenantId": "muhanga-district",
+    "councilName": "Muhanga District",
+    "department": "Planning",
+    "employeeId": "EMP-MUHA-0030",
+    "isActive": true
+  }
+]

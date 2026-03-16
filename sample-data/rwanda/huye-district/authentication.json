@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@huye.district.rw",
+    "role": "TownClerk",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Administration",
+    "employeeId": "EMP-HUYE-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@huye.district.rw",
+    "role": "DirectorOfFinance",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Finance",
+    "employeeId": "EMP-HUYE-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@huye.district.rw",
+    "role": "BudgetOfficer",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Procurement",
+    "employeeId": "EMP-HUYE-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@huye.district.rw",
+    "role": "ProcurementOfficer",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Assets",
+    "employeeId": "EMP-HUYE-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@huye.district.rw",
+    "role": "AssetManager",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Property",
+    "employeeId": "EMP-HUYE-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@huye.district.rw",
+    "role": "PropertyManager",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Planning",
+    "employeeId": "EMP-HUYE-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@huye.district.rw",
+    "role": "LandUseOfficer",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Legal",
+    "employeeId": "EMP-HUYE-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@huye.district.rw",
+    "role": "PermitsOfficer",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Audit",
+    "employeeId": "EMP-HUYE-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@huye.district.rw",
+    "role": "Councillor",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Administration",
+    "employeeId": "EMP-HUYE-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@huye.district.rw",
+    "role": "Auditor",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Finance",
+    "employeeId": "EMP-HUYE-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@huye.district.rw",
+    "role": "TownClerk",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Procurement",
+    "employeeId": "EMP-HUYE-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@huye.district.rw",
+    "role": "DirectorOfFinance",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Assets",
+    "employeeId": "EMP-HUYE-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@huye.district.rw",
+    "role": "BudgetOfficer",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Property",
+    "employeeId": "EMP-HUYE-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@huye.district.rw",
+    "role": "ProcurementOfficer",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Planning",
+    "employeeId": "EMP-HUYE-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@huye.district.rw",
+    "role": "AssetManager",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Legal",
+    "employeeId": "EMP-HUYE-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@huye.district.rw",
+    "role": "PropertyManager",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Audit",
+    "employeeId": "EMP-HUYE-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@huye.district.rw",
+    "role": "LandUseOfficer",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Administration",
+    "employeeId": "EMP-HUYE-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@huye.district.rw",
+    "role": "PermitsOfficer",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Finance",
+    "employeeId": "EMP-HUYE-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@huye.district.rw",
+    "role": "Councillor",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Procurement",
+    "employeeId": "EMP-HUYE-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@huye.district.rw",
+    "role": "Auditor",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Assets",
+    "employeeId": "EMP-HUYE-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@huye.district.rw",
+    "role": "TownClerk",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Property",
+    "employeeId": "EMP-HUYE-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@huye.district.rw",
+    "role": "DirectorOfFinance",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Planning",
+    "employeeId": "EMP-HUYE-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@huye.district.rw",
+    "role": "BudgetOfficer",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Legal",
+    "employeeId": "EMP-HUYE-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@huye.district.rw",
+    "role": "ProcurementOfficer",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Audit",
+    "employeeId": "EMP-HUYE-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@huye.district.rw",
+    "role": "AssetManager",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Administration",
+    "employeeId": "EMP-HUYE-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@huye.district.rw",
+    "role": "PropertyManager",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Finance",
+    "employeeId": "EMP-HUYE-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@huye.district.rw",
+    "role": "LandUseOfficer",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Procurement",
+    "employeeId": "EMP-HUYE-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@huye.district.rw",
+    "role": "PermitsOfficer",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Assets",
+    "employeeId": "EMP-HUYE-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@huye.district.rw",
+    "role": "Councillor",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Property",
+    "employeeId": "EMP-HUYE-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@huye.district.rw",
+    "role": "Auditor",
+    "tenantId": "huye-district",
+    "councilName": "Huye District",
+    "department": "Planning",
+    "employeeId": "EMP-HUYE-0030",
+    "isActive": true
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@mutare.council.zw",
+    "role": "TownClerk",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Administration",
+    "employeeId": "EMP-MTCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@mutare.council.zw",
+    "role": "DirectorOfFinance",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Finance",
+    "employeeId": "EMP-MTCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@mutare.council.zw",
+    "role": "BudgetOfficer",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MTCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@mutare.council.zw",
+    "role": "ProcurementOfficer",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Assets",
+    "employeeId": "EMP-MTCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@mutare.council.zw",
+    "role": "AssetManager",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Property",
+    "employeeId": "EMP-MTCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@mutare.council.zw",
+    "role": "PropertyManager",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Planning",
+    "employeeId": "EMP-MTCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@mutare.council.zw",
+    "role": "LandUseOfficer",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Legal",
+    "employeeId": "EMP-MTCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@mutare.council.zw",
+    "role": "PermitsOfficer",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Audit",
+    "employeeId": "EMP-MTCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@mutare.council.zw",
+    "role": "Councillor",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Administration",
+    "employeeId": "EMP-MTCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@mutare.council.zw",
+    "role": "Auditor",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Finance",
+    "employeeId": "EMP-MTCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@mutare.council.zw",
+    "role": "TownClerk",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MTCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@mutare.council.zw",
+    "role": "DirectorOfFinance",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Assets",
+    "employeeId": "EMP-MTCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@mutare.council.zw",
+    "role": "BudgetOfficer",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Property",
+    "employeeId": "EMP-MTCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@mutare.council.zw",
+    "role": "ProcurementOfficer",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Planning",
+    "employeeId": "EMP-MTCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@mutare.council.zw",
+    "role": "AssetManager",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Legal",
+    "employeeId": "EMP-MTCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@mutare.council.zw",
+    "role": "PropertyManager",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Audit",
+    "employeeId": "EMP-MTCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@mutare.council.zw",
+    "role": "LandUseOfficer",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Administration",
+    "employeeId": "EMP-MTCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@mutare.council.zw",
+    "role": "PermitsOfficer",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Finance",
+    "employeeId": "EMP-MTCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@mutare.council.zw",
+    "role": "Councillor",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MTCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@mutare.council.zw",
+    "role": "Auditor",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Assets",
+    "employeeId": "EMP-MTCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@mutare.council.zw",
+    "role": "TownClerk",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Property",
+    "employeeId": "EMP-MTCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@mutare.council.zw",
+    "role": "DirectorOfFinance",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Planning",
+    "employeeId": "EMP-MTCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@mutare.council.zw",
+    "role": "BudgetOfficer",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Legal",
+    "employeeId": "EMP-MTCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@mutare.council.zw",
+    "role": "ProcurementOfficer",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Audit",
+    "employeeId": "EMP-MTCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@mutare.council.zw",
+    "role": "AssetManager",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Administration",
+    "employeeId": "EMP-MTCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@mutare.council.zw",
+    "role": "PropertyManager",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Finance",
+    "employeeId": "EMP-MTCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@mutare.council.zw",
+    "role": "LandUseOfficer",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MTCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@mutare.council.zw",
+    "role": "PermitsOfficer",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Assets",
+    "employeeId": "EMP-MTCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@mutare.council.zw",
+    "role": "Councillor",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Property",
+    "employeeId": "EMP-MTCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@mutare.council.zw",
+    "role": "Auditor",
+    "tenantId": "mutare-city-council",
+    "councilName": "Mutare City Council",
+    "department": "Planning",
+    "employeeId": "EMP-MTCC-0030",
+    "isActive": true
+  }
+]

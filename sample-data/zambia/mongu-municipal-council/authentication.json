@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@mongu.council.zm",
+    "role": "TownClerk",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-MGMC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@mongu.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-MGMC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@mongu.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MGMC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@mongu.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-MGMC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@mongu.council.zm",
+    "role": "AssetManager",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-MGMC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@mongu.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-MGMC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@mongu.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-MGMC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@mongu.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-MGMC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@mongu.council.zm",
+    "role": "Councillor",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-MGMC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@mongu.council.zm",
+    "role": "Auditor",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-MGMC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@mongu.council.zm",
+    "role": "TownClerk",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MGMC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@mongu.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-MGMC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@mongu.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-MGMC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@mongu.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-MGMC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@mongu.council.zm",
+    "role": "AssetManager",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-MGMC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@mongu.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-MGMC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@mongu.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-MGMC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@mongu.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-MGMC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@mongu.council.zm",
+    "role": "Councillor",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MGMC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@mongu.council.zm",
+    "role": "Auditor",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-MGMC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@mongu.council.zm",
+    "role": "TownClerk",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-MGMC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@mongu.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-MGMC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@mongu.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-MGMC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@mongu.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-MGMC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@mongu.council.zm",
+    "role": "AssetManager",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-MGMC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@mongu.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-MGMC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@mongu.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MGMC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@mongu.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-MGMC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@mongu.council.zm",
+    "role": "Councillor",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-MGMC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@mongu.council.zm",
+    "role": "Auditor",
+    "tenantId": "mongu-municipal-council",
+    "councilName": "Mongu Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-MGMC-0030",
+    "isActive": true
+  }
+]

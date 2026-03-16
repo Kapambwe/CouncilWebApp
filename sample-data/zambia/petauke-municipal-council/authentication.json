@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@petauke.council.zm",
+    "role": "TownClerk",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-PTMC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@petauke.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-PTMC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@petauke.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-PTMC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@petauke.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-PTMC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@petauke.council.zm",
+    "role": "AssetManager",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-PTMC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@petauke.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-PTMC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@petauke.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-PTMC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@petauke.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-PTMC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@petauke.council.zm",
+    "role": "Councillor",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-PTMC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@petauke.council.zm",
+    "role": "Auditor",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-PTMC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@petauke.council.zm",
+    "role": "TownClerk",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-PTMC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@petauke.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-PTMC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@petauke.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-PTMC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@petauke.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-PTMC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@petauke.council.zm",
+    "role": "AssetManager",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-PTMC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@petauke.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-PTMC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@petauke.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-PTMC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@petauke.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-PTMC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@petauke.council.zm",
+    "role": "Councillor",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-PTMC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@petauke.council.zm",
+    "role": "Auditor",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-PTMC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@petauke.council.zm",
+    "role": "TownClerk",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-PTMC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@petauke.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-PTMC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@petauke.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-PTMC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@petauke.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-PTMC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@petauke.council.zm",
+    "role": "AssetManager",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-PTMC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@petauke.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-PTMC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@petauke.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-PTMC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@petauke.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-PTMC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@petauke.council.zm",
+    "role": "Councillor",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-PTMC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@petauke.council.zm",
+    "role": "Auditor",
+    "tenantId": "petauke-municipal-council",
+    "councilName": "Petauke Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-PTMC-0030",
+    "isActive": true
+  }
+]

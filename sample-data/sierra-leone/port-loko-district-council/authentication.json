@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@port-loko.council.sl",
+    "role": "TownClerk",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Administration",
+    "employeeId": "EMP-PLDC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@port-loko.council.sl",
+    "role": "DirectorOfFinance",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Finance",
+    "employeeId": "EMP-PLDC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@port-loko.council.sl",
+    "role": "BudgetOfficer",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Procurement",
+    "employeeId": "EMP-PLDC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@port-loko.council.sl",
+    "role": "ProcurementOfficer",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Assets",
+    "employeeId": "EMP-PLDC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@port-loko.council.sl",
+    "role": "AssetManager",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Property",
+    "employeeId": "EMP-PLDC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@port-loko.council.sl",
+    "role": "PropertyManager",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Planning",
+    "employeeId": "EMP-PLDC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@port-loko.council.sl",
+    "role": "LandUseOfficer",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Legal",
+    "employeeId": "EMP-PLDC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@port-loko.council.sl",
+    "role": "PermitsOfficer",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Audit",
+    "employeeId": "EMP-PLDC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@port-loko.council.sl",
+    "role": "Councillor",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Administration",
+    "employeeId": "EMP-PLDC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@port-loko.council.sl",
+    "role": "Auditor",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Finance",
+    "employeeId": "EMP-PLDC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@port-loko.council.sl",
+    "role": "TownClerk",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Procurement",
+    "employeeId": "EMP-PLDC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@port-loko.council.sl",
+    "role": "DirectorOfFinance",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Assets",
+    "employeeId": "EMP-PLDC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@port-loko.council.sl",
+    "role": "BudgetOfficer",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Property",
+    "employeeId": "EMP-PLDC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@port-loko.council.sl",
+    "role": "ProcurementOfficer",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Planning",
+    "employeeId": "EMP-PLDC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@port-loko.council.sl",
+    "role": "AssetManager",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Legal",
+    "employeeId": "EMP-PLDC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@port-loko.council.sl",
+    "role": "PropertyManager",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Audit",
+    "employeeId": "EMP-PLDC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@port-loko.council.sl",
+    "role": "LandUseOfficer",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Administration",
+    "employeeId": "EMP-PLDC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@port-loko.council.sl",
+    "role": "PermitsOfficer",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Finance",
+    "employeeId": "EMP-PLDC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@port-loko.council.sl",
+    "role": "Councillor",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Procurement",
+    "employeeId": "EMP-PLDC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@port-loko.council.sl",
+    "role": "Auditor",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Assets",
+    "employeeId": "EMP-PLDC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@port-loko.council.sl",
+    "role": "TownClerk",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Property",
+    "employeeId": "EMP-PLDC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@port-loko.council.sl",
+    "role": "DirectorOfFinance",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Planning",
+    "employeeId": "EMP-PLDC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@port-loko.council.sl",
+    "role": "BudgetOfficer",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Legal",
+    "employeeId": "EMP-PLDC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@port-loko.council.sl",
+    "role": "ProcurementOfficer",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Audit",
+    "employeeId": "EMP-PLDC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@port-loko.council.sl",
+    "role": "AssetManager",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Administration",
+    "employeeId": "EMP-PLDC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@port-loko.council.sl",
+    "role": "PropertyManager",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Finance",
+    "employeeId": "EMP-PLDC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@port-loko.council.sl",
+    "role": "LandUseOfficer",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Procurement",
+    "employeeId": "EMP-PLDC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@port-loko.council.sl",
+    "role": "PermitsOfficer",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Assets",
+    "employeeId": "EMP-PLDC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@port-loko.council.sl",
+    "role": "Councillor",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Property",
+    "employeeId": "EMP-PLDC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@port-loko.council.sl",
+    "role": "Auditor",
+    "tenantId": "port-loko-district-council",
+    "councilName": "Port Loko District Council",
+    "department": "Planning",
+    "employeeId": "EMP-PLDC-0030",
+    "isActive": true
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@siteki.council.sz",
+    "role": "TownClerk",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-STC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@siteki.council.sz",
+    "role": "DirectorOfFinance",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-STC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@siteki.council.sz",
+    "role": "BudgetOfficer",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-STC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@siteki.council.sz",
+    "role": "ProcurementOfficer",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-STC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@siteki.council.sz",
+    "role": "AssetManager",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Property",
+    "employeeId": "EMP-STC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@siteki.council.sz",
+    "role": "PropertyManager",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-STC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@siteki.council.sz",
+    "role": "LandUseOfficer",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-STC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@siteki.council.sz",
+    "role": "PermitsOfficer",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-STC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@siteki.council.sz",
+    "role": "Councillor",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-STC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@siteki.council.sz",
+    "role": "Auditor",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-STC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@siteki.council.sz",
+    "role": "TownClerk",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-STC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@siteki.council.sz",
+    "role": "DirectorOfFinance",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-STC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@siteki.council.sz",
+    "role": "BudgetOfficer",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Property",
+    "employeeId": "EMP-STC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@siteki.council.sz",
+    "role": "ProcurementOfficer",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-STC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@siteki.council.sz",
+    "role": "AssetManager",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-STC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@siteki.council.sz",
+    "role": "PropertyManager",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-STC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@siteki.council.sz",
+    "role": "LandUseOfficer",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-STC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@siteki.council.sz",
+    "role": "PermitsOfficer",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-STC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@siteki.council.sz",
+    "role": "Councillor",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-STC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@siteki.council.sz",
+    "role": "Auditor",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-STC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@siteki.council.sz",
+    "role": "TownClerk",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Property",
+    "employeeId": "EMP-STC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@siteki.council.sz",
+    "role": "DirectorOfFinance",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-STC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@siteki.council.sz",
+    "role": "BudgetOfficer",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-STC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@siteki.council.sz",
+    "role": "ProcurementOfficer",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-STC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@siteki.council.sz",
+    "role": "AssetManager",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-STC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@siteki.council.sz",
+    "role": "PropertyManager",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-STC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@siteki.council.sz",
+    "role": "LandUseOfficer",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-STC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@siteki.council.sz",
+    "role": "PermitsOfficer",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-STC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@siteki.council.sz",
+    "role": "Councillor",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Property",
+    "employeeId": "EMP-STC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@siteki.council.sz",
+    "role": "Auditor",
+    "tenantId": "siteki-town-council",
+    "councilName": "Siteki Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-STC-0030",
+    "isActive": true
+  }
+]

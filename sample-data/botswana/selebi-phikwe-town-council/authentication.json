@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@selebi-phikwe.council.bw",
+    "role": "TownClerk",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-SPTC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@selebi-phikwe.council.bw",
+    "role": "DirectorOfFinance",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-SPTC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@selebi-phikwe.council.bw",
+    "role": "BudgetOfficer",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-SPTC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@selebi-phikwe.council.bw",
+    "role": "ProcurementOfficer",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-SPTC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@selebi-phikwe.council.bw",
+    "role": "AssetManager",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Property",
+    "employeeId": "EMP-SPTC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@selebi-phikwe.council.bw",
+    "role": "PropertyManager",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-SPTC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@selebi-phikwe.council.bw",
+    "role": "LandUseOfficer",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-SPTC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@selebi-phikwe.council.bw",
+    "role": "PermitsOfficer",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-SPTC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@selebi-phikwe.council.bw",
+    "role": "Councillor",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-SPTC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@selebi-phikwe.council.bw",
+    "role": "Auditor",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-SPTC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@selebi-phikwe.council.bw",
+    "role": "TownClerk",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-SPTC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@selebi-phikwe.council.bw",
+    "role": "DirectorOfFinance",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-SPTC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@selebi-phikwe.council.bw",
+    "role": "BudgetOfficer",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Property",
+    "employeeId": "EMP-SPTC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@selebi-phikwe.council.bw",
+    "role": "ProcurementOfficer",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-SPTC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@selebi-phikwe.council.bw",
+    "role": "AssetManager",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-SPTC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@selebi-phikwe.council.bw",
+    "role": "PropertyManager",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-SPTC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@selebi-phikwe.council.bw",
+    "role": "LandUseOfficer",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-SPTC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@selebi-phikwe.council.bw",
+    "role": "PermitsOfficer",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-SPTC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@selebi-phikwe.council.bw",
+    "role": "Councillor",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-SPTC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@selebi-phikwe.council.bw",
+    "role": "Auditor",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-SPTC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@selebi-phikwe.council.bw",
+    "role": "TownClerk",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Property",
+    "employeeId": "EMP-SPTC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@selebi-phikwe.council.bw",
+    "role": "DirectorOfFinance",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-SPTC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@selebi-phikwe.council.bw",
+    "role": "BudgetOfficer",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-SPTC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@selebi-phikwe.council.bw",
+    "role": "ProcurementOfficer",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-SPTC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@selebi-phikwe.council.bw",
+    "role": "AssetManager",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-SPTC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@selebi-phikwe.council.bw",
+    "role": "PropertyManager",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-SPTC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@selebi-phikwe.council.bw",
+    "role": "LandUseOfficer",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-SPTC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@selebi-phikwe.council.bw",
+    "role": "PermitsOfficer",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-SPTC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@selebi-phikwe.council.bw",
+    "role": "Councillor",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Property",
+    "employeeId": "EMP-SPTC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@selebi-phikwe.council.bw",
+    "role": "Auditor",
+    "tenantId": "selebi-phikwe-town-council",
+    "councilName": "Selebi-Phikwe Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-SPTC-0030",
+    "isActive": true
+  }
+]

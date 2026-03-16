@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@mbombela.council.za",
+    "role": "TownClerk",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-MBM-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@mbombela.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-MBM-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@mbombela.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-MBM-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@mbombela.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-MBM-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@mbombela.council.za",
+    "role": "AssetManager",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-MBM-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@mbombela.council.za",
+    "role": "PropertyManager",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-MBM-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@mbombela.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-MBM-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@mbombela.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-MBM-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@mbombela.council.za",
+    "role": "Councillor",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-MBM-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@mbombela.council.za",
+    "role": "Auditor",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-MBM-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@mbombela.council.za",
+    "role": "TownClerk",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-MBM-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@mbombela.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-MBM-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@mbombela.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-MBM-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@mbombela.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-MBM-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@mbombela.council.za",
+    "role": "AssetManager",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-MBM-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@mbombela.council.za",
+    "role": "PropertyManager",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-MBM-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@mbombela.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-MBM-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@mbombela.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-MBM-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@mbombela.council.za",
+    "role": "Councillor",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-MBM-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@mbombela.council.za",
+    "role": "Auditor",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-MBM-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@mbombela.council.za",
+    "role": "TownClerk",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-MBM-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@mbombela.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-MBM-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@mbombela.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-MBM-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@mbombela.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-MBM-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@mbombela.council.za",
+    "role": "AssetManager",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-MBM-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@mbombela.council.za",
+    "role": "PropertyManager",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-MBM-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@mbombela.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-MBM-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@mbombela.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-MBM-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@mbombela.council.za",
+    "role": "Councillor",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-MBM-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@mbombela.council.za",
+    "role": "Auditor",
+    "tenantId": "mbombela-local-municipality",
+    "councilName": "Mbombela Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-MBM-0030",
+    "isActive": true
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@mangaung.council.za",
+    "role": "TownClerk",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-MMM-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@mangaung.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-MMM-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@mangaung.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-MMM-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@mangaung.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-MMM-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@mangaung.council.za",
+    "role": "AssetManager",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Property",
+    "employeeId": "EMP-MMM-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@mangaung.council.za",
+    "role": "PropertyManager",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-MMM-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@mangaung.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-MMM-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@mangaung.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-MMM-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@mangaung.council.za",
+    "role": "Councillor",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-MMM-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@mangaung.council.za",
+    "role": "Auditor",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-MMM-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@mangaung.council.za",
+    "role": "TownClerk",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-MMM-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@mangaung.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-MMM-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@mangaung.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Property",
+    "employeeId": "EMP-MMM-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@mangaung.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-MMM-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@mangaung.council.za",
+    "role": "AssetManager",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-MMM-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@mangaung.council.za",
+    "role": "PropertyManager",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-MMM-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@mangaung.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-MMM-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@mangaung.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-MMM-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@mangaung.council.za",
+    "role": "Councillor",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-MMM-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@mangaung.council.za",
+    "role": "Auditor",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-MMM-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@mangaung.council.za",
+    "role": "TownClerk",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Property",
+    "employeeId": "EMP-MMM-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@mangaung.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-MMM-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@mangaung.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-MMM-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@mangaung.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-MMM-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@mangaung.council.za",
+    "role": "AssetManager",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-MMM-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@mangaung.council.za",
+    "role": "PropertyManager",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-MMM-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@mangaung.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-MMM-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@mangaung.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-MMM-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@mangaung.council.za",
+    "role": "Councillor",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Property",
+    "employeeId": "EMP-MMM-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@mangaung.council.za",
+    "role": "Auditor",
+    "tenantId": "mangaung-metropolitan-municipality",
+    "councilName": "Mangaung Metropolitan Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-MMM-0030",
+    "isActive": true
+  }
+]

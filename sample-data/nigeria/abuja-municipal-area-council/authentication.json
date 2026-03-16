@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@abuja.lga.ng",
+    "role": "TownClerk",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Administration",
+    "employeeId": "EMP-AMAC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@abuja.lga.ng",
+    "role": "DirectorOfFinance",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Finance",
+    "employeeId": "EMP-AMAC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@abuja.lga.ng",
+    "role": "BudgetOfficer",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Procurement",
+    "employeeId": "EMP-AMAC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@abuja.lga.ng",
+    "role": "ProcurementOfficer",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Assets",
+    "employeeId": "EMP-AMAC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@abuja.lga.ng",
+    "role": "AssetManager",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Property",
+    "employeeId": "EMP-AMAC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@abuja.lga.ng",
+    "role": "PropertyManager",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Planning",
+    "employeeId": "EMP-AMAC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@abuja.lga.ng",
+    "role": "LandUseOfficer",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Legal",
+    "employeeId": "EMP-AMAC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@abuja.lga.ng",
+    "role": "PermitsOfficer",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Audit",
+    "employeeId": "EMP-AMAC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@abuja.lga.ng",
+    "role": "Councillor",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Administration",
+    "employeeId": "EMP-AMAC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@abuja.lga.ng",
+    "role": "Auditor",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Finance",
+    "employeeId": "EMP-AMAC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@abuja.lga.ng",
+    "role": "TownClerk",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Procurement",
+    "employeeId": "EMP-AMAC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@abuja.lga.ng",
+    "role": "DirectorOfFinance",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Assets",
+    "employeeId": "EMP-AMAC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@abuja.lga.ng",
+    "role": "BudgetOfficer",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Property",
+    "employeeId": "EMP-AMAC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@abuja.lga.ng",
+    "role": "ProcurementOfficer",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Planning",
+    "employeeId": "EMP-AMAC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@abuja.lga.ng",
+    "role": "AssetManager",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Legal",
+    "employeeId": "EMP-AMAC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@abuja.lga.ng",
+    "role": "PropertyManager",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Audit",
+    "employeeId": "EMP-AMAC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@abuja.lga.ng",
+    "role": "LandUseOfficer",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Administration",
+    "employeeId": "EMP-AMAC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@abuja.lga.ng",
+    "role": "PermitsOfficer",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Finance",
+    "employeeId": "EMP-AMAC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@abuja.lga.ng",
+    "role": "Councillor",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Procurement",
+    "employeeId": "EMP-AMAC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@abuja.lga.ng",
+    "role": "Auditor",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Assets",
+    "employeeId": "EMP-AMAC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@abuja.lga.ng",
+    "role": "TownClerk",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Property",
+    "employeeId": "EMP-AMAC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@abuja.lga.ng",
+    "role": "DirectorOfFinance",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Planning",
+    "employeeId": "EMP-AMAC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@abuja.lga.ng",
+    "role": "BudgetOfficer",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Legal",
+    "employeeId": "EMP-AMAC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@abuja.lga.ng",
+    "role": "ProcurementOfficer",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Audit",
+    "employeeId": "EMP-AMAC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@abuja.lga.ng",
+    "role": "AssetManager",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Administration",
+    "employeeId": "EMP-AMAC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@abuja.lga.ng",
+    "role": "PropertyManager",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Finance",
+    "employeeId": "EMP-AMAC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@abuja.lga.ng",
+    "role": "LandUseOfficer",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Procurement",
+    "employeeId": "EMP-AMAC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@abuja.lga.ng",
+    "role": "PermitsOfficer",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Assets",
+    "employeeId": "EMP-AMAC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@abuja.lga.ng",
+    "role": "Councillor",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Property",
+    "employeeId": "EMP-AMAC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@abuja.lga.ng",
+    "role": "Auditor",
+    "tenantId": "abuja-municipal-area-council",
+    "councilName": "Abuja Municipal Area Council",
+    "department": "Planning",
+    "employeeId": "EMP-AMAC-0030",
+    "isActive": true
+  }
+]

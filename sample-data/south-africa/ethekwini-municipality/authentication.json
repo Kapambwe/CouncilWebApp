@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@ethekwini.council.za",
+    "role": "TownClerk",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-ETH-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@ethekwini.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-ETH-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@ethekwini.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-ETH-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@ethekwini.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-ETH-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@ethekwini.council.za",
+    "role": "AssetManager",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Property",
+    "employeeId": "EMP-ETH-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@ethekwini.council.za",
+    "role": "PropertyManager",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-ETH-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@ethekwini.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-ETH-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@ethekwini.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-ETH-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@ethekwini.council.za",
+    "role": "Councillor",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-ETH-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@ethekwini.council.za",
+    "role": "Auditor",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-ETH-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@ethekwini.council.za",
+    "role": "TownClerk",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-ETH-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@ethekwini.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-ETH-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@ethekwini.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Property",
+    "employeeId": "EMP-ETH-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@ethekwini.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-ETH-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@ethekwini.council.za",
+    "role": "AssetManager",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-ETH-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@ethekwini.council.za",
+    "role": "PropertyManager",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-ETH-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@ethekwini.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-ETH-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@ethekwini.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-ETH-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@ethekwini.council.za",
+    "role": "Councillor",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-ETH-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@ethekwini.council.za",
+    "role": "Auditor",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-ETH-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@ethekwini.council.za",
+    "role": "TownClerk",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Property",
+    "employeeId": "EMP-ETH-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@ethekwini.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-ETH-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@ethekwini.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-ETH-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@ethekwini.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-ETH-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@ethekwini.council.za",
+    "role": "AssetManager",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-ETH-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@ethekwini.council.za",
+    "role": "PropertyManager",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-ETH-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@ethekwini.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-ETH-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@ethekwini.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-ETH-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@ethekwini.council.za",
+    "role": "Councillor",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Property",
+    "employeeId": "EMP-ETH-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@ethekwini.council.za",
+    "role": "Auditor",
+    "tenantId": "ethekwini-municipality",
+    "councilName": "eThekwini Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-ETH-0030",
+    "isActive": true
+  }
+]

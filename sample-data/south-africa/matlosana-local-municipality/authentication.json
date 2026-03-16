@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@matlosana.council.za",
+    "role": "TownClerk",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-MLM-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@matlosana.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-MLM-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@matlosana.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-MLM-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@matlosana.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-MLM-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@matlosana.council.za",
+    "role": "AssetManager",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-MLM-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@matlosana.council.za",
+    "role": "PropertyManager",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-MLM-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@matlosana.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-MLM-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@matlosana.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-MLM-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@matlosana.council.za",
+    "role": "Councillor",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-MLM-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@matlosana.council.za",
+    "role": "Auditor",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-MLM-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@matlosana.council.za",
+    "role": "TownClerk",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-MLM-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@matlosana.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-MLM-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@matlosana.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-MLM-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@matlosana.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-MLM-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@matlosana.council.za",
+    "role": "AssetManager",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-MLM-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@matlosana.council.za",
+    "role": "PropertyManager",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-MLM-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@matlosana.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-MLM-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@matlosana.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-MLM-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@matlosana.council.za",
+    "role": "Councillor",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-MLM-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@matlosana.council.za",
+    "role": "Auditor",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-MLM-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@matlosana.council.za",
+    "role": "TownClerk",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-MLM-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@matlosana.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-MLM-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@matlosana.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-MLM-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@matlosana.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-MLM-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@matlosana.council.za",
+    "role": "AssetManager",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-MLM-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@matlosana.council.za",
+    "role": "PropertyManager",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-MLM-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@matlosana.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-MLM-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@matlosana.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-MLM-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@matlosana.council.za",
+    "role": "Councillor",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-MLM-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@matlosana.council.za",
+    "role": "Auditor",
+    "tenantId": "matlosana-local-municipality",
+    "councilName": "Matlosana Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-MLM-0030",
+    "isActive": true
+  }
+]

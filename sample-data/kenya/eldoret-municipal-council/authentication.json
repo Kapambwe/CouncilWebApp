@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@eldoret.council.ke",
+    "role": "TownClerk",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-EMC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@eldoret.council.ke",
+    "role": "DirectorOfFinance",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-EMC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@eldoret.council.ke",
+    "role": "BudgetOfficer",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-EMC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@eldoret.council.ke",
+    "role": "ProcurementOfficer",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-EMC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@eldoret.council.ke",
+    "role": "AssetManager",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-EMC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@eldoret.council.ke",
+    "role": "PropertyManager",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-EMC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@eldoret.council.ke",
+    "role": "LandUseOfficer",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-EMC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@eldoret.council.ke",
+    "role": "PermitsOfficer",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-EMC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@eldoret.council.ke",
+    "role": "Councillor",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-EMC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@eldoret.council.ke",
+    "role": "Auditor",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-EMC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@eldoret.council.ke",
+    "role": "TownClerk",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-EMC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@eldoret.council.ke",
+    "role": "DirectorOfFinance",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-EMC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@eldoret.council.ke",
+    "role": "BudgetOfficer",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-EMC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@eldoret.council.ke",
+    "role": "ProcurementOfficer",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-EMC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@eldoret.council.ke",
+    "role": "AssetManager",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-EMC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@eldoret.council.ke",
+    "role": "PropertyManager",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-EMC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@eldoret.council.ke",
+    "role": "LandUseOfficer",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-EMC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@eldoret.council.ke",
+    "role": "PermitsOfficer",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-EMC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@eldoret.council.ke",
+    "role": "Councillor",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-EMC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@eldoret.council.ke",
+    "role": "Auditor",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-EMC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@eldoret.council.ke",
+    "role": "TownClerk",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-EMC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@eldoret.council.ke",
+    "role": "DirectorOfFinance",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-EMC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@eldoret.council.ke",
+    "role": "BudgetOfficer",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-EMC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@eldoret.council.ke",
+    "role": "ProcurementOfficer",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-EMC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@eldoret.council.ke",
+    "role": "AssetManager",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-EMC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@eldoret.council.ke",
+    "role": "PropertyManager",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-EMC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@eldoret.council.ke",
+    "role": "LandUseOfficer",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-EMC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@eldoret.council.ke",
+    "role": "PermitsOfficer",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-EMC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@eldoret.council.ke",
+    "role": "Councillor",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-EMC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@eldoret.council.ke",
+    "role": "Auditor",
+    "tenantId": "eldoret-municipal-council",
+    "councilName": "Eldoret Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-EMC-0030",
+    "isActive": true
+  }
+]

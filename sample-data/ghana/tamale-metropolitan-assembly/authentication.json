@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@tamale.assembly.gh",
+    "role": "TownClerk",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Administration",
+    "employeeId": "EMP-TMA-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@tamale.assembly.gh",
+    "role": "DirectorOfFinance",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Finance",
+    "employeeId": "EMP-TMA-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@tamale.assembly.gh",
+    "role": "BudgetOfficer",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Procurement",
+    "employeeId": "EMP-TMA-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@tamale.assembly.gh",
+    "role": "ProcurementOfficer",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Assets",
+    "employeeId": "EMP-TMA-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@tamale.assembly.gh",
+    "role": "AssetManager",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Property",
+    "employeeId": "EMP-TMA-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@tamale.assembly.gh",
+    "role": "PropertyManager",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Planning",
+    "employeeId": "EMP-TMA-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@tamale.assembly.gh",
+    "role": "LandUseOfficer",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Legal",
+    "employeeId": "EMP-TMA-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@tamale.assembly.gh",
+    "role": "PermitsOfficer",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Audit",
+    "employeeId": "EMP-TMA-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@tamale.assembly.gh",
+    "role": "Councillor",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Administration",
+    "employeeId": "EMP-TMA-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@tamale.assembly.gh",
+    "role": "Auditor",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Finance",
+    "employeeId": "EMP-TMA-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@tamale.assembly.gh",
+    "role": "TownClerk",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Procurement",
+    "employeeId": "EMP-TMA-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@tamale.assembly.gh",
+    "role": "DirectorOfFinance",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Assets",
+    "employeeId": "EMP-TMA-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@tamale.assembly.gh",
+    "role": "BudgetOfficer",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Property",
+    "employeeId": "EMP-TMA-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@tamale.assembly.gh",
+    "role": "ProcurementOfficer",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Planning",
+    "employeeId": "EMP-TMA-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@tamale.assembly.gh",
+    "role": "AssetManager",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Legal",
+    "employeeId": "EMP-TMA-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@tamale.assembly.gh",
+    "role": "PropertyManager",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Audit",
+    "employeeId": "EMP-TMA-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@tamale.assembly.gh",
+    "role": "LandUseOfficer",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Administration",
+    "employeeId": "EMP-TMA-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@tamale.assembly.gh",
+    "role": "PermitsOfficer",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Finance",
+    "employeeId": "EMP-TMA-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@tamale.assembly.gh",
+    "role": "Councillor",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Procurement",
+    "employeeId": "EMP-TMA-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@tamale.assembly.gh",
+    "role": "Auditor",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Assets",
+    "employeeId": "EMP-TMA-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@tamale.assembly.gh",
+    "role": "TownClerk",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Property",
+    "employeeId": "EMP-TMA-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@tamale.assembly.gh",
+    "role": "DirectorOfFinance",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Planning",
+    "employeeId": "EMP-TMA-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@tamale.assembly.gh",
+    "role": "BudgetOfficer",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Legal",
+    "employeeId": "EMP-TMA-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@tamale.assembly.gh",
+    "role": "ProcurementOfficer",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Audit",
+    "employeeId": "EMP-TMA-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@tamale.assembly.gh",
+    "role": "AssetManager",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Administration",
+    "employeeId": "EMP-TMA-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@tamale.assembly.gh",
+    "role": "PropertyManager",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Finance",
+    "employeeId": "EMP-TMA-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@tamale.assembly.gh",
+    "role": "LandUseOfficer",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Procurement",
+    "employeeId": "EMP-TMA-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@tamale.assembly.gh",
+    "role": "PermitsOfficer",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Assets",
+    "employeeId": "EMP-TMA-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@tamale.assembly.gh",
+    "role": "Councillor",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Property",
+    "employeeId": "EMP-TMA-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@tamale.assembly.gh",
+    "role": "Auditor",
+    "tenantId": "tamale-metropolitan-assembly",
+    "councilName": "Tamale Metropolitan Assembly",
+    "department": "Planning",
+    "employeeId": "EMP-TMA-0030",
+    "isActive": true
+  }
+]

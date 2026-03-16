@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@rubavu.district.rw",
+    "role": "TownClerk",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Administration",
+    "employeeId": "EMP-RBUV-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@rubavu.district.rw",
+    "role": "DirectorOfFinance",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Finance",
+    "employeeId": "EMP-RBUV-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@rubavu.district.rw",
+    "role": "BudgetOfficer",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Procurement",
+    "employeeId": "EMP-RBUV-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@rubavu.district.rw",
+    "role": "ProcurementOfficer",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Assets",
+    "employeeId": "EMP-RBUV-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@rubavu.district.rw",
+    "role": "AssetManager",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Property",
+    "employeeId": "EMP-RBUV-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@rubavu.district.rw",
+    "role": "PropertyManager",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Planning",
+    "employeeId": "EMP-RBUV-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@rubavu.district.rw",
+    "role": "LandUseOfficer",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Legal",
+    "employeeId": "EMP-RBUV-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@rubavu.district.rw",
+    "role": "PermitsOfficer",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Audit",
+    "employeeId": "EMP-RBUV-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@rubavu.district.rw",
+    "role": "Councillor",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Administration",
+    "employeeId": "EMP-RBUV-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@rubavu.district.rw",
+    "role": "Auditor",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Finance",
+    "employeeId": "EMP-RBUV-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@rubavu.district.rw",
+    "role": "TownClerk",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Procurement",
+    "employeeId": "EMP-RBUV-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@rubavu.district.rw",
+    "role": "DirectorOfFinance",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Assets",
+    "employeeId": "EMP-RBUV-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@rubavu.district.rw",
+    "role": "BudgetOfficer",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Property",
+    "employeeId": "EMP-RBUV-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@rubavu.district.rw",
+    "role": "ProcurementOfficer",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Planning",
+    "employeeId": "EMP-RBUV-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@rubavu.district.rw",
+    "role": "AssetManager",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Legal",
+    "employeeId": "EMP-RBUV-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@rubavu.district.rw",
+    "role": "PropertyManager",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Audit",
+    "employeeId": "EMP-RBUV-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@rubavu.district.rw",
+    "role": "LandUseOfficer",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Administration",
+    "employeeId": "EMP-RBUV-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@rubavu.district.rw",
+    "role": "PermitsOfficer",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Finance",
+    "employeeId": "EMP-RBUV-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@rubavu.district.rw",
+    "role": "Councillor",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Procurement",
+    "employeeId": "EMP-RBUV-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@rubavu.district.rw",
+    "role": "Auditor",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Assets",
+    "employeeId": "EMP-RBUV-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@rubavu.district.rw",
+    "role": "TownClerk",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Property",
+    "employeeId": "EMP-RBUV-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@rubavu.district.rw",
+    "role": "DirectorOfFinance",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Planning",
+    "employeeId": "EMP-RBUV-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@rubavu.district.rw",
+    "role": "BudgetOfficer",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Legal",
+    "employeeId": "EMP-RBUV-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@rubavu.district.rw",
+    "role": "ProcurementOfficer",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Audit",
+    "employeeId": "EMP-RBUV-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@rubavu.district.rw",
+    "role": "AssetManager",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Administration",
+    "employeeId": "EMP-RBUV-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@rubavu.district.rw",
+    "role": "PropertyManager",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Finance",
+    "employeeId": "EMP-RBUV-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@rubavu.district.rw",
+    "role": "LandUseOfficer",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Procurement",
+    "employeeId": "EMP-RBUV-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@rubavu.district.rw",
+    "role": "PermitsOfficer",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Assets",
+    "employeeId": "EMP-RBUV-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@rubavu.district.rw",
+    "role": "Councillor",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Property",
+    "employeeId": "EMP-RBUV-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@rubavu.district.rw",
+    "role": "Auditor",
+    "tenantId": "rubavu-district",
+    "councilName": "Rubavu District",
+    "department": "Planning",
+    "employeeId": "EMP-RBUV-0030",
+    "isActive": true
+  }
+]

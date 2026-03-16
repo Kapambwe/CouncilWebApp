@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@lobamba.council.sz",
+    "role": "TownClerk",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-LBTC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@lobamba.council.sz",
+    "role": "DirectorOfFinance",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-LBTC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@lobamba.council.sz",
+    "role": "BudgetOfficer",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-LBTC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@lobamba.council.sz",
+    "role": "ProcurementOfficer",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-LBTC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@lobamba.council.sz",
+    "role": "AssetManager",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Property",
+    "employeeId": "EMP-LBTC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@lobamba.council.sz",
+    "role": "PropertyManager",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-LBTC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@lobamba.council.sz",
+    "role": "LandUseOfficer",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-LBTC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@lobamba.council.sz",
+    "role": "PermitsOfficer",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-LBTC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@lobamba.council.sz",
+    "role": "Councillor",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-LBTC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@lobamba.council.sz",
+    "role": "Auditor",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-LBTC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@lobamba.council.sz",
+    "role": "TownClerk",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-LBTC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@lobamba.council.sz",
+    "role": "DirectorOfFinance",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-LBTC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@lobamba.council.sz",
+    "role": "BudgetOfficer",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Property",
+    "employeeId": "EMP-LBTC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@lobamba.council.sz",
+    "role": "ProcurementOfficer",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-LBTC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@lobamba.council.sz",
+    "role": "AssetManager",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-LBTC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@lobamba.council.sz",
+    "role": "PropertyManager",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-LBTC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@lobamba.council.sz",
+    "role": "LandUseOfficer",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-LBTC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@lobamba.council.sz",
+    "role": "PermitsOfficer",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-LBTC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@lobamba.council.sz",
+    "role": "Councillor",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-LBTC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@lobamba.council.sz",
+    "role": "Auditor",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-LBTC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@lobamba.council.sz",
+    "role": "TownClerk",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Property",
+    "employeeId": "EMP-LBTC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@lobamba.council.sz",
+    "role": "DirectorOfFinance",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-LBTC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@lobamba.council.sz",
+    "role": "BudgetOfficer",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-LBTC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@lobamba.council.sz",
+    "role": "ProcurementOfficer",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-LBTC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@lobamba.council.sz",
+    "role": "AssetManager",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-LBTC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@lobamba.council.sz",
+    "role": "PropertyManager",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-LBTC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@lobamba.council.sz",
+    "role": "LandUseOfficer",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-LBTC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@lobamba.council.sz",
+    "role": "PermitsOfficer",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-LBTC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@lobamba.council.sz",
+    "role": "Councillor",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Property",
+    "employeeId": "EMP-LBTC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@lobamba.council.sz",
+    "role": "Auditor",
+    "tenantId": "lobamba-town-council",
+    "councilName": "Lobamba Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-LBTC-0030",
+    "isActive": true
+  }
+]

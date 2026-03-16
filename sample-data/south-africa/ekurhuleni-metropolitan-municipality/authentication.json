@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@ekurhuleni.council.za",
+    "role": "TownClerk",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-EKU-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@ekurhuleni.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-EKU-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@ekurhuleni.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-EKU-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@ekurhuleni.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-EKU-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@ekurhuleni.council.za",
+    "role": "AssetManager",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Property",
+    "employeeId": "EMP-EKU-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@ekurhuleni.council.za",
+    "role": "PropertyManager",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-EKU-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@ekurhuleni.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-EKU-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@ekurhuleni.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-EKU-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@ekurhuleni.council.za",
+    "role": "Councillor",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-EKU-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@ekurhuleni.council.za",
+    "role": "Auditor",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-EKU-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@ekurhuleni.council.za",
+    "role": "TownClerk",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-EKU-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@ekurhuleni.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-EKU-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@ekurhuleni.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Property",
+    "employeeId": "EMP-EKU-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@ekurhuleni.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-EKU-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@ekurhuleni.council.za",
+    "role": "AssetManager",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-EKU-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@ekurhuleni.council.za",
+    "role": "PropertyManager",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-EKU-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@ekurhuleni.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-EKU-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@ekurhuleni.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-EKU-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@ekurhuleni.council.za",
+    "role": "Councillor",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-EKU-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@ekurhuleni.council.za",
+    "role": "Auditor",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-EKU-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@ekurhuleni.council.za",
+    "role": "TownClerk",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Property",
+    "employeeId": "EMP-EKU-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@ekurhuleni.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-EKU-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@ekurhuleni.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-EKU-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@ekurhuleni.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-EKU-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@ekurhuleni.council.za",
+    "role": "AssetManager",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-EKU-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@ekurhuleni.council.za",
+    "role": "PropertyManager",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-EKU-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@ekurhuleni.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-EKU-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@ekurhuleni.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-EKU-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@ekurhuleni.council.za",
+    "role": "Councillor",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Property",
+    "employeeId": "EMP-EKU-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@ekurhuleni.council.za",
+    "role": "Auditor",
+    "tenantId": "ekurhuleni-metropolitan-municipality",
+    "councilName": "Ekurhuleni Metropolitan Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-EKU-0030",
+    "isActive": true
+  }
+]

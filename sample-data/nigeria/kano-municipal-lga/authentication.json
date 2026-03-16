@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@kano.lga.ng",
+    "role": "TownClerk",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Administration",
+    "employeeId": "EMP-KMLGA-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@kano.lga.ng",
+    "role": "DirectorOfFinance",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Finance",
+    "employeeId": "EMP-KMLGA-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@kano.lga.ng",
+    "role": "BudgetOfficer",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Procurement",
+    "employeeId": "EMP-KMLGA-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@kano.lga.ng",
+    "role": "ProcurementOfficer",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Assets",
+    "employeeId": "EMP-KMLGA-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@kano.lga.ng",
+    "role": "AssetManager",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Property",
+    "employeeId": "EMP-KMLGA-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@kano.lga.ng",
+    "role": "PropertyManager",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Planning",
+    "employeeId": "EMP-KMLGA-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@kano.lga.ng",
+    "role": "LandUseOfficer",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Legal",
+    "employeeId": "EMP-KMLGA-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@kano.lga.ng",
+    "role": "PermitsOfficer",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Audit",
+    "employeeId": "EMP-KMLGA-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@kano.lga.ng",
+    "role": "Councillor",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Administration",
+    "employeeId": "EMP-KMLGA-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@kano.lga.ng",
+    "role": "Auditor",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Finance",
+    "employeeId": "EMP-KMLGA-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@kano.lga.ng",
+    "role": "TownClerk",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Procurement",
+    "employeeId": "EMP-KMLGA-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@kano.lga.ng",
+    "role": "DirectorOfFinance",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Assets",
+    "employeeId": "EMP-KMLGA-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@kano.lga.ng",
+    "role": "BudgetOfficer",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Property",
+    "employeeId": "EMP-KMLGA-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@kano.lga.ng",
+    "role": "ProcurementOfficer",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Planning",
+    "employeeId": "EMP-KMLGA-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@kano.lga.ng",
+    "role": "AssetManager",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Legal",
+    "employeeId": "EMP-KMLGA-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@kano.lga.ng",
+    "role": "PropertyManager",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Audit",
+    "employeeId": "EMP-KMLGA-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@kano.lga.ng",
+    "role": "LandUseOfficer",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Administration",
+    "employeeId": "EMP-KMLGA-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@kano.lga.ng",
+    "role": "PermitsOfficer",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Finance",
+    "employeeId": "EMP-KMLGA-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@kano.lga.ng",
+    "role": "Councillor",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Procurement",
+    "employeeId": "EMP-KMLGA-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@kano.lga.ng",
+    "role": "Auditor",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Assets",
+    "employeeId": "EMP-KMLGA-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@kano.lga.ng",
+    "role": "TownClerk",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Property",
+    "employeeId": "EMP-KMLGA-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@kano.lga.ng",
+    "role": "DirectorOfFinance",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Planning",
+    "employeeId": "EMP-KMLGA-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@kano.lga.ng",
+    "role": "BudgetOfficer",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Legal",
+    "employeeId": "EMP-KMLGA-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@kano.lga.ng",
+    "role": "ProcurementOfficer",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Audit",
+    "employeeId": "EMP-KMLGA-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@kano.lga.ng",
+    "role": "AssetManager",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Administration",
+    "employeeId": "EMP-KMLGA-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@kano.lga.ng",
+    "role": "PropertyManager",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Finance",
+    "employeeId": "EMP-KMLGA-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@kano.lga.ng",
+    "role": "LandUseOfficer",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Procurement",
+    "employeeId": "EMP-KMLGA-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@kano.lga.ng",
+    "role": "PermitsOfficer",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Assets",
+    "employeeId": "EMP-KMLGA-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@kano.lga.ng",
+    "role": "Councillor",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Property",
+    "employeeId": "EMP-KMLGA-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@kano.lga.ng",
+    "role": "Auditor",
+    "tenantId": "kano-municipal-lga",
+    "councilName": "Kano Municipal LGA",
+    "department": "Planning",
+    "employeeId": "EMP-KMLGA-0030",
+    "isActive": true
+  }
+]

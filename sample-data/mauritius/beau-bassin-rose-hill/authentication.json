@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@beau-bassin.council.mu",
+    "role": "TownClerk",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Administration",
+    "employeeId": "EMP-BBRH-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@beau-bassin.council.mu",
+    "role": "DirectorOfFinance",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Finance",
+    "employeeId": "EMP-BBRH-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@beau-bassin.council.mu",
+    "role": "BudgetOfficer",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Procurement",
+    "employeeId": "EMP-BBRH-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@beau-bassin.council.mu",
+    "role": "ProcurementOfficer",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Assets",
+    "employeeId": "EMP-BBRH-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@beau-bassin.council.mu",
+    "role": "AssetManager",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Property",
+    "employeeId": "EMP-BBRH-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@beau-bassin.council.mu",
+    "role": "PropertyManager",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Planning",
+    "employeeId": "EMP-BBRH-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@beau-bassin.council.mu",
+    "role": "LandUseOfficer",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Legal",
+    "employeeId": "EMP-BBRH-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@beau-bassin.council.mu",
+    "role": "PermitsOfficer",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Audit",
+    "employeeId": "EMP-BBRH-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@beau-bassin.council.mu",
+    "role": "Councillor",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Administration",
+    "employeeId": "EMP-BBRH-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@beau-bassin.council.mu",
+    "role": "Auditor",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Finance",
+    "employeeId": "EMP-BBRH-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@beau-bassin.council.mu",
+    "role": "TownClerk",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Procurement",
+    "employeeId": "EMP-BBRH-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@beau-bassin.council.mu",
+    "role": "DirectorOfFinance",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Assets",
+    "employeeId": "EMP-BBRH-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@beau-bassin.council.mu",
+    "role": "BudgetOfficer",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Property",
+    "employeeId": "EMP-BBRH-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@beau-bassin.council.mu",
+    "role": "ProcurementOfficer",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Planning",
+    "employeeId": "EMP-BBRH-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@beau-bassin.council.mu",
+    "role": "AssetManager",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Legal",
+    "employeeId": "EMP-BBRH-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@beau-bassin.council.mu",
+    "role": "PropertyManager",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Audit",
+    "employeeId": "EMP-BBRH-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@beau-bassin.council.mu",
+    "role": "LandUseOfficer",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Administration",
+    "employeeId": "EMP-BBRH-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@beau-bassin.council.mu",
+    "role": "PermitsOfficer",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Finance",
+    "employeeId": "EMP-BBRH-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@beau-bassin.council.mu",
+    "role": "Councillor",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Procurement",
+    "employeeId": "EMP-BBRH-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@beau-bassin.council.mu",
+    "role": "Auditor",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Assets",
+    "employeeId": "EMP-BBRH-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@beau-bassin.council.mu",
+    "role": "TownClerk",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Property",
+    "employeeId": "EMP-BBRH-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@beau-bassin.council.mu",
+    "role": "DirectorOfFinance",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Planning",
+    "employeeId": "EMP-BBRH-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@beau-bassin.council.mu",
+    "role": "BudgetOfficer",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Legal",
+    "employeeId": "EMP-BBRH-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@beau-bassin.council.mu",
+    "role": "ProcurementOfficer",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Audit",
+    "employeeId": "EMP-BBRH-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@beau-bassin.council.mu",
+    "role": "AssetManager",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Administration",
+    "employeeId": "EMP-BBRH-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@beau-bassin.council.mu",
+    "role": "PropertyManager",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Finance",
+    "employeeId": "EMP-BBRH-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@beau-bassin.council.mu",
+    "role": "LandUseOfficer",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Procurement",
+    "employeeId": "EMP-BBRH-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@beau-bassin.council.mu",
+    "role": "PermitsOfficer",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Assets",
+    "employeeId": "EMP-BBRH-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@beau-bassin.council.mu",
+    "role": "Councillor",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Property",
+    "employeeId": "EMP-BBRH-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@beau-bassin.council.mu",
+    "role": "Auditor",
+    "tenantId": "beau-bassin-rose-hill",
+    "councilName": "Beau Bassin-Rose Hill",
+    "department": "Planning",
+    "employeeId": "EMP-BBRH-0030",
+    "isActive": true
+  }
+]

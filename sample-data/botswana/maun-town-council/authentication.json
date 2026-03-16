@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@maun.council.bw",
+    "role": "TownClerk",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-MTC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@maun.council.bw",
+    "role": "DirectorOfFinance",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-MTC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@maun.council.bw",
+    "role": "BudgetOfficer",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MTC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@maun.council.bw",
+    "role": "ProcurementOfficer",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-MTC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@maun.council.bw",
+    "role": "AssetManager",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Property",
+    "employeeId": "EMP-MTC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@maun.council.bw",
+    "role": "PropertyManager",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-MTC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@maun.council.bw",
+    "role": "LandUseOfficer",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-MTC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@maun.council.bw",
+    "role": "PermitsOfficer",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-MTC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@maun.council.bw",
+    "role": "Councillor",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-MTC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@maun.council.bw",
+    "role": "Auditor",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-MTC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@maun.council.bw",
+    "role": "TownClerk",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MTC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@maun.council.bw",
+    "role": "DirectorOfFinance",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-MTC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@maun.council.bw",
+    "role": "BudgetOfficer",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Property",
+    "employeeId": "EMP-MTC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@maun.council.bw",
+    "role": "ProcurementOfficer",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-MTC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@maun.council.bw",
+    "role": "AssetManager",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-MTC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@maun.council.bw",
+    "role": "PropertyManager",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-MTC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@maun.council.bw",
+    "role": "LandUseOfficer",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-MTC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@maun.council.bw",
+    "role": "PermitsOfficer",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-MTC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@maun.council.bw",
+    "role": "Councillor",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MTC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@maun.council.bw",
+    "role": "Auditor",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-MTC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@maun.council.bw",
+    "role": "TownClerk",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Property",
+    "employeeId": "EMP-MTC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@maun.council.bw",
+    "role": "DirectorOfFinance",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-MTC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@maun.council.bw",
+    "role": "BudgetOfficer",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-MTC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@maun.council.bw",
+    "role": "ProcurementOfficer",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-MTC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@maun.council.bw",
+    "role": "AssetManager",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-MTC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@maun.council.bw",
+    "role": "PropertyManager",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-MTC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@maun.council.bw",
+    "role": "LandUseOfficer",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MTC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@maun.council.bw",
+    "role": "PermitsOfficer",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-MTC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@maun.council.bw",
+    "role": "Councillor",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Property",
+    "employeeId": "EMP-MTC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@maun.council.bw",
+    "role": "Auditor",
+    "tenantId": "maun-town-council",
+    "councilName": "Maun Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-MTC-0030",
+    "isActive": true
+  }
+]

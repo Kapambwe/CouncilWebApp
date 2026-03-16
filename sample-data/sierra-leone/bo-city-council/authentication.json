@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@bo.council.sl",
+    "role": "TownClerk",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Administration",
+    "employeeId": "EMP-BCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@bo.council.sl",
+    "role": "DirectorOfFinance",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Finance",
+    "employeeId": "EMP-BCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@bo.council.sl",
+    "role": "BudgetOfficer",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-BCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@bo.council.sl",
+    "role": "ProcurementOfficer",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Assets",
+    "employeeId": "EMP-BCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@bo.council.sl",
+    "role": "AssetManager",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Property",
+    "employeeId": "EMP-BCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@bo.council.sl",
+    "role": "PropertyManager",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Planning",
+    "employeeId": "EMP-BCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@bo.council.sl",
+    "role": "LandUseOfficer",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Legal",
+    "employeeId": "EMP-BCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@bo.council.sl",
+    "role": "PermitsOfficer",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Audit",
+    "employeeId": "EMP-BCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@bo.council.sl",
+    "role": "Councillor",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Administration",
+    "employeeId": "EMP-BCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@bo.council.sl",
+    "role": "Auditor",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Finance",
+    "employeeId": "EMP-BCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@bo.council.sl",
+    "role": "TownClerk",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-BCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@bo.council.sl",
+    "role": "DirectorOfFinance",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Assets",
+    "employeeId": "EMP-BCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@bo.council.sl",
+    "role": "BudgetOfficer",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Property",
+    "employeeId": "EMP-BCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@bo.council.sl",
+    "role": "ProcurementOfficer",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Planning",
+    "employeeId": "EMP-BCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@bo.council.sl",
+    "role": "AssetManager",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Legal",
+    "employeeId": "EMP-BCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@bo.council.sl",
+    "role": "PropertyManager",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Audit",
+    "employeeId": "EMP-BCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@bo.council.sl",
+    "role": "LandUseOfficer",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Administration",
+    "employeeId": "EMP-BCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@bo.council.sl",
+    "role": "PermitsOfficer",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Finance",
+    "employeeId": "EMP-BCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@bo.council.sl",
+    "role": "Councillor",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-BCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@bo.council.sl",
+    "role": "Auditor",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Assets",
+    "employeeId": "EMP-BCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@bo.council.sl",
+    "role": "TownClerk",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Property",
+    "employeeId": "EMP-BCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@bo.council.sl",
+    "role": "DirectorOfFinance",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Planning",
+    "employeeId": "EMP-BCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@bo.council.sl",
+    "role": "BudgetOfficer",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Legal",
+    "employeeId": "EMP-BCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@bo.council.sl",
+    "role": "ProcurementOfficer",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Audit",
+    "employeeId": "EMP-BCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@bo.council.sl",
+    "role": "AssetManager",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Administration",
+    "employeeId": "EMP-BCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@bo.council.sl",
+    "role": "PropertyManager",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Finance",
+    "employeeId": "EMP-BCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@bo.council.sl",
+    "role": "LandUseOfficer",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-BCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@bo.council.sl",
+    "role": "PermitsOfficer",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Assets",
+    "employeeId": "EMP-BCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@bo.council.sl",
+    "role": "Councillor",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Property",
+    "employeeId": "EMP-BCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@bo.council.sl",
+    "role": "Auditor",
+    "tenantId": "bo-city-council",
+    "councilName": "Bo City Council",
+    "department": "Planning",
+    "employeeId": "EMP-BCC-0030",
+    "isActive": true
+  }
+]

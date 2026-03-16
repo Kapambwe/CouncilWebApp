@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@mbarara.council.ug",
+    "role": "TownClerk",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-MMC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@mbarara.council.ug",
+    "role": "DirectorOfFinance",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-MMC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@mbarara.council.ug",
+    "role": "BudgetOfficer",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MMC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@mbarara.council.ug",
+    "role": "ProcurementOfficer",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-MMC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@mbarara.council.ug",
+    "role": "AssetManager",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-MMC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@mbarara.council.ug",
+    "role": "PropertyManager",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-MMC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@mbarara.council.ug",
+    "role": "LandUseOfficer",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-MMC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@mbarara.council.ug",
+    "role": "PermitsOfficer",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-MMC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@mbarara.council.ug",
+    "role": "Councillor",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-MMC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@mbarara.council.ug",
+    "role": "Auditor",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-MMC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@mbarara.council.ug",
+    "role": "TownClerk",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MMC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@mbarara.council.ug",
+    "role": "DirectorOfFinance",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-MMC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@mbarara.council.ug",
+    "role": "BudgetOfficer",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-MMC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@mbarara.council.ug",
+    "role": "ProcurementOfficer",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-MMC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@mbarara.council.ug",
+    "role": "AssetManager",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-MMC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@mbarara.council.ug",
+    "role": "PropertyManager",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-MMC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@mbarara.council.ug",
+    "role": "LandUseOfficer",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-MMC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@mbarara.council.ug",
+    "role": "PermitsOfficer",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-MMC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@mbarara.council.ug",
+    "role": "Councillor",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MMC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@mbarara.council.ug",
+    "role": "Auditor",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-MMC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@mbarara.council.ug",
+    "role": "TownClerk",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-MMC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@mbarara.council.ug",
+    "role": "DirectorOfFinance",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-MMC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@mbarara.council.ug",
+    "role": "BudgetOfficer",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-MMC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@mbarara.council.ug",
+    "role": "ProcurementOfficer",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-MMC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@mbarara.council.ug",
+    "role": "AssetManager",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-MMC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@mbarara.council.ug",
+    "role": "PropertyManager",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-MMC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@mbarara.council.ug",
+    "role": "LandUseOfficer",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MMC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@mbarara.council.ug",
+    "role": "PermitsOfficer",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-MMC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@mbarara.council.ug",
+    "role": "Councillor",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-MMC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@mbarara.council.ug",
+    "role": "Auditor",
+    "tenantId": "mbarara-municipal-council",
+    "councilName": "Mbarara Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-MMC-0030",
+    "isActive": true
+  }
+]

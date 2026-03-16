@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@nairobi.council.ke",
+    "role": "TownClerk",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Administration",
+    "employeeId": "EMP-NBCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@nairobi.council.ke",
+    "role": "DirectorOfFinance",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Finance",
+    "employeeId": "EMP-NBCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@nairobi.council.ke",
+    "role": "BudgetOfficer",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-NBCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@nairobi.council.ke",
+    "role": "ProcurementOfficer",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Assets",
+    "employeeId": "EMP-NBCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@nairobi.council.ke",
+    "role": "AssetManager",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Property",
+    "employeeId": "EMP-NBCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@nairobi.council.ke",
+    "role": "PropertyManager",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Planning",
+    "employeeId": "EMP-NBCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@nairobi.council.ke",
+    "role": "LandUseOfficer",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Legal",
+    "employeeId": "EMP-NBCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@nairobi.council.ke",
+    "role": "PermitsOfficer",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Audit",
+    "employeeId": "EMP-NBCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@nairobi.council.ke",
+    "role": "Councillor",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Administration",
+    "employeeId": "EMP-NBCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@nairobi.council.ke",
+    "role": "Auditor",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Finance",
+    "employeeId": "EMP-NBCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@nairobi.council.ke",
+    "role": "TownClerk",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-NBCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@nairobi.council.ke",
+    "role": "DirectorOfFinance",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Assets",
+    "employeeId": "EMP-NBCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@nairobi.council.ke",
+    "role": "BudgetOfficer",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Property",
+    "employeeId": "EMP-NBCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@nairobi.council.ke",
+    "role": "ProcurementOfficer",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Planning",
+    "employeeId": "EMP-NBCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@nairobi.council.ke",
+    "role": "AssetManager",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Legal",
+    "employeeId": "EMP-NBCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@nairobi.council.ke",
+    "role": "PropertyManager",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Audit",
+    "employeeId": "EMP-NBCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@nairobi.council.ke",
+    "role": "LandUseOfficer",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Administration",
+    "employeeId": "EMP-NBCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@nairobi.council.ke",
+    "role": "PermitsOfficer",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Finance",
+    "employeeId": "EMP-NBCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@nairobi.council.ke",
+    "role": "Councillor",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-NBCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@nairobi.council.ke",
+    "role": "Auditor",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Assets",
+    "employeeId": "EMP-NBCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@nairobi.council.ke",
+    "role": "TownClerk",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Property",
+    "employeeId": "EMP-NBCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@nairobi.council.ke",
+    "role": "DirectorOfFinance",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Planning",
+    "employeeId": "EMP-NBCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@nairobi.council.ke",
+    "role": "BudgetOfficer",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Legal",
+    "employeeId": "EMP-NBCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@nairobi.council.ke",
+    "role": "ProcurementOfficer",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Audit",
+    "employeeId": "EMP-NBCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@nairobi.council.ke",
+    "role": "AssetManager",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Administration",
+    "employeeId": "EMP-NBCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@nairobi.council.ke",
+    "role": "PropertyManager",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Finance",
+    "employeeId": "EMP-NBCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@nairobi.council.ke",
+    "role": "LandUseOfficer",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-NBCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@nairobi.council.ke",
+    "role": "PermitsOfficer",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Assets",
+    "employeeId": "EMP-NBCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@nairobi.council.ke",
+    "role": "Councillor",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Property",
+    "employeeId": "EMP-NBCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@nairobi.council.ke",
+    "role": "Auditor",
+    "tenantId": "nairobi-city-council",
+    "councilName": "Nairobi City Council",
+    "department": "Planning",
+    "employeeId": "EMP-NBCC-0030",
+    "isActive": true
+  }
+]

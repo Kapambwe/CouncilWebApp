@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "zoneName": "Zone A",
+    "wards": [
+      "Garden",
+      "Kanyama"
+    ],
+    "population": 75747,
+    "numberOfHouseholds": 2033,
+    "collectionFrequency": "Weekly",
+    "numberOfRoutes": 3,
+    "assignedVehicles": 2,
+    "supervisor": "Bwalya Mwanza",
+    "phoneNumber": "+2600971241984",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "zoneName": "Zone B",
+    "wards": [
+      "Chaisa",
+      "Mandevu"
+    ],
+    "population": 14226,
+    "numberOfHouseholds": 19853,
+    "collectionFrequency": "Twice Weekly",
+    "numberOfRoutes": 9,
+    "assignedVehicles": 4,
+    "supervisor": "Mutale Sichone",
+    "phoneNumber": "+2600953941532",
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "zoneName": "Zone C",
+    "wards": [
+      "Rhodes Park",
+      "Mtendere"
+    ],
+    "population": 79638,
+    "numberOfHouseholds": 13757,
+    "collectionFrequency": "Weekly",
+    "numberOfRoutes": 5,
+    "assignedVehicles": 4,
+    "supervisor": "Kabwe Mbewe",
+    "phoneNumber": "+2600953889364",
+    "status": "Active"
+  },
+  {
+    "id": 4,
+    "zoneName": "Zone D",
+    "wards": [
+      "Chaisa",
+      "Kanyama"
+    ],
+    "population": 56379,
+    "numberOfHouseholds": 15867,
+    "collectionFrequency": "Twice Weekly",
+    "numberOfRoutes": 4,
+    "assignedVehicles": 6,
+    "supervisor": "Kabwe Mwanza",
+    "phoneNumber": "+2600957403286",
+    "status": "Active"
+  },
+  {
+    "id": 5,
+    "zoneName": "Zone E",
+    "wards": [
+      "Chaisa",
+      "Kanyama"
+    ],
+    "population": 31310,
+    "numberOfHouseholds": 14682,
+    "collectionFrequency": "Twice Weekly",
+    "numberOfRoutes": 8,
+    "assignedVehicles": 8,
+    "supervisor": "Mulenga Sichone",
+    "phoneNumber": "+2600951639281",
+    "status": "Active"
+  },
+  {
+    "id": 6,
+    "zoneName": "Zone F",
+    "wards": [
+      "Garden",
+      "Chaisa"
+    ],
+    "population": 68630,
+    "numberOfHouseholds": 8403,
+    "collectionFrequency": "Daily",
+    "numberOfRoutes": 9,
+    "assignedVehicles": 2,
+    "supervisor": "Zulu Mwanza",
+    "phoneNumber": "+2600764556288",
+    "status": "Active"
+  },
+  {
+    "id": 7,
+    "zoneName": "Zone G",
+    "wards": [
+      "Garden",
+      "Kanyama"
+    ],
+    "population": 66108,
+    "numberOfHouseholds": 4739,
+    "collectionFrequency": "Daily",
+    "numberOfRoutes": 3,
+    "assignedVehicles": 3,
+    "supervisor": "Banda Lupiya",
+    "phoneNumber": "+2600974319918",
+    "status": "Active"
+  },
+  {
+    "id": 8,
+    "zoneName": "Zone H",
+    "wards": [
+      "Chaisa",
+      "Chawama"
+    ],
+    "population": 61761,
+    "numberOfHouseholds": 18979,
+    "collectionFrequency": "Weekly",
+    "numberOfRoutes": 3,
+    "assignedVehicles": 3,
+    "supervisor": "Zulu Mbewe",
+    "phoneNumber": "+2600774502561",
+    "status": "Active"
+  },
+  {
+    "id": 9,
+    "zoneName": "Zone I",
+    "wards": [
+      "Garden",
+      "Ng'ombe"
+    ],
+    "population": 34351,
+    "numberOfHouseholds": 12408,
+    "collectionFrequency": "Daily",
+    "numberOfRoutes": 9,
+    "assignedVehicles": 3,
+    "supervisor": "Bwalya Sakala",
+    "phoneNumber": "+2600767599822",
+    "status": "Active"
+  },
+  {
+    "id": 10,
+    "zoneName": "Zone J",
+    "wards": [
+      "Mtendere",
+      "Garden"
+    ],
+    "population": 53543,
+    "numberOfHouseholds": 12774,
+    "collectionFrequency": "Twice Weekly",
+    "numberOfRoutes": 4,
+    "assignedVehicles": 8,
+    "supervisor": "Phiri Banda",
+    "phoneNumber": "+2600767810234",
+    "status": "Active"
+  },
+  {
+    "id": 11,
+    "zoneName": "Zone A",
+    "wards": [
+      "Kanyama",
+      "Mtendere"
+    ],
+    "population": 12596,
+    "numberOfHouseholds": 18042,
+    "collectionFrequency": "Weekly",
+    "numberOfRoutes": 6,
+    "assignedVehicles": 4,
+    "supervisor": "Mwansa Sichone",
+    "phoneNumber": "+2600979950851",
+    "status": "Active"
+  },
+  {
+    "id": 12,
+    "zoneName": "Zone B",
+    "wards": [
+      "Chaisa",
+      "Chawama"
+    ],
+    "population": 57189,
+    "numberOfHouseholds": 16378,
+    "collectionFrequency": "Twice Weekly",
+    "numberOfRoutes": 10,
+    "assignedVehicles": 5,
+    "supervisor": "Mulenga Kunda",
+    "phoneNumber": "+2600762153536",
+    "status": "Active"
+  },
+  {
+    "id": 13,
+    "zoneName": "Zone C",
+    "wards": [
+      "Garden",
+      "Chilenje"
+    ],
+    "population": 72683,
+    "numberOfHouseholds": 14933,
+    "collectionFrequency": "Weekly",
+    "numberOfRoutes": 3,
+    "assignedVehicles": 3,
+    "supervisor": "Chanda Chirwa",
+    "phoneNumber": "+2600953815523",
+    "status": "Active"
+  },
+  {
+    "id": 14,
+    "zoneName": "Zone D",
+    "wards": [
+      "Mandevu",
+      "Garden"
+    ],
+    "population": 92270,
+    "numberOfHouseholds": 19864,
+    "collectionFrequency": "Twice Weekly",
+    "numberOfRoutes": 5,
+    "assignedVehicles": 2,
+    "supervisor": "Mwansa Kunda",
+    "phoneNumber": "+2600765523760",
+    "status": "Active"
+  },
+  {
+    "id": 15,
+    "zoneName": "Zone E",
+    "wards": [
+      "Rhodes Park",
+      "Kanyama"
+    ],
+    "population": 10104,
+    "numberOfHouseholds": 17887,
+    "collectionFrequency": "Daily",
+    "numberOfRoutes": 8,
+    "assignedVehicles": 4,
+    "supervisor": "Kabwe Kunda",
+    "phoneNumber": "+2600971867520",
+    "status": "Active"
+  },
+  {
+    "id": 16,
+    "zoneName": "Zone F",
+    "wards": [
+      "Libala",
+      "Chawama"
+    ],
+    "population": 21026,
+    "numberOfHouseholds": 10861,
+    "collectionFrequency": "Twice Weekly",
+    "numberOfRoutes": 7,
+    "assignedVehicles": 3,
+    "supervisor": "Banda Banda",
+    "phoneNumber": "+2600974210451",
+    "status": "Active"
+  },
+  {
+    "id": 17,
+    "zoneName": "Zone G",
+    "wards": [
+      "Garden",
+      "Garden"
+    ],
+    "population": 99617,
+    "numberOfHouseholds": 8119,
+    "collectionFrequency": "Daily",
+    "numberOfRoutes": 4,
+    "assignedVehicles": 7,
+    "supervisor": "Bwalya Mbewe",
+    "phoneNumber": "+2600957720878",
+    "status": "Active"
+  },
+  {
+    "id": 18,
+    "zoneName": "Zone H",
+    "wards": [
+      "Ng'ombe",
+      "Rhodes Park"
+    ],
+    "population": 51310,
+    "numberOfHouseholds": 9559,
+    "collectionFrequency": "Daily",
+    "numberOfRoutes": 7,
+    "assignedVehicles": 2,
+    "supervisor": "Kabwe Sakala",
+    "phoneNumber": "+2600954752072",
+    "status": "Active"
+  },
+  {
+    "id": 19,
+    "zoneName": "Zone I",
+    "wards": [
+      "Ng'ombe",
+      "Libala"
+    ],
+    "population": 89446,
+    "numberOfHouseholds": 2944,
+    "collectionFrequency": "Twice Weekly",
+    "numberOfRoutes": 2,
+    "assignedVehicles": 5,
+    "supervisor": "Mutale Banda",
+    "phoneNumber": "+2600977689346",
+    "status": "Active"
+  },
+  {
+    "id": 20,
+    "zoneName": "Zone J",
+    "wards": [
+      "Mandevu",
+      "Mtendere"
+    ],
+    "population": 13501,
+    "numberOfHouseholds": 8655,
+    "collectionFrequency": "Twice Weekly",
+    "numberOfRoutes": 4,
+    "assignedVehicles": 8,
+    "supervisor": "Chanda Mbewe",
+    "phoneNumber": "+2600778290540",
+    "status": "Active"
+  },
+  {
+    "id": 21,
+    "zoneName": "Zone A",
+    "wards": [
+      "Chaisa",
+      "Chaisa"
+    ],
+    "population": 61298,
+    "numberOfHouseholds": 9542,
+    "collectionFrequency": "Twice Weekly",
+    "numberOfRoutes": 9,
+    "assignedVehicles": 4,
+    "supervisor": "Kabwe Tembo",
+    "phoneNumber": "+2600958918410",
+    "status": "Active"
+  },
+  {
+    "id": 22,
+    "zoneName": "Zone B",
+    "wards": [
+      "Chaisa",
+      "Ng'ombe"
+    ],
+    "population": 30235,
+    "numberOfHouseholds": 19895,
+    "collectionFrequency": "Twice Weekly",
+    "numberOfRoutes": 7,
+    "assignedVehicles": 5,
+    "supervisor": "Banda Banda",
+    "phoneNumber": "+2600971036616",
+    "status": "Active"
+  },
+  {
+    "id": 23,
+    "zoneName": "Zone C",
+    "wards": [
+      "Mandevu",
+      "Chilenje"
+    ],
+    "population": 25062,
+    "numberOfHouseholds": 9233,
+    "collectionFrequency": "Twice Weekly",
+    "numberOfRoutes": 10,
+    "assignedVehicles": 4,
+    "supervisor": "Chanda Mwanza",
+    "phoneNumber": "+2600965628344",
+    "status": "Active"
+  },
+  {
+    "id": 24,
+    "zoneName": "Zone D",
+    "wards": [
+      "Libala",
+      "Mtendere"
+    ],
+    "population": 51192,
+    "numberOfHouseholds": 4583,
+    "collectionFrequency": "Weekly",
+    "numberOfRoutes": 9,
+    "assignedVehicles": 7,
+    "supervisor": "Mulenga Sakala",
+    "phoneNumber": "+2600761166938",
+    "status": "Active"
+  },
+  {
+    "id": 25,
+    "zoneName": "Zone E",
+    "wards": [
+      "Chaisa",
+      "Mandevu"
+    ],
+    "population": 77984,
+    "numberOfHouseholds": 2224,
+    "collectionFrequency": "Daily",
+    "numberOfRoutes": 6,
+    "assignedVehicles": 3,
+    "supervisor": "Mutale Kunda",
+    "phoneNumber": "+2600963332181",
+    "status": "Active"
+  },
+  {
+    "id": 26,
+    "zoneName": "Zone F",
+    "wards": [
+      "Rhodes Park",
+      "Chilenje"
+    ],
+    "population": 54320,
+    "numberOfHouseholds": 13631,
+    "collectionFrequency": "Daily",
+    "numberOfRoutes": 4,
+    "assignedVehicles": 7,
+    "supervisor": "Ngoma Mbewe",
+    "phoneNumber": "+2600978560243",
+    "status": "Active"
+  },
+  {
+    "id": 27,
+    "zoneName": "Zone G",
+    "wards": [
+      "Chaisa",
+      "Libala"
+    ],
+    "population": 55026,
+    "numberOfHouseholds": 13155,
+    "collectionFrequency": "Weekly",
+    "numberOfRoutes": 9,
+    "assignedVehicles": 4,
+    "supervisor": "Mulenga Mwanza",
+    "phoneNumber": "+2600772797502",
+    "status": "Active"
+  },
+  {
+    "id": 28,
+    "zoneName": "Zone H",
+    "wards": [
+      "Garden",
+      "Rhodes Park"
+    ],
+    "population": 74323,
+    "numberOfHouseholds": 2648,
+    "collectionFrequency": "Twice Weekly",
+    "numberOfRoutes": 5,
+    "assignedVehicles": 6,
+    "supervisor": "Chanda Mwanza",
+    "phoneNumber": "+2600776097326",
+    "status": "Active"
+  },
+  {
+    "id": 29,
+    "zoneName": "Zone I",
+    "wards": [
+      "Rhodes Park",
+      "Mandevu"
+    ],
+    "population": 72105,
+    "numberOfHouseholds": 2578,
+    "collectionFrequency": "Daily",
+    "numberOfRoutes": 9,
+    "assignedVehicles": 6,
+    "supervisor": "Ngoma Lupiya",
+    "phoneNumber": "+2600952320444",
+    "status": "Active"
+  },
+  {
+    "id": 30,
+    "zoneName": "Zone J",
+    "wards": [
+      "Rhodes Park",
+      "Mandevu"
+    ],
+    "population": 59053,
+    "numberOfHouseholds": 15510,
+    "collectionFrequency": "Weekly",
+    "numberOfRoutes": 10,
+    "assignedVehicles": 5,
+    "supervisor": "Ngoma Sakala",
+    "phoneNumber": "+2600766292670",
+    "status": "Active"
+  }
+]

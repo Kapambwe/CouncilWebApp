@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@ndola.council.zm",
+    "role": "TownClerk",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Administration",
+    "employeeId": "EMP-NCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@ndola.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Finance",
+    "employeeId": "EMP-NCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@ndola.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-NCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@ndola.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Assets",
+    "employeeId": "EMP-NCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@ndola.council.zm",
+    "role": "AssetManager",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Property",
+    "employeeId": "EMP-NCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@ndola.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Planning",
+    "employeeId": "EMP-NCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@ndola.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Legal",
+    "employeeId": "EMP-NCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@ndola.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Audit",
+    "employeeId": "EMP-NCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@ndola.council.zm",
+    "role": "Councillor",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Administration",
+    "employeeId": "EMP-NCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@ndola.council.zm",
+    "role": "Auditor",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Finance",
+    "employeeId": "EMP-NCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@ndola.council.zm",
+    "role": "TownClerk",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-NCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@ndola.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Assets",
+    "employeeId": "EMP-NCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@ndola.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Property",
+    "employeeId": "EMP-NCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@ndola.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Planning",
+    "employeeId": "EMP-NCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@ndola.council.zm",
+    "role": "AssetManager",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Legal",
+    "employeeId": "EMP-NCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@ndola.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Audit",
+    "employeeId": "EMP-NCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@ndola.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Administration",
+    "employeeId": "EMP-NCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@ndola.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Finance",
+    "employeeId": "EMP-NCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@ndola.council.zm",
+    "role": "Councillor",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-NCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@ndola.council.zm",
+    "role": "Auditor",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Assets",
+    "employeeId": "EMP-NCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@ndola.council.zm",
+    "role": "TownClerk",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Property",
+    "employeeId": "EMP-NCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@ndola.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Planning",
+    "employeeId": "EMP-NCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@ndola.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Legal",
+    "employeeId": "EMP-NCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@ndola.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Audit",
+    "employeeId": "EMP-NCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@ndola.council.zm",
+    "role": "AssetManager",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Administration",
+    "employeeId": "EMP-NCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@ndola.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Finance",
+    "employeeId": "EMP-NCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@ndola.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-NCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@ndola.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Assets",
+    "employeeId": "EMP-NCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@ndola.council.zm",
+    "role": "Councillor",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Property",
+    "employeeId": "EMP-NCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@ndola.council.zm",
+    "role": "Auditor",
+    "tenantId": "ndola-city-council",
+    "councilName": "Ndola City Council",
+    "department": "Planning",
+    "employeeId": "EMP-NCC-0030",
+    "isActive": true
+  }
+]

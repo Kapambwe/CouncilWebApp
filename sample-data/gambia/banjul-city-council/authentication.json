@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@banjul.council.gm",
+    "role": "TownClerk",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Administration",
+    "employeeId": "EMP-BCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@banjul.council.gm",
+    "role": "DirectorOfFinance",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Finance",
+    "employeeId": "EMP-BCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@banjul.council.gm",
+    "role": "BudgetOfficer",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-BCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@banjul.council.gm",
+    "role": "ProcurementOfficer",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Assets",
+    "employeeId": "EMP-BCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@banjul.council.gm",
+    "role": "AssetManager",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Property",
+    "employeeId": "EMP-BCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@banjul.council.gm",
+    "role": "PropertyManager",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Planning",
+    "employeeId": "EMP-BCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@banjul.council.gm",
+    "role": "LandUseOfficer",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Legal",
+    "employeeId": "EMP-BCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@banjul.council.gm",
+    "role": "PermitsOfficer",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Audit",
+    "employeeId": "EMP-BCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@banjul.council.gm",
+    "role": "Councillor",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Administration",
+    "employeeId": "EMP-BCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@banjul.council.gm",
+    "role": "Auditor",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Finance",
+    "employeeId": "EMP-BCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@banjul.council.gm",
+    "role": "TownClerk",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-BCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@banjul.council.gm",
+    "role": "DirectorOfFinance",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Assets",
+    "employeeId": "EMP-BCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@banjul.council.gm",
+    "role": "BudgetOfficer",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Property",
+    "employeeId": "EMP-BCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@banjul.council.gm",
+    "role": "ProcurementOfficer",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Planning",
+    "employeeId": "EMP-BCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@banjul.council.gm",
+    "role": "AssetManager",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Legal",
+    "employeeId": "EMP-BCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@banjul.council.gm",
+    "role": "PropertyManager",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Audit",
+    "employeeId": "EMP-BCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@banjul.council.gm",
+    "role": "LandUseOfficer",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Administration",
+    "employeeId": "EMP-BCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@banjul.council.gm",
+    "role": "PermitsOfficer",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Finance",
+    "employeeId": "EMP-BCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@banjul.council.gm",
+    "role": "Councillor",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-BCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@banjul.council.gm",
+    "role": "Auditor",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Assets",
+    "employeeId": "EMP-BCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@banjul.council.gm",
+    "role": "TownClerk",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Property",
+    "employeeId": "EMP-BCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@banjul.council.gm",
+    "role": "DirectorOfFinance",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Planning",
+    "employeeId": "EMP-BCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@banjul.council.gm",
+    "role": "BudgetOfficer",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Legal",
+    "employeeId": "EMP-BCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@banjul.council.gm",
+    "role": "ProcurementOfficer",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Audit",
+    "employeeId": "EMP-BCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@banjul.council.gm",
+    "role": "AssetManager",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Administration",
+    "employeeId": "EMP-BCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@banjul.council.gm",
+    "role": "PropertyManager",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Finance",
+    "employeeId": "EMP-BCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@banjul.council.gm",
+    "role": "LandUseOfficer",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-BCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@banjul.council.gm",
+    "role": "PermitsOfficer",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Assets",
+    "employeeId": "EMP-BCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@banjul.council.gm",
+    "role": "Councillor",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Property",
+    "employeeId": "EMP-BCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@banjul.council.gm",
+    "role": "Auditor",
+    "tenantId": "banjul-city-council",
+    "councilName": "Banjul City Council",
+    "department": "Planning",
+    "employeeId": "EMP-BCC-0030",
+    "isActive": true
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@george.council.za",
+    "role": "TownClerk",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-GLM-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@george.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-GLM-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@george.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-GLM-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@george.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-GLM-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@george.council.za",
+    "role": "AssetManager",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-GLM-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@george.council.za",
+    "role": "PropertyManager",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-GLM-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@george.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-GLM-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@george.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-GLM-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@george.council.za",
+    "role": "Councillor",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-GLM-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@george.council.za",
+    "role": "Auditor",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-GLM-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@george.council.za",
+    "role": "TownClerk",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-GLM-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@george.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-GLM-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@george.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-GLM-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@george.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-GLM-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@george.council.za",
+    "role": "AssetManager",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-GLM-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@george.council.za",
+    "role": "PropertyManager",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-GLM-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@george.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-GLM-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@george.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-GLM-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@george.council.za",
+    "role": "Councillor",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-GLM-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@george.council.za",
+    "role": "Auditor",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-GLM-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@george.council.za",
+    "role": "TownClerk",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-GLM-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@george.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-GLM-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@george.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-GLM-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@george.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-GLM-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@george.council.za",
+    "role": "AssetManager",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-GLM-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@george.council.za",
+    "role": "PropertyManager",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-GLM-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@george.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-GLM-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@george.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-GLM-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@george.council.za",
+    "role": "Councillor",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-GLM-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@george.council.za",
+    "role": "Auditor",
+    "tenantId": "george-local-municipality",
+    "councilName": "George Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-GLM-0030",
+    "isActive": true
+  }
+]

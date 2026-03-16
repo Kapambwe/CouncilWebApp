@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@lusaka.council.zm",
+    "role": "TownClerk",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Administration",
+    "employeeId": "EMP-LCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@lusaka.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Finance",
+    "employeeId": "EMP-LCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@lusaka.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-LCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@lusaka.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Assets",
+    "employeeId": "EMP-LCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@lusaka.council.zm",
+    "role": "AssetManager",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Property",
+    "employeeId": "EMP-LCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@lusaka.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Planning",
+    "employeeId": "EMP-LCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@lusaka.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Legal",
+    "employeeId": "EMP-LCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@lusaka.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Audit",
+    "employeeId": "EMP-LCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@lusaka.council.zm",
+    "role": "Councillor",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Administration",
+    "employeeId": "EMP-LCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@lusaka.council.zm",
+    "role": "Auditor",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Finance",
+    "employeeId": "EMP-LCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@lusaka.council.zm",
+    "role": "TownClerk",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-LCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@lusaka.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Assets",
+    "employeeId": "EMP-LCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@lusaka.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Property",
+    "employeeId": "EMP-LCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@lusaka.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Planning",
+    "employeeId": "EMP-LCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@lusaka.council.zm",
+    "role": "AssetManager",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Legal",
+    "employeeId": "EMP-LCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@lusaka.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Audit",
+    "employeeId": "EMP-LCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@lusaka.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Administration",
+    "employeeId": "EMP-LCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@lusaka.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Finance",
+    "employeeId": "EMP-LCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@lusaka.council.zm",
+    "role": "Councillor",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-LCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@lusaka.council.zm",
+    "role": "Auditor",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Assets",
+    "employeeId": "EMP-LCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@lusaka.council.zm",
+    "role": "TownClerk",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Property",
+    "employeeId": "EMP-LCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@lusaka.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Planning",
+    "employeeId": "EMP-LCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@lusaka.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Legal",
+    "employeeId": "EMP-LCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@lusaka.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Audit",
+    "employeeId": "EMP-LCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@lusaka.council.zm",
+    "role": "AssetManager",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Administration",
+    "employeeId": "EMP-LCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@lusaka.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Finance",
+    "employeeId": "EMP-LCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@lusaka.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-LCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@lusaka.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Assets",
+    "employeeId": "EMP-LCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@lusaka.council.zm",
+    "role": "Councillor",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Property",
+    "employeeId": "EMP-LCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@lusaka.council.zm",
+    "role": "Auditor",
+    "tenantId": "lusaka-city-council",
+    "councilName": "Lusaka City Council",
+    "department": "Planning",
+    "employeeId": "EMP-LCC-0030",
+    "isActive": true
+  }
+]
