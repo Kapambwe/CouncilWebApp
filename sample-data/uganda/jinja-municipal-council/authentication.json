@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@jinja.council.ug",
+    "role": "TownClerk",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-JMC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@jinja.council.ug",
+    "role": "DirectorOfFinance",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-JMC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@jinja.council.ug",
+    "role": "BudgetOfficer",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-JMC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@jinja.council.ug",
+    "role": "ProcurementOfficer",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-JMC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@jinja.council.ug",
+    "role": "AssetManager",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-JMC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@jinja.council.ug",
+    "role": "PropertyManager",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-JMC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@jinja.council.ug",
+    "role": "LandUseOfficer",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-JMC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@jinja.council.ug",
+    "role": "PermitsOfficer",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-JMC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@jinja.council.ug",
+    "role": "Councillor",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-JMC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@jinja.council.ug",
+    "role": "Auditor",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-JMC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@jinja.council.ug",
+    "role": "TownClerk",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-JMC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@jinja.council.ug",
+    "role": "DirectorOfFinance",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-JMC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@jinja.council.ug",
+    "role": "BudgetOfficer",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-JMC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@jinja.council.ug",
+    "role": "ProcurementOfficer",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-JMC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@jinja.council.ug",
+    "role": "AssetManager",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-JMC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@jinja.council.ug",
+    "role": "PropertyManager",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-JMC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@jinja.council.ug",
+    "role": "LandUseOfficer",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-JMC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@jinja.council.ug",
+    "role": "PermitsOfficer",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-JMC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@jinja.council.ug",
+    "role": "Councillor",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-JMC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@jinja.council.ug",
+    "role": "Auditor",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-JMC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@jinja.council.ug",
+    "role": "TownClerk",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-JMC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@jinja.council.ug",
+    "role": "DirectorOfFinance",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-JMC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@jinja.council.ug",
+    "role": "BudgetOfficer",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-JMC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@jinja.council.ug",
+    "role": "ProcurementOfficer",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-JMC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@jinja.council.ug",
+    "role": "AssetManager",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-JMC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@jinja.council.ug",
+    "role": "PropertyManager",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-JMC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@jinja.council.ug",
+    "role": "LandUseOfficer",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-JMC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@jinja.council.ug",
+    "role": "PermitsOfficer",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-JMC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@jinja.council.ug",
+    "role": "Councillor",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-JMC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@jinja.council.ug",
+    "role": "Auditor",
+    "tenantId": "jinja-municipal-council",
+    "councilName": "Jinja Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-JMC-0030",
+    "isActive": true
+  }
+]

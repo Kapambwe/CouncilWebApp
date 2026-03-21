@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@mafeteng.council.ls",
+    "role": "TownClerk",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Administration",
+    "employeeId": "EMP-MFCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@mafeteng.council.ls",
+    "role": "DirectorOfFinance",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Finance",
+    "employeeId": "EMP-MFCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@mafeteng.council.ls",
+    "role": "BudgetOfficer",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MFCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@mafeteng.council.ls",
+    "role": "ProcurementOfficer",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Assets",
+    "employeeId": "EMP-MFCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@mafeteng.council.ls",
+    "role": "AssetManager",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Property",
+    "employeeId": "EMP-MFCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@mafeteng.council.ls",
+    "role": "PropertyManager",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Planning",
+    "employeeId": "EMP-MFCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@mafeteng.council.ls",
+    "role": "LandUseOfficer",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Legal",
+    "employeeId": "EMP-MFCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@mafeteng.council.ls",
+    "role": "PermitsOfficer",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Audit",
+    "employeeId": "EMP-MFCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@mafeteng.council.ls",
+    "role": "Councillor",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Administration",
+    "employeeId": "EMP-MFCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@mafeteng.council.ls",
+    "role": "Auditor",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Finance",
+    "employeeId": "EMP-MFCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@mafeteng.council.ls",
+    "role": "TownClerk",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MFCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@mafeteng.council.ls",
+    "role": "DirectorOfFinance",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Assets",
+    "employeeId": "EMP-MFCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@mafeteng.council.ls",
+    "role": "BudgetOfficer",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Property",
+    "employeeId": "EMP-MFCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@mafeteng.council.ls",
+    "role": "ProcurementOfficer",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Planning",
+    "employeeId": "EMP-MFCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@mafeteng.council.ls",
+    "role": "AssetManager",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Legal",
+    "employeeId": "EMP-MFCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@mafeteng.council.ls",
+    "role": "PropertyManager",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Audit",
+    "employeeId": "EMP-MFCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@mafeteng.council.ls",
+    "role": "LandUseOfficer",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Administration",
+    "employeeId": "EMP-MFCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@mafeteng.council.ls",
+    "role": "PermitsOfficer",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Finance",
+    "employeeId": "EMP-MFCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@mafeteng.council.ls",
+    "role": "Councillor",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MFCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@mafeteng.council.ls",
+    "role": "Auditor",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Assets",
+    "employeeId": "EMP-MFCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@mafeteng.council.ls",
+    "role": "TownClerk",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Property",
+    "employeeId": "EMP-MFCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@mafeteng.council.ls",
+    "role": "DirectorOfFinance",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Planning",
+    "employeeId": "EMP-MFCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@mafeteng.council.ls",
+    "role": "BudgetOfficer",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Legal",
+    "employeeId": "EMP-MFCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@mafeteng.council.ls",
+    "role": "ProcurementOfficer",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Audit",
+    "employeeId": "EMP-MFCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@mafeteng.council.ls",
+    "role": "AssetManager",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Administration",
+    "employeeId": "EMP-MFCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@mafeteng.council.ls",
+    "role": "PropertyManager",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Finance",
+    "employeeId": "EMP-MFCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@mafeteng.council.ls",
+    "role": "LandUseOfficer",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MFCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@mafeteng.council.ls",
+    "role": "PermitsOfficer",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Assets",
+    "employeeId": "EMP-MFCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@mafeteng.council.ls",
+    "role": "Councillor",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Property",
+    "employeeId": "EMP-MFCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@mafeteng.council.ls",
+    "role": "Auditor",
+    "tenantId": "mafeteng-community-council",
+    "councilName": "Mafeteng Community Council",
+    "department": "Planning",
+    "employeeId": "EMP-MFCC-0030",
+    "isActive": true
+  }
+]

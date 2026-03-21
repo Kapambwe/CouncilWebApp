@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@gaborone.council.bw",
+    "role": "TownClerk",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Administration",
+    "employeeId": "EMP-GCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@gaborone.council.bw",
+    "role": "DirectorOfFinance",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Finance",
+    "employeeId": "EMP-GCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@gaborone.council.bw",
+    "role": "BudgetOfficer",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-GCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@gaborone.council.bw",
+    "role": "ProcurementOfficer",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Assets",
+    "employeeId": "EMP-GCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@gaborone.council.bw",
+    "role": "AssetManager",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Property",
+    "employeeId": "EMP-GCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@gaborone.council.bw",
+    "role": "PropertyManager",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Planning",
+    "employeeId": "EMP-GCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@gaborone.council.bw",
+    "role": "LandUseOfficer",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Legal",
+    "employeeId": "EMP-GCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@gaborone.council.bw",
+    "role": "PermitsOfficer",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Audit",
+    "employeeId": "EMP-GCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@gaborone.council.bw",
+    "role": "Councillor",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Administration",
+    "employeeId": "EMP-GCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@gaborone.council.bw",
+    "role": "Auditor",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Finance",
+    "employeeId": "EMP-GCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@gaborone.council.bw",
+    "role": "TownClerk",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-GCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@gaborone.council.bw",
+    "role": "DirectorOfFinance",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Assets",
+    "employeeId": "EMP-GCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@gaborone.council.bw",
+    "role": "BudgetOfficer",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Property",
+    "employeeId": "EMP-GCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@gaborone.council.bw",
+    "role": "ProcurementOfficer",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Planning",
+    "employeeId": "EMP-GCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@gaborone.council.bw",
+    "role": "AssetManager",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Legal",
+    "employeeId": "EMP-GCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@gaborone.council.bw",
+    "role": "PropertyManager",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Audit",
+    "employeeId": "EMP-GCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@gaborone.council.bw",
+    "role": "LandUseOfficer",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Administration",
+    "employeeId": "EMP-GCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@gaborone.council.bw",
+    "role": "PermitsOfficer",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Finance",
+    "employeeId": "EMP-GCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@gaborone.council.bw",
+    "role": "Councillor",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-GCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@gaborone.council.bw",
+    "role": "Auditor",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Assets",
+    "employeeId": "EMP-GCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@gaborone.council.bw",
+    "role": "TownClerk",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Property",
+    "employeeId": "EMP-GCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@gaborone.council.bw",
+    "role": "DirectorOfFinance",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Planning",
+    "employeeId": "EMP-GCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@gaborone.council.bw",
+    "role": "BudgetOfficer",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Legal",
+    "employeeId": "EMP-GCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@gaborone.council.bw",
+    "role": "ProcurementOfficer",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Audit",
+    "employeeId": "EMP-GCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@gaborone.council.bw",
+    "role": "AssetManager",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Administration",
+    "employeeId": "EMP-GCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@gaborone.council.bw",
+    "role": "PropertyManager",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Finance",
+    "employeeId": "EMP-GCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@gaborone.council.bw",
+    "role": "LandUseOfficer",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-GCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@gaborone.council.bw",
+    "role": "PermitsOfficer",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Assets",
+    "employeeId": "EMP-GCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@gaborone.council.bw",
+    "role": "Councillor",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Property",
+    "employeeId": "EMP-GCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@gaborone.council.bw",
+    "role": "Auditor",
+    "tenantId": "gaborone-city-council",
+    "councilName": "Gaborone City Council",
+    "department": "Planning",
+    "employeeId": "EMP-GCC-0030",
+    "isActive": true
+  }
+]

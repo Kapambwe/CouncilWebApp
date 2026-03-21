@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@harare.council.zw",
+    "role": "TownClerk",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Administration",
+    "employeeId": "EMP-HCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@harare.council.zw",
+    "role": "DirectorOfFinance",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Finance",
+    "employeeId": "EMP-HCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@harare.council.zw",
+    "role": "BudgetOfficer",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-HCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@harare.council.zw",
+    "role": "ProcurementOfficer",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Assets",
+    "employeeId": "EMP-HCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@harare.council.zw",
+    "role": "AssetManager",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Property",
+    "employeeId": "EMP-HCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@harare.council.zw",
+    "role": "PropertyManager",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Planning",
+    "employeeId": "EMP-HCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@harare.council.zw",
+    "role": "LandUseOfficer",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Legal",
+    "employeeId": "EMP-HCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@harare.council.zw",
+    "role": "PermitsOfficer",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Audit",
+    "employeeId": "EMP-HCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@harare.council.zw",
+    "role": "Councillor",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Administration",
+    "employeeId": "EMP-HCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@harare.council.zw",
+    "role": "Auditor",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Finance",
+    "employeeId": "EMP-HCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@harare.council.zw",
+    "role": "TownClerk",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-HCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@harare.council.zw",
+    "role": "DirectorOfFinance",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Assets",
+    "employeeId": "EMP-HCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@harare.council.zw",
+    "role": "BudgetOfficer",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Property",
+    "employeeId": "EMP-HCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@harare.council.zw",
+    "role": "ProcurementOfficer",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Planning",
+    "employeeId": "EMP-HCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@harare.council.zw",
+    "role": "AssetManager",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Legal",
+    "employeeId": "EMP-HCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@harare.council.zw",
+    "role": "PropertyManager",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Audit",
+    "employeeId": "EMP-HCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@harare.council.zw",
+    "role": "LandUseOfficer",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Administration",
+    "employeeId": "EMP-HCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@harare.council.zw",
+    "role": "PermitsOfficer",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Finance",
+    "employeeId": "EMP-HCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@harare.council.zw",
+    "role": "Councillor",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-HCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@harare.council.zw",
+    "role": "Auditor",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Assets",
+    "employeeId": "EMP-HCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@harare.council.zw",
+    "role": "TownClerk",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Property",
+    "employeeId": "EMP-HCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@harare.council.zw",
+    "role": "DirectorOfFinance",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Planning",
+    "employeeId": "EMP-HCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@harare.council.zw",
+    "role": "BudgetOfficer",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Legal",
+    "employeeId": "EMP-HCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@harare.council.zw",
+    "role": "ProcurementOfficer",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Audit",
+    "employeeId": "EMP-HCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@harare.council.zw",
+    "role": "AssetManager",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Administration",
+    "employeeId": "EMP-HCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@harare.council.zw",
+    "role": "PropertyManager",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Finance",
+    "employeeId": "EMP-HCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@harare.council.zw",
+    "role": "LandUseOfficer",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-HCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@harare.council.zw",
+    "role": "PermitsOfficer",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Assets",
+    "employeeId": "EMP-HCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@harare.council.zw",
+    "role": "Councillor",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Property",
+    "employeeId": "EMP-HCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@harare.council.zw",
+    "role": "Auditor",
+    "tenantId": "harare-city-council",
+    "councilName": "Harare City Council",
+    "department": "Planning",
+    "employeeId": "EMP-HCC-0030",
+    "isActive": true
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@quthing.council.ls",
+    "role": "TownClerk",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Administration",
+    "employeeId": "EMP-QCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@quthing.council.ls",
+    "role": "DirectorOfFinance",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Finance",
+    "employeeId": "EMP-QCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@quthing.council.ls",
+    "role": "BudgetOfficer",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Procurement",
+    "employeeId": "EMP-QCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@quthing.council.ls",
+    "role": "ProcurementOfficer",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Assets",
+    "employeeId": "EMP-QCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@quthing.council.ls",
+    "role": "AssetManager",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Property",
+    "employeeId": "EMP-QCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@quthing.council.ls",
+    "role": "PropertyManager",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Planning",
+    "employeeId": "EMP-QCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@quthing.council.ls",
+    "role": "LandUseOfficer",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Legal",
+    "employeeId": "EMP-QCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@quthing.council.ls",
+    "role": "PermitsOfficer",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Audit",
+    "employeeId": "EMP-QCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@quthing.council.ls",
+    "role": "Councillor",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Administration",
+    "employeeId": "EMP-QCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@quthing.council.ls",
+    "role": "Auditor",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Finance",
+    "employeeId": "EMP-QCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@quthing.council.ls",
+    "role": "TownClerk",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Procurement",
+    "employeeId": "EMP-QCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@quthing.council.ls",
+    "role": "DirectorOfFinance",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Assets",
+    "employeeId": "EMP-QCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@quthing.council.ls",
+    "role": "BudgetOfficer",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Property",
+    "employeeId": "EMP-QCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@quthing.council.ls",
+    "role": "ProcurementOfficer",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Planning",
+    "employeeId": "EMP-QCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@quthing.council.ls",
+    "role": "AssetManager",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Legal",
+    "employeeId": "EMP-QCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@quthing.council.ls",
+    "role": "PropertyManager",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Audit",
+    "employeeId": "EMP-QCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@quthing.council.ls",
+    "role": "LandUseOfficer",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Administration",
+    "employeeId": "EMP-QCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@quthing.council.ls",
+    "role": "PermitsOfficer",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Finance",
+    "employeeId": "EMP-QCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@quthing.council.ls",
+    "role": "Councillor",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Procurement",
+    "employeeId": "EMP-QCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@quthing.council.ls",
+    "role": "Auditor",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Assets",
+    "employeeId": "EMP-QCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@quthing.council.ls",
+    "role": "TownClerk",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Property",
+    "employeeId": "EMP-QCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@quthing.council.ls",
+    "role": "DirectorOfFinance",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Planning",
+    "employeeId": "EMP-QCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@quthing.council.ls",
+    "role": "BudgetOfficer",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Legal",
+    "employeeId": "EMP-QCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@quthing.council.ls",
+    "role": "ProcurementOfficer",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Audit",
+    "employeeId": "EMP-QCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@quthing.council.ls",
+    "role": "AssetManager",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Administration",
+    "employeeId": "EMP-QCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@quthing.council.ls",
+    "role": "PropertyManager",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Finance",
+    "employeeId": "EMP-QCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@quthing.council.ls",
+    "role": "LandUseOfficer",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Procurement",
+    "employeeId": "EMP-QCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@quthing.council.ls",
+    "role": "PermitsOfficer",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Assets",
+    "employeeId": "EMP-QCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@quthing.council.ls",
+    "role": "Councillor",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Property",
+    "employeeId": "EMP-QCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@quthing.council.ls",
+    "role": "Auditor",
+    "tenantId": "quthing-community-council",
+    "councilName": "Quthing Community Council",
+    "department": "Planning",
+    "employeeId": "EMP-QCC-0030",
+    "isActive": true
+  }
+]

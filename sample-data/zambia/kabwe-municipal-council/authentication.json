@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@kabwe.council.zm",
+    "role": "TownClerk",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-KMC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@kabwe.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-KMC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@kabwe.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-KMC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@kabwe.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-KMC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@kabwe.council.zm",
+    "role": "AssetManager",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-KMC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@kabwe.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-KMC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@kabwe.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-KMC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@kabwe.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-KMC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@kabwe.council.zm",
+    "role": "Councillor",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-KMC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@kabwe.council.zm",
+    "role": "Auditor",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-KMC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@kabwe.council.zm",
+    "role": "TownClerk",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-KMC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@kabwe.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-KMC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@kabwe.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-KMC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@kabwe.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-KMC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@kabwe.council.zm",
+    "role": "AssetManager",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-KMC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@kabwe.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-KMC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@kabwe.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-KMC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@kabwe.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-KMC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@kabwe.council.zm",
+    "role": "Councillor",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-KMC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@kabwe.council.zm",
+    "role": "Auditor",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-KMC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@kabwe.council.zm",
+    "role": "TownClerk",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-KMC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@kabwe.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-KMC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@kabwe.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-KMC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@kabwe.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-KMC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@kabwe.council.zm",
+    "role": "AssetManager",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-KMC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@kabwe.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-KMC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@kabwe.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-KMC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@kabwe.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-KMC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@kabwe.council.zm",
+    "role": "Councillor",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-KMC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@kabwe.council.zm",
+    "role": "Auditor",
+    "tenantId": "kabwe-municipal-council",
+    "councilName": "Kabwe Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-KMC-0030",
+    "isActive": true
+  }
+]

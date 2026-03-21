@@ -1,0 +1,104 @@
+{
+  "name": "Council Web App - World-Class Council Management System",
+  "short_name": "Council App",
+  "description": "Comprehensive world-class council management system for local government operations, finance, budgeting, and citizen services",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d6efd",
+  "orientation": "any",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "government",
+    "finance",
+    "productivity",
+    "utilities"
+  ],
+  "shortcuts": [
+    {
+      "name": "Dashboard",
+      "short_name": "Dashboard",
+      "description": "View executive dashboard with real-time KPIs",
+      "url": "/council/dashboard",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Finance",
+      "short_name": "Finance",
+      "description": "Access financial management and accounting",
+      "url": "/council/finance",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Budgeting",
+      "short_name": "Budgeting",
+      "description": "Manage budgets and financial planning",
+      "url": "/budget",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Citizen Portal",
+      "short_name": "Citizen",
+      "description": "Access citizen self-service portal",
+      "url": "/citizen/dashboard",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
+  "share_target": {
+    "action": "/share",
+    "method": "POST",
+    "enctype": "multipart/form-data",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url",
+      "files": [
+        {
+          "name": "document",
+          "accept": ["application/pdf", "image/*"]
+        }
+      ]
+    }
+  },
+  "prefer_related_applications": false,
+  "related_applications": [],
+  "protocol_handlers": []
+}

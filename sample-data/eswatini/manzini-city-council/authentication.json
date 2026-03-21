@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@manzini.council.sz",
+    "role": "TownClerk",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Administration",
+    "employeeId": "EMP-MZCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@manzini.council.sz",
+    "role": "DirectorOfFinance",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Finance",
+    "employeeId": "EMP-MZCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@manzini.council.sz",
+    "role": "BudgetOfficer",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MZCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@manzini.council.sz",
+    "role": "ProcurementOfficer",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Assets",
+    "employeeId": "EMP-MZCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@manzini.council.sz",
+    "role": "AssetManager",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Property",
+    "employeeId": "EMP-MZCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@manzini.council.sz",
+    "role": "PropertyManager",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Planning",
+    "employeeId": "EMP-MZCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@manzini.council.sz",
+    "role": "LandUseOfficer",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Legal",
+    "employeeId": "EMP-MZCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@manzini.council.sz",
+    "role": "PermitsOfficer",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Audit",
+    "employeeId": "EMP-MZCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@manzini.council.sz",
+    "role": "Councillor",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Administration",
+    "employeeId": "EMP-MZCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@manzini.council.sz",
+    "role": "Auditor",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Finance",
+    "employeeId": "EMP-MZCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@manzini.council.sz",
+    "role": "TownClerk",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MZCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@manzini.council.sz",
+    "role": "DirectorOfFinance",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Assets",
+    "employeeId": "EMP-MZCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@manzini.council.sz",
+    "role": "BudgetOfficer",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Property",
+    "employeeId": "EMP-MZCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@manzini.council.sz",
+    "role": "ProcurementOfficer",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Planning",
+    "employeeId": "EMP-MZCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@manzini.council.sz",
+    "role": "AssetManager",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Legal",
+    "employeeId": "EMP-MZCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@manzini.council.sz",
+    "role": "PropertyManager",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Audit",
+    "employeeId": "EMP-MZCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@manzini.council.sz",
+    "role": "LandUseOfficer",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Administration",
+    "employeeId": "EMP-MZCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@manzini.council.sz",
+    "role": "PermitsOfficer",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Finance",
+    "employeeId": "EMP-MZCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@manzini.council.sz",
+    "role": "Councillor",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MZCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@manzini.council.sz",
+    "role": "Auditor",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Assets",
+    "employeeId": "EMP-MZCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@manzini.council.sz",
+    "role": "TownClerk",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Property",
+    "employeeId": "EMP-MZCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@manzini.council.sz",
+    "role": "DirectorOfFinance",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Planning",
+    "employeeId": "EMP-MZCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@manzini.council.sz",
+    "role": "BudgetOfficer",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Legal",
+    "employeeId": "EMP-MZCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@manzini.council.sz",
+    "role": "ProcurementOfficer",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Audit",
+    "employeeId": "EMP-MZCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@manzini.council.sz",
+    "role": "AssetManager",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Administration",
+    "employeeId": "EMP-MZCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@manzini.council.sz",
+    "role": "PropertyManager",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Finance",
+    "employeeId": "EMP-MZCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@manzini.council.sz",
+    "role": "LandUseOfficer",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MZCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@manzini.council.sz",
+    "role": "PermitsOfficer",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Assets",
+    "employeeId": "EMP-MZCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@manzini.council.sz",
+    "role": "Councillor",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Property",
+    "employeeId": "EMP-MZCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@manzini.council.sz",
+    "role": "Auditor",
+    "tenantId": "manzini-city-council",
+    "councilName": "Manzini City Council",
+    "department": "Planning",
+    "employeeId": "EMP-MZCC-0030",
+    "isActive": true
+  }
+]

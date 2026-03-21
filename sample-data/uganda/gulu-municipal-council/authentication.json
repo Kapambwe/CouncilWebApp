@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@gulu.council.ug",
+    "role": "TownClerk",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-GMC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@gulu.council.ug",
+    "role": "DirectorOfFinance",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-GMC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@gulu.council.ug",
+    "role": "BudgetOfficer",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-GMC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@gulu.council.ug",
+    "role": "ProcurementOfficer",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-GMC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@gulu.council.ug",
+    "role": "AssetManager",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-GMC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@gulu.council.ug",
+    "role": "PropertyManager",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-GMC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@gulu.council.ug",
+    "role": "LandUseOfficer",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-GMC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@gulu.council.ug",
+    "role": "PermitsOfficer",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-GMC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@gulu.council.ug",
+    "role": "Councillor",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-GMC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@gulu.council.ug",
+    "role": "Auditor",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-GMC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@gulu.council.ug",
+    "role": "TownClerk",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-GMC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@gulu.council.ug",
+    "role": "DirectorOfFinance",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-GMC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@gulu.council.ug",
+    "role": "BudgetOfficer",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-GMC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@gulu.council.ug",
+    "role": "ProcurementOfficer",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-GMC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@gulu.council.ug",
+    "role": "AssetManager",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-GMC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@gulu.council.ug",
+    "role": "PropertyManager",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-GMC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@gulu.council.ug",
+    "role": "LandUseOfficer",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-GMC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@gulu.council.ug",
+    "role": "PermitsOfficer",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-GMC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@gulu.council.ug",
+    "role": "Councillor",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-GMC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@gulu.council.ug",
+    "role": "Auditor",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-GMC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@gulu.council.ug",
+    "role": "TownClerk",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-GMC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@gulu.council.ug",
+    "role": "DirectorOfFinance",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-GMC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@gulu.council.ug",
+    "role": "BudgetOfficer",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-GMC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@gulu.council.ug",
+    "role": "ProcurementOfficer",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-GMC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@gulu.council.ug",
+    "role": "AssetManager",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-GMC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@gulu.council.ug",
+    "role": "PropertyManager",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-GMC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@gulu.council.ug",
+    "role": "LandUseOfficer",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-GMC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@gulu.council.ug",
+    "role": "PermitsOfficer",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-GMC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@gulu.council.ug",
+    "role": "Councillor",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-GMC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@gulu.council.ug",
+    "role": "Auditor",
+    "tenantId": "gulu-municipal-council",
+    "councilName": "Gulu Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-GMC-0030",
+    "isActive": true
+  }
+]

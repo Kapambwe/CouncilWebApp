@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@polokwane.council.za",
+    "role": "TownClerk",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-POL-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@polokwane.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-POL-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@polokwane.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-POL-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@polokwane.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-POL-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@polokwane.council.za",
+    "role": "AssetManager",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-POL-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@polokwane.council.za",
+    "role": "PropertyManager",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-POL-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@polokwane.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-POL-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@polokwane.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-POL-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@polokwane.council.za",
+    "role": "Councillor",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-POL-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@polokwane.council.za",
+    "role": "Auditor",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-POL-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@polokwane.council.za",
+    "role": "TownClerk",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-POL-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@polokwane.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-POL-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@polokwane.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-POL-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@polokwane.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-POL-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@polokwane.council.za",
+    "role": "AssetManager",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-POL-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@polokwane.council.za",
+    "role": "PropertyManager",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-POL-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@polokwane.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-POL-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@polokwane.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-POL-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@polokwane.council.za",
+    "role": "Councillor",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-POL-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@polokwane.council.za",
+    "role": "Auditor",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-POL-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@polokwane.council.za",
+    "role": "TownClerk",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-POL-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@polokwane.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-POL-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@polokwane.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-POL-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@polokwane.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-POL-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@polokwane.council.za",
+    "role": "AssetManager",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-POL-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@polokwane.council.za",
+    "role": "PropertyManager",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-POL-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@polokwane.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-POL-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@polokwane.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-POL-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@polokwane.council.za",
+    "role": "Councillor",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-POL-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@polokwane.council.za",
+    "role": "Auditor",
+    "tenantId": "polokwane-local-municipality",
+    "councilName": "Polokwane Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-POL-0030",
+    "isActive": true
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@jwaneng.council.bw",
+    "role": "TownClerk",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-JTC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@jwaneng.council.bw",
+    "role": "DirectorOfFinance",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-JTC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@jwaneng.council.bw",
+    "role": "BudgetOfficer",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-JTC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@jwaneng.council.bw",
+    "role": "ProcurementOfficer",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-JTC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@jwaneng.council.bw",
+    "role": "AssetManager",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Property",
+    "employeeId": "EMP-JTC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@jwaneng.council.bw",
+    "role": "PropertyManager",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-JTC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@jwaneng.council.bw",
+    "role": "LandUseOfficer",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-JTC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@jwaneng.council.bw",
+    "role": "PermitsOfficer",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-JTC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@jwaneng.council.bw",
+    "role": "Councillor",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-JTC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@jwaneng.council.bw",
+    "role": "Auditor",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-JTC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@jwaneng.council.bw",
+    "role": "TownClerk",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-JTC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@jwaneng.council.bw",
+    "role": "DirectorOfFinance",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-JTC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@jwaneng.council.bw",
+    "role": "BudgetOfficer",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Property",
+    "employeeId": "EMP-JTC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@jwaneng.council.bw",
+    "role": "ProcurementOfficer",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-JTC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@jwaneng.council.bw",
+    "role": "AssetManager",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-JTC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@jwaneng.council.bw",
+    "role": "PropertyManager",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-JTC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@jwaneng.council.bw",
+    "role": "LandUseOfficer",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-JTC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@jwaneng.council.bw",
+    "role": "PermitsOfficer",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-JTC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@jwaneng.council.bw",
+    "role": "Councillor",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-JTC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@jwaneng.council.bw",
+    "role": "Auditor",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-JTC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@jwaneng.council.bw",
+    "role": "TownClerk",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Property",
+    "employeeId": "EMP-JTC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@jwaneng.council.bw",
+    "role": "DirectorOfFinance",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-JTC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@jwaneng.council.bw",
+    "role": "BudgetOfficer",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-JTC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@jwaneng.council.bw",
+    "role": "ProcurementOfficer",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-JTC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@jwaneng.council.bw",
+    "role": "AssetManager",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-JTC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@jwaneng.council.bw",
+    "role": "PropertyManager",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-JTC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@jwaneng.council.bw",
+    "role": "LandUseOfficer",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-JTC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@jwaneng.council.bw",
+    "role": "PermitsOfficer",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-JTC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@jwaneng.council.bw",
+    "role": "Councillor",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Property",
+    "employeeId": "EMP-JTC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@jwaneng.council.bw",
+    "role": "Auditor",
+    "tenantId": "jwaneng-town-council",
+    "councilName": "Jwaneng Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-JTC-0030",
+    "isActive": true
+  }
+]

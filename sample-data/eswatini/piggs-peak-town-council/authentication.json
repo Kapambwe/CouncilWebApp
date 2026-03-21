@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@piggs-peak.council.sz",
+    "role": "TownClerk",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-PPTC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@piggs-peak.council.sz",
+    "role": "DirectorOfFinance",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-PPTC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@piggs-peak.council.sz",
+    "role": "BudgetOfficer",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-PPTC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@piggs-peak.council.sz",
+    "role": "ProcurementOfficer",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-PPTC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@piggs-peak.council.sz",
+    "role": "AssetManager",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Property",
+    "employeeId": "EMP-PPTC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@piggs-peak.council.sz",
+    "role": "PropertyManager",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-PPTC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@piggs-peak.council.sz",
+    "role": "LandUseOfficer",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-PPTC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@piggs-peak.council.sz",
+    "role": "PermitsOfficer",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-PPTC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@piggs-peak.council.sz",
+    "role": "Councillor",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-PPTC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@piggs-peak.council.sz",
+    "role": "Auditor",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-PPTC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@piggs-peak.council.sz",
+    "role": "TownClerk",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-PPTC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@piggs-peak.council.sz",
+    "role": "DirectorOfFinance",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-PPTC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@piggs-peak.council.sz",
+    "role": "BudgetOfficer",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Property",
+    "employeeId": "EMP-PPTC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@piggs-peak.council.sz",
+    "role": "ProcurementOfficer",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-PPTC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@piggs-peak.council.sz",
+    "role": "AssetManager",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-PPTC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@piggs-peak.council.sz",
+    "role": "PropertyManager",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-PPTC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@piggs-peak.council.sz",
+    "role": "LandUseOfficer",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-PPTC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@piggs-peak.council.sz",
+    "role": "PermitsOfficer",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-PPTC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@piggs-peak.council.sz",
+    "role": "Councillor",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-PPTC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@piggs-peak.council.sz",
+    "role": "Auditor",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-PPTC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@piggs-peak.council.sz",
+    "role": "TownClerk",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Property",
+    "employeeId": "EMP-PPTC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@piggs-peak.council.sz",
+    "role": "DirectorOfFinance",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-PPTC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@piggs-peak.council.sz",
+    "role": "BudgetOfficer",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-PPTC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@piggs-peak.council.sz",
+    "role": "ProcurementOfficer",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-PPTC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@piggs-peak.council.sz",
+    "role": "AssetManager",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-PPTC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@piggs-peak.council.sz",
+    "role": "PropertyManager",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-PPTC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@piggs-peak.council.sz",
+    "role": "LandUseOfficer",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-PPTC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@piggs-peak.council.sz",
+    "role": "PermitsOfficer",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-PPTC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@piggs-peak.council.sz",
+    "role": "Councillor",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Property",
+    "employeeId": "EMP-PPTC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@piggs-peak.council.sz",
+    "role": "Auditor",
+    "tenantId": "piggs-peak-town-council",
+    "councilName": "Piggs Peak Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-PPTC-0030",
+    "isActive": true
+  }
+]

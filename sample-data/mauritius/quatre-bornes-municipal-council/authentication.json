@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@quatre-bornes.council.mu",
+    "role": "TownClerk",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-QBMC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@quatre-bornes.council.mu",
+    "role": "DirectorOfFinance",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-QBMC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@quatre-bornes.council.mu",
+    "role": "BudgetOfficer",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-QBMC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@quatre-bornes.council.mu",
+    "role": "ProcurementOfficer",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-QBMC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@quatre-bornes.council.mu",
+    "role": "AssetManager",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-QBMC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@quatre-bornes.council.mu",
+    "role": "PropertyManager",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-QBMC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@quatre-bornes.council.mu",
+    "role": "LandUseOfficer",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-QBMC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@quatre-bornes.council.mu",
+    "role": "PermitsOfficer",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-QBMC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@quatre-bornes.council.mu",
+    "role": "Councillor",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-QBMC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@quatre-bornes.council.mu",
+    "role": "Auditor",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-QBMC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@quatre-bornes.council.mu",
+    "role": "TownClerk",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-QBMC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@quatre-bornes.council.mu",
+    "role": "DirectorOfFinance",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-QBMC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@quatre-bornes.council.mu",
+    "role": "BudgetOfficer",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-QBMC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@quatre-bornes.council.mu",
+    "role": "ProcurementOfficer",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-QBMC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@quatre-bornes.council.mu",
+    "role": "AssetManager",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-QBMC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@quatre-bornes.council.mu",
+    "role": "PropertyManager",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-QBMC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@quatre-bornes.council.mu",
+    "role": "LandUseOfficer",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-QBMC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@quatre-bornes.council.mu",
+    "role": "PermitsOfficer",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-QBMC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@quatre-bornes.council.mu",
+    "role": "Councillor",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-QBMC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@quatre-bornes.council.mu",
+    "role": "Auditor",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-QBMC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@quatre-bornes.council.mu",
+    "role": "TownClerk",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-QBMC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@quatre-bornes.council.mu",
+    "role": "DirectorOfFinance",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-QBMC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@quatre-bornes.council.mu",
+    "role": "BudgetOfficer",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-QBMC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@quatre-bornes.council.mu",
+    "role": "ProcurementOfficer",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-QBMC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@quatre-bornes.council.mu",
+    "role": "AssetManager",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-QBMC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@quatre-bornes.council.mu",
+    "role": "PropertyManager",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-QBMC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@quatre-bornes.council.mu",
+    "role": "LandUseOfficer",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-QBMC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@quatre-bornes.council.mu",
+    "role": "PermitsOfficer",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-QBMC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@quatre-bornes.council.mu",
+    "role": "Councillor",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-QBMC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@quatre-bornes.council.mu",
+    "role": "Auditor",
+    "tenantId": "quatre-bornes-municipal-council",
+    "councilName": "Quatre Bornes Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-QBMC-0030",
+    "isActive": true
+  }
+]

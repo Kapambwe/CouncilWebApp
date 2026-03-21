@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@chipata.council.zm",
+    "role": "TownClerk",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-CPMC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@chipata.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-CPMC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@chipata.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-CPMC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@chipata.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-CPMC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@chipata.council.zm",
+    "role": "AssetManager",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-CPMC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@chipata.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-CPMC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@chipata.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-CPMC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@chipata.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-CPMC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@chipata.council.zm",
+    "role": "Councillor",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-CPMC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@chipata.council.zm",
+    "role": "Auditor",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-CPMC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@chipata.council.zm",
+    "role": "TownClerk",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-CPMC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@chipata.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-CPMC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@chipata.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-CPMC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@chipata.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-CPMC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@chipata.council.zm",
+    "role": "AssetManager",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-CPMC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@chipata.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-CPMC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@chipata.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-CPMC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@chipata.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-CPMC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@chipata.council.zm",
+    "role": "Councillor",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-CPMC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@chipata.council.zm",
+    "role": "Auditor",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-CPMC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@chipata.council.zm",
+    "role": "TownClerk",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-CPMC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@chipata.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-CPMC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@chipata.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-CPMC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@chipata.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-CPMC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@chipata.council.zm",
+    "role": "AssetManager",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-CPMC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@chipata.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-CPMC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@chipata.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-CPMC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@chipata.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-CPMC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@chipata.council.zm",
+    "role": "Councillor",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-CPMC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@chipata.council.zm",
+    "role": "Auditor",
+    "tenantId": "chipata-municipal-council",
+    "councilName": "Chipata Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-CPMC-0030",
+    "isActive": true
+  }
+]

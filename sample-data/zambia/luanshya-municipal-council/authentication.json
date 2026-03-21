@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@luanshya.council.zm",
+    "role": "TownClerk",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-LSMC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@luanshya.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-LSMC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@luanshya.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-LSMC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@luanshya.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-LSMC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@luanshya.council.zm",
+    "role": "AssetManager",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-LSMC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@luanshya.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-LSMC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@luanshya.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-LSMC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@luanshya.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-LSMC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@luanshya.council.zm",
+    "role": "Councillor",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-LSMC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@luanshya.council.zm",
+    "role": "Auditor",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-LSMC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@luanshya.council.zm",
+    "role": "TownClerk",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-LSMC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@luanshya.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-LSMC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@luanshya.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-LSMC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@luanshya.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-LSMC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@luanshya.council.zm",
+    "role": "AssetManager",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-LSMC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@luanshya.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-LSMC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@luanshya.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-LSMC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@luanshya.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-LSMC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@luanshya.council.zm",
+    "role": "Councillor",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-LSMC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@luanshya.council.zm",
+    "role": "Auditor",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-LSMC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@luanshya.council.zm",
+    "role": "TownClerk",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-LSMC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@luanshya.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-LSMC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@luanshya.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-LSMC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@luanshya.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-LSMC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@luanshya.council.zm",
+    "role": "AssetManager",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-LSMC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@luanshya.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-LSMC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@luanshya.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-LSMC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@luanshya.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-LSMC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@luanshya.council.zm",
+    "role": "Councillor",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-LSMC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@luanshya.council.zm",
+    "role": "Auditor",
+    "tenantId": "luanshya-municipal-council",
+    "councilName": "Luanshya Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-LSMC-0030",
+    "isActive": true
+  }
+]

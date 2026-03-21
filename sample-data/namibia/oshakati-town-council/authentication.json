@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@oshakati.council.na",
+    "role": "TownClerk",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-OSHTC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@oshakati.council.na",
+    "role": "DirectorOfFinance",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-OSHTC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@oshakati.council.na",
+    "role": "BudgetOfficer",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-OSHTC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@oshakati.council.na",
+    "role": "ProcurementOfficer",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-OSHTC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@oshakati.council.na",
+    "role": "AssetManager",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Property",
+    "employeeId": "EMP-OSHTC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@oshakati.council.na",
+    "role": "PropertyManager",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-OSHTC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@oshakati.council.na",
+    "role": "LandUseOfficer",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-OSHTC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@oshakati.council.na",
+    "role": "PermitsOfficer",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-OSHTC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@oshakati.council.na",
+    "role": "Councillor",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-OSHTC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@oshakati.council.na",
+    "role": "Auditor",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-OSHTC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@oshakati.council.na",
+    "role": "TownClerk",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-OSHTC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@oshakati.council.na",
+    "role": "DirectorOfFinance",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-OSHTC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@oshakati.council.na",
+    "role": "BudgetOfficer",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Property",
+    "employeeId": "EMP-OSHTC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@oshakati.council.na",
+    "role": "ProcurementOfficer",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-OSHTC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@oshakati.council.na",
+    "role": "AssetManager",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-OSHTC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@oshakati.council.na",
+    "role": "PropertyManager",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-OSHTC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@oshakati.council.na",
+    "role": "LandUseOfficer",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-OSHTC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@oshakati.council.na",
+    "role": "PermitsOfficer",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-OSHTC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@oshakati.council.na",
+    "role": "Councillor",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-OSHTC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@oshakati.council.na",
+    "role": "Auditor",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-OSHTC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@oshakati.council.na",
+    "role": "TownClerk",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Property",
+    "employeeId": "EMP-OSHTC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@oshakati.council.na",
+    "role": "DirectorOfFinance",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-OSHTC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@oshakati.council.na",
+    "role": "BudgetOfficer",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-OSHTC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@oshakati.council.na",
+    "role": "ProcurementOfficer",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-OSHTC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@oshakati.council.na",
+    "role": "AssetManager",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-OSHTC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@oshakati.council.na",
+    "role": "PropertyManager",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-OSHTC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@oshakati.council.na",
+    "role": "LandUseOfficer",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-OSHTC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@oshakati.council.na",
+    "role": "PermitsOfficer",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-OSHTC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@oshakati.council.na",
+    "role": "Councillor",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Property",
+    "employeeId": "EMP-OSHTC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@oshakati.council.na",
+    "role": "Auditor",
+    "tenantId": "oshakati-town-council",
+    "councilName": "Oshakati Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-OSHTC-0030",
+    "isActive": true
+  }
+]

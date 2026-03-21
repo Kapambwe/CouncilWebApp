@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@morogoro.council.tz",
+    "role": "TownClerk",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-MMC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@morogoro.council.tz",
+    "role": "DirectorOfFinance",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-MMC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@morogoro.council.tz",
+    "role": "BudgetOfficer",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MMC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@morogoro.council.tz",
+    "role": "ProcurementOfficer",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-MMC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@morogoro.council.tz",
+    "role": "AssetManager",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-MMC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@morogoro.council.tz",
+    "role": "PropertyManager",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-MMC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@morogoro.council.tz",
+    "role": "LandUseOfficer",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-MMC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@morogoro.council.tz",
+    "role": "PermitsOfficer",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-MMC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@morogoro.council.tz",
+    "role": "Councillor",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-MMC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@morogoro.council.tz",
+    "role": "Auditor",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-MMC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@morogoro.council.tz",
+    "role": "TownClerk",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MMC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@morogoro.council.tz",
+    "role": "DirectorOfFinance",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-MMC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@morogoro.council.tz",
+    "role": "BudgetOfficer",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-MMC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@morogoro.council.tz",
+    "role": "ProcurementOfficer",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-MMC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@morogoro.council.tz",
+    "role": "AssetManager",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-MMC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@morogoro.council.tz",
+    "role": "PropertyManager",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-MMC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@morogoro.council.tz",
+    "role": "LandUseOfficer",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-MMC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@morogoro.council.tz",
+    "role": "PermitsOfficer",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-MMC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@morogoro.council.tz",
+    "role": "Councillor",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MMC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@morogoro.council.tz",
+    "role": "Auditor",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-MMC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@morogoro.council.tz",
+    "role": "TownClerk",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-MMC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@morogoro.council.tz",
+    "role": "DirectorOfFinance",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-MMC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@morogoro.council.tz",
+    "role": "BudgetOfficer",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-MMC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@morogoro.council.tz",
+    "role": "ProcurementOfficer",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-MMC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@morogoro.council.tz",
+    "role": "AssetManager",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-MMC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@morogoro.council.tz",
+    "role": "PropertyManager",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-MMC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@morogoro.council.tz",
+    "role": "LandUseOfficer",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MMC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@morogoro.council.tz",
+    "role": "PermitsOfficer",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-MMC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@morogoro.council.tz",
+    "role": "Councillor",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-MMC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@morogoro.council.tz",
+    "role": "Auditor",
+    "tenantId": "morogoro-municipal-council",
+    "councilName": "Morogoro Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-MMC-0030",
+    "isActive": true
+  }
+]

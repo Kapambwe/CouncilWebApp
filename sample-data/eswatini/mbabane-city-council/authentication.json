@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@mbabane.council.sz",
+    "role": "TownClerk",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Administration",
+    "employeeId": "EMP-MCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@mbabane.council.sz",
+    "role": "DirectorOfFinance",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Finance",
+    "employeeId": "EMP-MCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@mbabane.council.sz",
+    "role": "BudgetOfficer",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@mbabane.council.sz",
+    "role": "ProcurementOfficer",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Assets",
+    "employeeId": "EMP-MCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@mbabane.council.sz",
+    "role": "AssetManager",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Property",
+    "employeeId": "EMP-MCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@mbabane.council.sz",
+    "role": "PropertyManager",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Planning",
+    "employeeId": "EMP-MCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@mbabane.council.sz",
+    "role": "LandUseOfficer",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Legal",
+    "employeeId": "EMP-MCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@mbabane.council.sz",
+    "role": "PermitsOfficer",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Audit",
+    "employeeId": "EMP-MCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@mbabane.council.sz",
+    "role": "Councillor",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Administration",
+    "employeeId": "EMP-MCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@mbabane.council.sz",
+    "role": "Auditor",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Finance",
+    "employeeId": "EMP-MCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@mbabane.council.sz",
+    "role": "TownClerk",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@mbabane.council.sz",
+    "role": "DirectorOfFinance",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Assets",
+    "employeeId": "EMP-MCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@mbabane.council.sz",
+    "role": "BudgetOfficer",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Property",
+    "employeeId": "EMP-MCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@mbabane.council.sz",
+    "role": "ProcurementOfficer",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Planning",
+    "employeeId": "EMP-MCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@mbabane.council.sz",
+    "role": "AssetManager",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Legal",
+    "employeeId": "EMP-MCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@mbabane.council.sz",
+    "role": "PropertyManager",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Audit",
+    "employeeId": "EMP-MCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@mbabane.council.sz",
+    "role": "LandUseOfficer",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Administration",
+    "employeeId": "EMP-MCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@mbabane.council.sz",
+    "role": "PermitsOfficer",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Finance",
+    "employeeId": "EMP-MCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@mbabane.council.sz",
+    "role": "Councillor",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@mbabane.council.sz",
+    "role": "Auditor",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Assets",
+    "employeeId": "EMP-MCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@mbabane.council.sz",
+    "role": "TownClerk",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Property",
+    "employeeId": "EMP-MCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@mbabane.council.sz",
+    "role": "DirectorOfFinance",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Planning",
+    "employeeId": "EMP-MCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@mbabane.council.sz",
+    "role": "BudgetOfficer",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Legal",
+    "employeeId": "EMP-MCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@mbabane.council.sz",
+    "role": "ProcurementOfficer",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Audit",
+    "employeeId": "EMP-MCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@mbabane.council.sz",
+    "role": "AssetManager",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Administration",
+    "employeeId": "EMP-MCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@mbabane.council.sz",
+    "role": "PropertyManager",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Finance",
+    "employeeId": "EMP-MCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@mbabane.council.sz",
+    "role": "LandUseOfficer",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@mbabane.council.sz",
+    "role": "PermitsOfficer",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Assets",
+    "employeeId": "EMP-MCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@mbabane.council.sz",
+    "role": "Councillor",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Property",
+    "employeeId": "EMP-MCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@mbabane.council.sz",
+    "role": "Auditor",
+    "tenantId": "mbabane-city-council",
+    "councilName": "Mbabane City Council",
+    "department": "Planning",
+    "employeeId": "EMP-MCC-0030",
+    "isActive": true
+  }
+]

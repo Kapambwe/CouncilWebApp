@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@msunduzi.council.za",
+    "role": "TownClerk",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-MSU-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@msunduzi.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-MSU-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@msunduzi.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-MSU-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@msunduzi.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-MSU-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@msunduzi.council.za",
+    "role": "AssetManager",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-MSU-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@msunduzi.council.za",
+    "role": "PropertyManager",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-MSU-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@msunduzi.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-MSU-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@msunduzi.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-MSU-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@msunduzi.council.za",
+    "role": "Councillor",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-MSU-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@msunduzi.council.za",
+    "role": "Auditor",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-MSU-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@msunduzi.council.za",
+    "role": "TownClerk",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-MSU-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@msunduzi.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-MSU-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@msunduzi.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-MSU-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@msunduzi.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-MSU-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@msunduzi.council.za",
+    "role": "AssetManager",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-MSU-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@msunduzi.council.za",
+    "role": "PropertyManager",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-MSU-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@msunduzi.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-MSU-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@msunduzi.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-MSU-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@msunduzi.council.za",
+    "role": "Councillor",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-MSU-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@msunduzi.council.za",
+    "role": "Auditor",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-MSU-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@msunduzi.council.za",
+    "role": "TownClerk",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-MSU-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@msunduzi.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-MSU-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@msunduzi.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-MSU-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@msunduzi.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-MSU-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@msunduzi.council.za",
+    "role": "AssetManager",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-MSU-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@msunduzi.council.za",
+    "role": "PropertyManager",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-MSU-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@msunduzi.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-MSU-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@msunduzi.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-MSU-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@msunduzi.council.za",
+    "role": "Councillor",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-MSU-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@msunduzi.council.za",
+    "role": "Auditor",
+    "tenantId": "msunduzi-local-municipality",
+    "councilName": "Msunduzi Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-MSU-0030",
+    "isActive": true
+  }
+]

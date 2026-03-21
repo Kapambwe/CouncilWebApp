@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@mpika.council.zm",
+    "role": "TownClerk",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-MPMC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@mpika.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-MPMC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@mpika.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MPMC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@mpika.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-MPMC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@mpika.council.zm",
+    "role": "AssetManager",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-MPMC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@mpika.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-MPMC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@mpika.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-MPMC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@mpika.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-MPMC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@mpika.council.zm",
+    "role": "Councillor",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-MPMC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@mpika.council.zm",
+    "role": "Auditor",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-MPMC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@mpika.council.zm",
+    "role": "TownClerk",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MPMC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@mpika.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-MPMC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@mpika.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-MPMC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@mpika.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-MPMC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@mpika.council.zm",
+    "role": "AssetManager",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-MPMC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@mpika.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-MPMC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@mpika.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-MPMC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@mpika.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-MPMC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@mpika.council.zm",
+    "role": "Councillor",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MPMC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@mpika.council.zm",
+    "role": "Auditor",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-MPMC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@mpika.council.zm",
+    "role": "TownClerk",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-MPMC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@mpika.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-MPMC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@mpika.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-MPMC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@mpika.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-MPMC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@mpika.council.zm",
+    "role": "AssetManager",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-MPMC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@mpika.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-MPMC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@mpika.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MPMC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@mpika.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-MPMC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@mpika.council.zm",
+    "role": "Councillor",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-MPMC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@mpika.council.zm",
+    "role": "Auditor",
+    "tenantId": "mpika-municipal-council",
+    "councilName": "Mpika Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-MPMC-0030",
+    "isActive": true
+  }
+]

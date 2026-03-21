@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@mukono.council.ug",
+    "role": "TownClerk",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Administration",
+    "employeeId": "EMP-MDC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@mukono.council.ug",
+    "role": "DirectorOfFinance",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Finance",
+    "employeeId": "EMP-MDC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@mukono.council.ug",
+    "role": "BudgetOfficer",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MDC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@mukono.council.ug",
+    "role": "ProcurementOfficer",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Assets",
+    "employeeId": "EMP-MDC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@mukono.council.ug",
+    "role": "AssetManager",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Property",
+    "employeeId": "EMP-MDC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@mukono.council.ug",
+    "role": "PropertyManager",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Planning",
+    "employeeId": "EMP-MDC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@mukono.council.ug",
+    "role": "LandUseOfficer",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Legal",
+    "employeeId": "EMP-MDC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@mukono.council.ug",
+    "role": "PermitsOfficer",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Audit",
+    "employeeId": "EMP-MDC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@mukono.council.ug",
+    "role": "Councillor",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Administration",
+    "employeeId": "EMP-MDC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@mukono.council.ug",
+    "role": "Auditor",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Finance",
+    "employeeId": "EMP-MDC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@mukono.council.ug",
+    "role": "TownClerk",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MDC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@mukono.council.ug",
+    "role": "DirectorOfFinance",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Assets",
+    "employeeId": "EMP-MDC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@mukono.council.ug",
+    "role": "BudgetOfficer",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Property",
+    "employeeId": "EMP-MDC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@mukono.council.ug",
+    "role": "ProcurementOfficer",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Planning",
+    "employeeId": "EMP-MDC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@mukono.council.ug",
+    "role": "AssetManager",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Legal",
+    "employeeId": "EMP-MDC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@mukono.council.ug",
+    "role": "PropertyManager",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Audit",
+    "employeeId": "EMP-MDC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@mukono.council.ug",
+    "role": "LandUseOfficer",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Administration",
+    "employeeId": "EMP-MDC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@mukono.council.ug",
+    "role": "PermitsOfficer",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Finance",
+    "employeeId": "EMP-MDC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@mukono.council.ug",
+    "role": "Councillor",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MDC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@mukono.council.ug",
+    "role": "Auditor",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Assets",
+    "employeeId": "EMP-MDC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@mukono.council.ug",
+    "role": "TownClerk",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Property",
+    "employeeId": "EMP-MDC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@mukono.council.ug",
+    "role": "DirectorOfFinance",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Planning",
+    "employeeId": "EMP-MDC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@mukono.council.ug",
+    "role": "BudgetOfficer",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Legal",
+    "employeeId": "EMP-MDC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@mukono.council.ug",
+    "role": "ProcurementOfficer",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Audit",
+    "employeeId": "EMP-MDC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@mukono.council.ug",
+    "role": "AssetManager",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Administration",
+    "employeeId": "EMP-MDC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@mukono.council.ug",
+    "role": "PropertyManager",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Finance",
+    "employeeId": "EMP-MDC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@mukono.council.ug",
+    "role": "LandUseOfficer",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MDC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@mukono.council.ug",
+    "role": "PermitsOfficer",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Assets",
+    "employeeId": "EMP-MDC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@mukono.council.ug",
+    "role": "Councillor",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Property",
+    "employeeId": "EMP-MDC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@mukono.council.ug",
+    "role": "Auditor",
+    "tenantId": "mukono-district-council",
+    "councilName": "Mukono District Council",
+    "department": "Planning",
+    "employeeId": "EMP-MDC-0030",
+    "isActive": true
+  }
+]

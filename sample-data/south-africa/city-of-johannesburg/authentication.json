@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@city-of-johannesburg.council.za",
+    "role": "TownClerk",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Administration",
+    "employeeId": "EMP-COJ-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@city-of-johannesburg.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Finance",
+    "employeeId": "EMP-COJ-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@city-of-johannesburg.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Procurement",
+    "employeeId": "EMP-COJ-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@city-of-johannesburg.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Assets",
+    "employeeId": "EMP-COJ-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@city-of-johannesburg.council.za",
+    "role": "AssetManager",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Property",
+    "employeeId": "EMP-COJ-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@city-of-johannesburg.council.za",
+    "role": "PropertyManager",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Planning",
+    "employeeId": "EMP-COJ-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@city-of-johannesburg.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Legal",
+    "employeeId": "EMP-COJ-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@city-of-johannesburg.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Audit",
+    "employeeId": "EMP-COJ-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@city-of-johannesburg.council.za",
+    "role": "Councillor",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Administration",
+    "employeeId": "EMP-COJ-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@city-of-johannesburg.council.za",
+    "role": "Auditor",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Finance",
+    "employeeId": "EMP-COJ-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@city-of-johannesburg.council.za",
+    "role": "TownClerk",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Procurement",
+    "employeeId": "EMP-COJ-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@city-of-johannesburg.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Assets",
+    "employeeId": "EMP-COJ-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@city-of-johannesburg.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Property",
+    "employeeId": "EMP-COJ-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@city-of-johannesburg.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Planning",
+    "employeeId": "EMP-COJ-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@city-of-johannesburg.council.za",
+    "role": "AssetManager",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Legal",
+    "employeeId": "EMP-COJ-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@city-of-johannesburg.council.za",
+    "role": "PropertyManager",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Audit",
+    "employeeId": "EMP-COJ-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@city-of-johannesburg.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Administration",
+    "employeeId": "EMP-COJ-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@city-of-johannesburg.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Finance",
+    "employeeId": "EMP-COJ-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@city-of-johannesburg.council.za",
+    "role": "Councillor",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Procurement",
+    "employeeId": "EMP-COJ-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@city-of-johannesburg.council.za",
+    "role": "Auditor",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Assets",
+    "employeeId": "EMP-COJ-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@city-of-johannesburg.council.za",
+    "role": "TownClerk",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Property",
+    "employeeId": "EMP-COJ-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@city-of-johannesburg.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Planning",
+    "employeeId": "EMP-COJ-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@city-of-johannesburg.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Legal",
+    "employeeId": "EMP-COJ-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@city-of-johannesburg.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Audit",
+    "employeeId": "EMP-COJ-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@city-of-johannesburg.council.za",
+    "role": "AssetManager",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Administration",
+    "employeeId": "EMP-COJ-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@city-of-johannesburg.council.za",
+    "role": "PropertyManager",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Finance",
+    "employeeId": "EMP-COJ-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@city-of-johannesburg.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Procurement",
+    "employeeId": "EMP-COJ-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@city-of-johannesburg.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Assets",
+    "employeeId": "EMP-COJ-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@city-of-johannesburg.council.za",
+    "role": "Councillor",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Property",
+    "employeeId": "EMP-COJ-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@city-of-johannesburg.council.za",
+    "role": "Auditor",
+    "tenantId": "city-of-johannesburg",
+    "councilName": "City of Johannesburg",
+    "department": "Planning",
+    "employeeId": "EMP-COJ-0030",
+    "isActive": true
+  }
+]

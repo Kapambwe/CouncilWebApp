@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@choma.council.zm",
+    "role": "TownClerk",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-CMC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@choma.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-CMC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@choma.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-CMC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@choma.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-CMC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@choma.council.zm",
+    "role": "AssetManager",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-CMC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@choma.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-CMC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@choma.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-CMC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@choma.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-CMC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@choma.council.zm",
+    "role": "Councillor",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-CMC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@choma.council.zm",
+    "role": "Auditor",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-CMC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@choma.council.zm",
+    "role": "TownClerk",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-CMC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@choma.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-CMC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@choma.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-CMC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@choma.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-CMC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@choma.council.zm",
+    "role": "AssetManager",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-CMC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@choma.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-CMC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@choma.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-CMC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@choma.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-CMC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@choma.council.zm",
+    "role": "Councillor",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-CMC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@choma.council.zm",
+    "role": "Auditor",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-CMC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@choma.council.zm",
+    "role": "TownClerk",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-CMC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@choma.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-CMC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@choma.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-CMC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@choma.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-CMC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@choma.council.zm",
+    "role": "AssetManager",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-CMC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@choma.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-CMC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@choma.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-CMC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@choma.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-CMC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@choma.council.zm",
+    "role": "Councillor",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-CMC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@choma.council.zm",
+    "role": "Auditor",
+    "tenantId": "choma-municipal-council",
+    "councilName": "Choma Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-CMC-0030",
+    "isActive": true
+  }
+]

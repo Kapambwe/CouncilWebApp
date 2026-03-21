@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@leribe.council.ls",
+    "role": "TownClerk",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Administration",
+    "employeeId": "EMP-LCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@leribe.council.ls",
+    "role": "DirectorOfFinance",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Finance",
+    "employeeId": "EMP-LCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@leribe.council.ls",
+    "role": "BudgetOfficer",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Procurement",
+    "employeeId": "EMP-LCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@leribe.council.ls",
+    "role": "ProcurementOfficer",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Assets",
+    "employeeId": "EMP-LCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@leribe.council.ls",
+    "role": "AssetManager",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Property",
+    "employeeId": "EMP-LCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@leribe.council.ls",
+    "role": "PropertyManager",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Planning",
+    "employeeId": "EMP-LCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@leribe.council.ls",
+    "role": "LandUseOfficer",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Legal",
+    "employeeId": "EMP-LCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@leribe.council.ls",
+    "role": "PermitsOfficer",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Audit",
+    "employeeId": "EMP-LCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@leribe.council.ls",
+    "role": "Councillor",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Administration",
+    "employeeId": "EMP-LCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@leribe.council.ls",
+    "role": "Auditor",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Finance",
+    "employeeId": "EMP-LCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@leribe.council.ls",
+    "role": "TownClerk",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Procurement",
+    "employeeId": "EMP-LCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@leribe.council.ls",
+    "role": "DirectorOfFinance",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Assets",
+    "employeeId": "EMP-LCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@leribe.council.ls",
+    "role": "BudgetOfficer",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Property",
+    "employeeId": "EMP-LCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@leribe.council.ls",
+    "role": "ProcurementOfficer",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Planning",
+    "employeeId": "EMP-LCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@leribe.council.ls",
+    "role": "AssetManager",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Legal",
+    "employeeId": "EMP-LCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@leribe.council.ls",
+    "role": "PropertyManager",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Audit",
+    "employeeId": "EMP-LCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@leribe.council.ls",
+    "role": "LandUseOfficer",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Administration",
+    "employeeId": "EMP-LCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@leribe.council.ls",
+    "role": "PermitsOfficer",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Finance",
+    "employeeId": "EMP-LCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@leribe.council.ls",
+    "role": "Councillor",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Procurement",
+    "employeeId": "EMP-LCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@leribe.council.ls",
+    "role": "Auditor",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Assets",
+    "employeeId": "EMP-LCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@leribe.council.ls",
+    "role": "TownClerk",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Property",
+    "employeeId": "EMP-LCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@leribe.council.ls",
+    "role": "DirectorOfFinance",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Planning",
+    "employeeId": "EMP-LCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@leribe.council.ls",
+    "role": "BudgetOfficer",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Legal",
+    "employeeId": "EMP-LCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@leribe.council.ls",
+    "role": "ProcurementOfficer",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Audit",
+    "employeeId": "EMP-LCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@leribe.council.ls",
+    "role": "AssetManager",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Administration",
+    "employeeId": "EMP-LCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@leribe.council.ls",
+    "role": "PropertyManager",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Finance",
+    "employeeId": "EMP-LCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@leribe.council.ls",
+    "role": "LandUseOfficer",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Procurement",
+    "employeeId": "EMP-LCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@leribe.council.ls",
+    "role": "PermitsOfficer",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Assets",
+    "employeeId": "EMP-LCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@leribe.council.ls",
+    "role": "Councillor",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Property",
+    "employeeId": "EMP-LCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@leribe.council.ls",
+    "role": "Auditor",
+    "tenantId": "leribe-community-council",
+    "councilName": "Leribe Community Council",
+    "department": "Planning",
+    "employeeId": "EMP-LCC-0030",
+    "isActive": true
+  }
+]

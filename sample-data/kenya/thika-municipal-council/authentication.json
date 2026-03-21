@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@thika.council.ke",
+    "role": "TownClerk",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-TMC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@thika.council.ke",
+    "role": "DirectorOfFinance",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-TMC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@thika.council.ke",
+    "role": "BudgetOfficer",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-TMC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@thika.council.ke",
+    "role": "ProcurementOfficer",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-TMC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@thika.council.ke",
+    "role": "AssetManager",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-TMC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@thika.council.ke",
+    "role": "PropertyManager",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-TMC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@thika.council.ke",
+    "role": "LandUseOfficer",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-TMC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@thika.council.ke",
+    "role": "PermitsOfficer",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-TMC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@thika.council.ke",
+    "role": "Councillor",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-TMC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@thika.council.ke",
+    "role": "Auditor",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-TMC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@thika.council.ke",
+    "role": "TownClerk",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-TMC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@thika.council.ke",
+    "role": "DirectorOfFinance",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-TMC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@thika.council.ke",
+    "role": "BudgetOfficer",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-TMC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@thika.council.ke",
+    "role": "ProcurementOfficer",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-TMC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@thika.council.ke",
+    "role": "AssetManager",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-TMC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@thika.council.ke",
+    "role": "PropertyManager",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-TMC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@thika.council.ke",
+    "role": "LandUseOfficer",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-TMC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@thika.council.ke",
+    "role": "PermitsOfficer",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-TMC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@thika.council.ke",
+    "role": "Councillor",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-TMC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@thika.council.ke",
+    "role": "Auditor",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-TMC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@thika.council.ke",
+    "role": "TownClerk",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-TMC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@thika.council.ke",
+    "role": "DirectorOfFinance",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-TMC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@thika.council.ke",
+    "role": "BudgetOfficer",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-TMC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@thika.council.ke",
+    "role": "ProcurementOfficer",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-TMC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@thika.council.ke",
+    "role": "AssetManager",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-TMC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@thika.council.ke",
+    "role": "PropertyManager",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-TMC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@thika.council.ke",
+    "role": "LandUseOfficer",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-TMC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@thika.council.ke",
+    "role": "PermitsOfficer",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-TMC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@thika.council.ke",
+    "role": "Councillor",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-TMC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@thika.council.ke",
+    "role": "Auditor",
+    "tenantId": "thika-municipal-council",
+    "councilName": "Thika Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-TMC-0030",
+    "isActive": true
+  }
+]

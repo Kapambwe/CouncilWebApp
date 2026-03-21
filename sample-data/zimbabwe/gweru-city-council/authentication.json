@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@gweru.council.zw",
+    "role": "TownClerk",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Administration",
+    "employeeId": "EMP-GCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@gweru.council.zw",
+    "role": "DirectorOfFinance",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Finance",
+    "employeeId": "EMP-GCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@gweru.council.zw",
+    "role": "BudgetOfficer",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-GCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@gweru.council.zw",
+    "role": "ProcurementOfficer",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Assets",
+    "employeeId": "EMP-GCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@gweru.council.zw",
+    "role": "AssetManager",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Property",
+    "employeeId": "EMP-GCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@gweru.council.zw",
+    "role": "PropertyManager",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Planning",
+    "employeeId": "EMP-GCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@gweru.council.zw",
+    "role": "LandUseOfficer",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Legal",
+    "employeeId": "EMP-GCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@gweru.council.zw",
+    "role": "PermitsOfficer",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Audit",
+    "employeeId": "EMP-GCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@gweru.council.zw",
+    "role": "Councillor",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Administration",
+    "employeeId": "EMP-GCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@gweru.council.zw",
+    "role": "Auditor",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Finance",
+    "employeeId": "EMP-GCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@gweru.council.zw",
+    "role": "TownClerk",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-GCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@gweru.council.zw",
+    "role": "DirectorOfFinance",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Assets",
+    "employeeId": "EMP-GCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@gweru.council.zw",
+    "role": "BudgetOfficer",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Property",
+    "employeeId": "EMP-GCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@gweru.council.zw",
+    "role": "ProcurementOfficer",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Planning",
+    "employeeId": "EMP-GCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@gweru.council.zw",
+    "role": "AssetManager",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Legal",
+    "employeeId": "EMP-GCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@gweru.council.zw",
+    "role": "PropertyManager",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Audit",
+    "employeeId": "EMP-GCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@gweru.council.zw",
+    "role": "LandUseOfficer",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Administration",
+    "employeeId": "EMP-GCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@gweru.council.zw",
+    "role": "PermitsOfficer",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Finance",
+    "employeeId": "EMP-GCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@gweru.council.zw",
+    "role": "Councillor",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-GCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@gweru.council.zw",
+    "role": "Auditor",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Assets",
+    "employeeId": "EMP-GCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@gweru.council.zw",
+    "role": "TownClerk",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Property",
+    "employeeId": "EMP-GCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@gweru.council.zw",
+    "role": "DirectorOfFinance",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Planning",
+    "employeeId": "EMP-GCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@gweru.council.zw",
+    "role": "BudgetOfficer",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Legal",
+    "employeeId": "EMP-GCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@gweru.council.zw",
+    "role": "ProcurementOfficer",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Audit",
+    "employeeId": "EMP-GCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@gweru.council.zw",
+    "role": "AssetManager",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Administration",
+    "employeeId": "EMP-GCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@gweru.council.zw",
+    "role": "PropertyManager",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Finance",
+    "employeeId": "EMP-GCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@gweru.council.zw",
+    "role": "LandUseOfficer",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-GCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@gweru.council.zw",
+    "role": "PermitsOfficer",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Assets",
+    "employeeId": "EMP-GCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@gweru.council.zw",
+    "role": "Councillor",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Property",
+    "employeeId": "EMP-GCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@gweru.council.zw",
+    "role": "Auditor",
+    "tenantId": "gweru-city-council",
+    "councilName": "Gweru City Council",
+    "department": "Planning",
+    "employeeId": "EMP-GCC-0030",
+    "isActive": true
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@francistown.council.bw",
+    "role": "TownClerk",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Administration",
+    "employeeId": "EMP-FCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@francistown.council.bw",
+    "role": "DirectorOfFinance",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Finance",
+    "employeeId": "EMP-FCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@francistown.council.bw",
+    "role": "BudgetOfficer",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-FCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@francistown.council.bw",
+    "role": "ProcurementOfficer",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Assets",
+    "employeeId": "EMP-FCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@francistown.council.bw",
+    "role": "AssetManager",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Property",
+    "employeeId": "EMP-FCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@francistown.council.bw",
+    "role": "PropertyManager",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Planning",
+    "employeeId": "EMP-FCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@francistown.council.bw",
+    "role": "LandUseOfficer",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Legal",
+    "employeeId": "EMP-FCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@francistown.council.bw",
+    "role": "PermitsOfficer",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Audit",
+    "employeeId": "EMP-FCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@francistown.council.bw",
+    "role": "Councillor",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Administration",
+    "employeeId": "EMP-FCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@francistown.council.bw",
+    "role": "Auditor",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Finance",
+    "employeeId": "EMP-FCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@francistown.council.bw",
+    "role": "TownClerk",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-FCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@francistown.council.bw",
+    "role": "DirectorOfFinance",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Assets",
+    "employeeId": "EMP-FCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@francistown.council.bw",
+    "role": "BudgetOfficer",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Property",
+    "employeeId": "EMP-FCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@francistown.council.bw",
+    "role": "ProcurementOfficer",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Planning",
+    "employeeId": "EMP-FCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@francistown.council.bw",
+    "role": "AssetManager",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Legal",
+    "employeeId": "EMP-FCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@francistown.council.bw",
+    "role": "PropertyManager",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Audit",
+    "employeeId": "EMP-FCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@francistown.council.bw",
+    "role": "LandUseOfficer",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Administration",
+    "employeeId": "EMP-FCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@francistown.council.bw",
+    "role": "PermitsOfficer",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Finance",
+    "employeeId": "EMP-FCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@francistown.council.bw",
+    "role": "Councillor",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-FCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@francistown.council.bw",
+    "role": "Auditor",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Assets",
+    "employeeId": "EMP-FCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@francistown.council.bw",
+    "role": "TownClerk",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Property",
+    "employeeId": "EMP-FCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@francistown.council.bw",
+    "role": "DirectorOfFinance",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Planning",
+    "employeeId": "EMP-FCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@francistown.council.bw",
+    "role": "BudgetOfficer",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Legal",
+    "employeeId": "EMP-FCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@francistown.council.bw",
+    "role": "ProcurementOfficer",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Audit",
+    "employeeId": "EMP-FCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@francistown.council.bw",
+    "role": "AssetManager",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Administration",
+    "employeeId": "EMP-FCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@francistown.council.bw",
+    "role": "PropertyManager",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Finance",
+    "employeeId": "EMP-FCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@francistown.council.bw",
+    "role": "LandUseOfficer",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-FCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@francistown.council.bw",
+    "role": "PermitsOfficer",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Assets",
+    "employeeId": "EMP-FCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@francistown.council.bw",
+    "role": "Councillor",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Property",
+    "employeeId": "EMP-FCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@francistown.council.bw",
+    "role": "Auditor",
+    "tenantId": "francistown-city-council",
+    "councilName": "Francistown City Council",
+    "department": "Planning",
+    "employeeId": "EMP-FCC-0030",
+    "isActive": true
+  }
+]

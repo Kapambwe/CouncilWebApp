@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@basse.council.gm",
+    "role": "TownClerk",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Administration",
+    "employeeId": "EMP-BSAC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@basse.council.gm",
+    "role": "DirectorOfFinance",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Finance",
+    "employeeId": "EMP-BSAC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@basse.council.gm",
+    "role": "BudgetOfficer",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Procurement",
+    "employeeId": "EMP-BSAC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@basse.council.gm",
+    "role": "ProcurementOfficer",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Assets",
+    "employeeId": "EMP-BSAC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@basse.council.gm",
+    "role": "AssetManager",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Property",
+    "employeeId": "EMP-BSAC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@basse.council.gm",
+    "role": "PropertyManager",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Planning",
+    "employeeId": "EMP-BSAC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@basse.council.gm",
+    "role": "LandUseOfficer",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Legal",
+    "employeeId": "EMP-BSAC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@basse.council.gm",
+    "role": "PermitsOfficer",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Audit",
+    "employeeId": "EMP-BSAC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@basse.council.gm",
+    "role": "Councillor",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Administration",
+    "employeeId": "EMP-BSAC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@basse.council.gm",
+    "role": "Auditor",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Finance",
+    "employeeId": "EMP-BSAC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@basse.council.gm",
+    "role": "TownClerk",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Procurement",
+    "employeeId": "EMP-BSAC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@basse.council.gm",
+    "role": "DirectorOfFinance",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Assets",
+    "employeeId": "EMP-BSAC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@basse.council.gm",
+    "role": "BudgetOfficer",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Property",
+    "employeeId": "EMP-BSAC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@basse.council.gm",
+    "role": "ProcurementOfficer",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Planning",
+    "employeeId": "EMP-BSAC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@basse.council.gm",
+    "role": "AssetManager",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Legal",
+    "employeeId": "EMP-BSAC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@basse.council.gm",
+    "role": "PropertyManager",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Audit",
+    "employeeId": "EMP-BSAC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@basse.council.gm",
+    "role": "LandUseOfficer",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Administration",
+    "employeeId": "EMP-BSAC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@basse.council.gm",
+    "role": "PermitsOfficer",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Finance",
+    "employeeId": "EMP-BSAC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@basse.council.gm",
+    "role": "Councillor",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Procurement",
+    "employeeId": "EMP-BSAC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@basse.council.gm",
+    "role": "Auditor",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Assets",
+    "employeeId": "EMP-BSAC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@basse.council.gm",
+    "role": "TownClerk",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Property",
+    "employeeId": "EMP-BSAC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@basse.council.gm",
+    "role": "DirectorOfFinance",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Planning",
+    "employeeId": "EMP-BSAC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@basse.council.gm",
+    "role": "BudgetOfficer",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Legal",
+    "employeeId": "EMP-BSAC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@basse.council.gm",
+    "role": "ProcurementOfficer",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Audit",
+    "employeeId": "EMP-BSAC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@basse.council.gm",
+    "role": "AssetManager",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Administration",
+    "employeeId": "EMP-BSAC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@basse.council.gm",
+    "role": "PropertyManager",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Finance",
+    "employeeId": "EMP-BSAC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@basse.council.gm",
+    "role": "LandUseOfficer",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Procurement",
+    "employeeId": "EMP-BSAC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@basse.council.gm",
+    "role": "PermitsOfficer",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Assets",
+    "employeeId": "EMP-BSAC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@basse.council.gm",
+    "role": "Councillor",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Property",
+    "employeeId": "EMP-BSAC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@basse.council.gm",
+    "role": "Auditor",
+    "tenantId": "basse-area-council",
+    "councilName": "Basse Area Council",
+    "department": "Planning",
+    "employeeId": "EMP-BSAC-0030",
+    "isActive": true
+  }
+]

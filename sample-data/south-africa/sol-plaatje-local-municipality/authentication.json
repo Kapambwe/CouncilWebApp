@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@sol-plaatje.council.za",
+    "role": "TownClerk",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-SPL-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@sol-plaatje.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-SPL-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@sol-plaatje.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-SPL-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@sol-plaatje.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-SPL-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@sol-plaatje.council.za",
+    "role": "AssetManager",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-SPL-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@sol-plaatje.council.za",
+    "role": "PropertyManager",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-SPL-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@sol-plaatje.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-SPL-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@sol-plaatje.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-SPL-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@sol-plaatje.council.za",
+    "role": "Councillor",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-SPL-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@sol-plaatje.council.za",
+    "role": "Auditor",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-SPL-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@sol-plaatje.council.za",
+    "role": "TownClerk",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-SPL-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@sol-plaatje.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-SPL-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@sol-plaatje.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-SPL-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@sol-plaatje.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-SPL-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@sol-plaatje.council.za",
+    "role": "AssetManager",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-SPL-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@sol-plaatje.council.za",
+    "role": "PropertyManager",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-SPL-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@sol-plaatje.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-SPL-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@sol-plaatje.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-SPL-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@sol-plaatje.council.za",
+    "role": "Councillor",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-SPL-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@sol-plaatje.council.za",
+    "role": "Auditor",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-SPL-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@sol-plaatje.council.za",
+    "role": "TownClerk",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-SPL-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@sol-plaatje.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-SPL-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@sol-plaatje.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-SPL-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@sol-plaatje.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-SPL-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@sol-plaatje.council.za",
+    "role": "AssetManager",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-SPL-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@sol-plaatje.council.za",
+    "role": "PropertyManager",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-SPL-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@sol-plaatje.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-SPL-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@sol-plaatje.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-SPL-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@sol-plaatje.council.za",
+    "role": "Councillor",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-SPL-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@sol-plaatje.council.za",
+    "role": "Auditor",
+    "tenantId": "sol-plaatje-local-municipality",
+    "councilName": "Sol Plaatje Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-SPL-0030",
+    "isActive": true
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@kumasi.assembly.gh",
+    "role": "TownClerk",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Administration",
+    "employeeId": "EMP-KMA-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@kumasi.assembly.gh",
+    "role": "DirectorOfFinance",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Finance",
+    "employeeId": "EMP-KMA-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@kumasi.assembly.gh",
+    "role": "BudgetOfficer",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Procurement",
+    "employeeId": "EMP-KMA-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@kumasi.assembly.gh",
+    "role": "ProcurementOfficer",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Assets",
+    "employeeId": "EMP-KMA-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@kumasi.assembly.gh",
+    "role": "AssetManager",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Property",
+    "employeeId": "EMP-KMA-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@kumasi.assembly.gh",
+    "role": "PropertyManager",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Planning",
+    "employeeId": "EMP-KMA-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@kumasi.assembly.gh",
+    "role": "LandUseOfficer",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Legal",
+    "employeeId": "EMP-KMA-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@kumasi.assembly.gh",
+    "role": "PermitsOfficer",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Audit",
+    "employeeId": "EMP-KMA-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@kumasi.assembly.gh",
+    "role": "Councillor",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Administration",
+    "employeeId": "EMP-KMA-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@kumasi.assembly.gh",
+    "role": "Auditor",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Finance",
+    "employeeId": "EMP-KMA-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@kumasi.assembly.gh",
+    "role": "TownClerk",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Procurement",
+    "employeeId": "EMP-KMA-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@kumasi.assembly.gh",
+    "role": "DirectorOfFinance",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Assets",
+    "employeeId": "EMP-KMA-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@kumasi.assembly.gh",
+    "role": "BudgetOfficer",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Property",
+    "employeeId": "EMP-KMA-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@kumasi.assembly.gh",
+    "role": "ProcurementOfficer",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Planning",
+    "employeeId": "EMP-KMA-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@kumasi.assembly.gh",
+    "role": "AssetManager",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Legal",
+    "employeeId": "EMP-KMA-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@kumasi.assembly.gh",
+    "role": "PropertyManager",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Audit",
+    "employeeId": "EMP-KMA-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@kumasi.assembly.gh",
+    "role": "LandUseOfficer",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Administration",
+    "employeeId": "EMP-KMA-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@kumasi.assembly.gh",
+    "role": "PermitsOfficer",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Finance",
+    "employeeId": "EMP-KMA-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@kumasi.assembly.gh",
+    "role": "Councillor",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Procurement",
+    "employeeId": "EMP-KMA-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@kumasi.assembly.gh",
+    "role": "Auditor",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Assets",
+    "employeeId": "EMP-KMA-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@kumasi.assembly.gh",
+    "role": "TownClerk",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Property",
+    "employeeId": "EMP-KMA-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@kumasi.assembly.gh",
+    "role": "DirectorOfFinance",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Planning",
+    "employeeId": "EMP-KMA-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@kumasi.assembly.gh",
+    "role": "BudgetOfficer",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Legal",
+    "employeeId": "EMP-KMA-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@kumasi.assembly.gh",
+    "role": "ProcurementOfficer",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Audit",
+    "employeeId": "EMP-KMA-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@kumasi.assembly.gh",
+    "role": "AssetManager",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Administration",
+    "employeeId": "EMP-KMA-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@kumasi.assembly.gh",
+    "role": "PropertyManager",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Finance",
+    "employeeId": "EMP-KMA-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@kumasi.assembly.gh",
+    "role": "LandUseOfficer",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Procurement",
+    "employeeId": "EMP-KMA-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@kumasi.assembly.gh",
+    "role": "PermitsOfficer",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Assets",
+    "employeeId": "EMP-KMA-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@kumasi.assembly.gh",
+    "role": "Councillor",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Property",
+    "employeeId": "EMP-KMA-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@kumasi.assembly.gh",
+    "role": "Auditor",
+    "tenantId": "kumasi-metropolitan-assembly",
+    "councilName": "Kumasi Metropolitan Assembly",
+    "department": "Planning",
+    "employeeId": "EMP-KMA-0030",
+    "isActive": true
+  }
+]

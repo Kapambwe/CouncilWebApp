@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@emalahleni.council.za",
+    "role": "TownClerk",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-EML-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@emalahleni.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-EML-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@emalahleni.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-EML-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@emalahleni.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-EML-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@emalahleni.council.za",
+    "role": "AssetManager",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-EML-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@emalahleni.council.za",
+    "role": "PropertyManager",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-EML-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@emalahleni.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-EML-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@emalahleni.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-EML-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@emalahleni.council.za",
+    "role": "Councillor",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-EML-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@emalahleni.council.za",
+    "role": "Auditor",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-EML-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@emalahleni.council.za",
+    "role": "TownClerk",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-EML-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@emalahleni.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-EML-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@emalahleni.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-EML-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@emalahleni.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-EML-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@emalahleni.council.za",
+    "role": "AssetManager",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-EML-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@emalahleni.council.za",
+    "role": "PropertyManager",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-EML-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@emalahleni.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-EML-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@emalahleni.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-EML-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@emalahleni.council.za",
+    "role": "Councillor",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-EML-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@emalahleni.council.za",
+    "role": "Auditor",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-EML-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@emalahleni.council.za",
+    "role": "TownClerk",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-EML-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@emalahleni.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-EML-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@emalahleni.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-EML-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@emalahleni.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-EML-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@emalahleni.council.za",
+    "role": "AssetManager",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-EML-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@emalahleni.council.za",
+    "role": "PropertyManager",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-EML-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@emalahleni.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-EML-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@emalahleni.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-EML-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@emalahleni.council.za",
+    "role": "Councillor",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-EML-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@emalahleni.council.za",
+    "role": "Auditor",
+    "tenantId": "emalahleni-local-municipality",
+    "councilName": "Emalahleni Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-EML-0030",
+    "isActive": true
+  }
+]

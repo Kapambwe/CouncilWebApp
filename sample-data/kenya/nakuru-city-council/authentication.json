@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@nakuru.council.ke",
+    "role": "TownClerk",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Administration",
+    "employeeId": "EMP-NKCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@nakuru.council.ke",
+    "role": "DirectorOfFinance",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Finance",
+    "employeeId": "EMP-NKCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@nakuru.council.ke",
+    "role": "BudgetOfficer",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-NKCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@nakuru.council.ke",
+    "role": "ProcurementOfficer",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Assets",
+    "employeeId": "EMP-NKCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@nakuru.council.ke",
+    "role": "AssetManager",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Property",
+    "employeeId": "EMP-NKCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@nakuru.council.ke",
+    "role": "PropertyManager",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Planning",
+    "employeeId": "EMP-NKCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@nakuru.council.ke",
+    "role": "LandUseOfficer",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Legal",
+    "employeeId": "EMP-NKCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@nakuru.council.ke",
+    "role": "PermitsOfficer",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Audit",
+    "employeeId": "EMP-NKCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@nakuru.council.ke",
+    "role": "Councillor",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Administration",
+    "employeeId": "EMP-NKCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@nakuru.council.ke",
+    "role": "Auditor",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Finance",
+    "employeeId": "EMP-NKCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@nakuru.council.ke",
+    "role": "TownClerk",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-NKCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@nakuru.council.ke",
+    "role": "DirectorOfFinance",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Assets",
+    "employeeId": "EMP-NKCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@nakuru.council.ke",
+    "role": "BudgetOfficer",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Property",
+    "employeeId": "EMP-NKCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@nakuru.council.ke",
+    "role": "ProcurementOfficer",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Planning",
+    "employeeId": "EMP-NKCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@nakuru.council.ke",
+    "role": "AssetManager",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Legal",
+    "employeeId": "EMP-NKCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@nakuru.council.ke",
+    "role": "PropertyManager",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Audit",
+    "employeeId": "EMP-NKCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@nakuru.council.ke",
+    "role": "LandUseOfficer",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Administration",
+    "employeeId": "EMP-NKCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@nakuru.council.ke",
+    "role": "PermitsOfficer",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Finance",
+    "employeeId": "EMP-NKCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@nakuru.council.ke",
+    "role": "Councillor",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-NKCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@nakuru.council.ke",
+    "role": "Auditor",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Assets",
+    "employeeId": "EMP-NKCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@nakuru.council.ke",
+    "role": "TownClerk",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Property",
+    "employeeId": "EMP-NKCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@nakuru.council.ke",
+    "role": "DirectorOfFinance",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Planning",
+    "employeeId": "EMP-NKCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@nakuru.council.ke",
+    "role": "BudgetOfficer",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Legal",
+    "employeeId": "EMP-NKCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@nakuru.council.ke",
+    "role": "ProcurementOfficer",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Audit",
+    "employeeId": "EMP-NKCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@nakuru.council.ke",
+    "role": "AssetManager",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Administration",
+    "employeeId": "EMP-NKCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@nakuru.council.ke",
+    "role": "PropertyManager",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Finance",
+    "employeeId": "EMP-NKCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@nakuru.council.ke",
+    "role": "LandUseOfficer",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-NKCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@nakuru.council.ke",
+    "role": "PermitsOfficer",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Assets",
+    "employeeId": "EMP-NKCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@nakuru.council.ke",
+    "role": "Councillor",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Property",
+    "employeeId": "EMP-NKCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@nakuru.council.ke",
+    "role": "Auditor",
+    "tenantId": "nakuru-city-council",
+    "councilName": "Nakuru City Council",
+    "department": "Planning",
+    "employeeId": "EMP-NKCC-0030",
+    "isActive": true
+  }
+]

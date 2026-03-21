@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@mohales-hoek.council.ls",
+    "role": "TownClerk",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Administration",
+    "employeeId": "EMP-MHCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@mohales-hoek.council.ls",
+    "role": "DirectorOfFinance",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Finance",
+    "employeeId": "EMP-MHCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@mohales-hoek.council.ls",
+    "role": "BudgetOfficer",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MHCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@mohales-hoek.council.ls",
+    "role": "ProcurementOfficer",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Assets",
+    "employeeId": "EMP-MHCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@mohales-hoek.council.ls",
+    "role": "AssetManager",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Property",
+    "employeeId": "EMP-MHCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@mohales-hoek.council.ls",
+    "role": "PropertyManager",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Planning",
+    "employeeId": "EMP-MHCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@mohales-hoek.council.ls",
+    "role": "LandUseOfficer",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Legal",
+    "employeeId": "EMP-MHCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@mohales-hoek.council.ls",
+    "role": "PermitsOfficer",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Audit",
+    "employeeId": "EMP-MHCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@mohales-hoek.council.ls",
+    "role": "Councillor",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Administration",
+    "employeeId": "EMP-MHCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@mohales-hoek.council.ls",
+    "role": "Auditor",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Finance",
+    "employeeId": "EMP-MHCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@mohales-hoek.council.ls",
+    "role": "TownClerk",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MHCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@mohales-hoek.council.ls",
+    "role": "DirectorOfFinance",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Assets",
+    "employeeId": "EMP-MHCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@mohales-hoek.council.ls",
+    "role": "BudgetOfficer",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Property",
+    "employeeId": "EMP-MHCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@mohales-hoek.council.ls",
+    "role": "ProcurementOfficer",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Planning",
+    "employeeId": "EMP-MHCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@mohales-hoek.council.ls",
+    "role": "AssetManager",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Legal",
+    "employeeId": "EMP-MHCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@mohales-hoek.council.ls",
+    "role": "PropertyManager",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Audit",
+    "employeeId": "EMP-MHCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@mohales-hoek.council.ls",
+    "role": "LandUseOfficer",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Administration",
+    "employeeId": "EMP-MHCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@mohales-hoek.council.ls",
+    "role": "PermitsOfficer",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Finance",
+    "employeeId": "EMP-MHCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@mohales-hoek.council.ls",
+    "role": "Councillor",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MHCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@mohales-hoek.council.ls",
+    "role": "Auditor",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Assets",
+    "employeeId": "EMP-MHCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@mohales-hoek.council.ls",
+    "role": "TownClerk",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Property",
+    "employeeId": "EMP-MHCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@mohales-hoek.council.ls",
+    "role": "DirectorOfFinance",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Planning",
+    "employeeId": "EMP-MHCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@mohales-hoek.council.ls",
+    "role": "BudgetOfficer",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Legal",
+    "employeeId": "EMP-MHCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@mohales-hoek.council.ls",
+    "role": "ProcurementOfficer",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Audit",
+    "employeeId": "EMP-MHCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@mohales-hoek.council.ls",
+    "role": "AssetManager",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Administration",
+    "employeeId": "EMP-MHCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@mohales-hoek.council.ls",
+    "role": "PropertyManager",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Finance",
+    "employeeId": "EMP-MHCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@mohales-hoek.council.ls",
+    "role": "LandUseOfficer",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MHCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@mohales-hoek.council.ls",
+    "role": "PermitsOfficer",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Assets",
+    "employeeId": "EMP-MHCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@mohales-hoek.council.ls",
+    "role": "Councillor",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Property",
+    "employeeId": "EMP-MHCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@mohales-hoek.council.ls",
+    "role": "Auditor",
+    "tenantId": "mohales-hoek-community-council",
+    "councilName": "Mohale's Hoek Community Council",
+    "department": "Planning",
+    "employeeId": "EMP-MHCC-0030",
+    "isActive": true
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@blantyre.council.mw",
+    "role": "TownClerk",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Administration",
+    "employeeId": "EMP-BLCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@blantyre.council.mw",
+    "role": "DirectorOfFinance",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Finance",
+    "employeeId": "EMP-BLCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@blantyre.council.mw",
+    "role": "BudgetOfficer",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-BLCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@blantyre.council.mw",
+    "role": "ProcurementOfficer",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Assets",
+    "employeeId": "EMP-BLCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@blantyre.council.mw",
+    "role": "AssetManager",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Property",
+    "employeeId": "EMP-BLCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@blantyre.council.mw",
+    "role": "PropertyManager",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Planning",
+    "employeeId": "EMP-BLCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@blantyre.council.mw",
+    "role": "LandUseOfficer",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Legal",
+    "employeeId": "EMP-BLCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@blantyre.council.mw",
+    "role": "PermitsOfficer",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Audit",
+    "employeeId": "EMP-BLCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@blantyre.council.mw",
+    "role": "Councillor",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Administration",
+    "employeeId": "EMP-BLCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@blantyre.council.mw",
+    "role": "Auditor",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Finance",
+    "employeeId": "EMP-BLCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@blantyre.council.mw",
+    "role": "TownClerk",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-BLCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@blantyre.council.mw",
+    "role": "DirectorOfFinance",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Assets",
+    "employeeId": "EMP-BLCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@blantyre.council.mw",
+    "role": "BudgetOfficer",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Property",
+    "employeeId": "EMP-BLCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@blantyre.council.mw",
+    "role": "ProcurementOfficer",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Planning",
+    "employeeId": "EMP-BLCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@blantyre.council.mw",
+    "role": "AssetManager",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Legal",
+    "employeeId": "EMP-BLCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@blantyre.council.mw",
+    "role": "PropertyManager",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Audit",
+    "employeeId": "EMP-BLCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@blantyre.council.mw",
+    "role": "LandUseOfficer",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Administration",
+    "employeeId": "EMP-BLCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@blantyre.council.mw",
+    "role": "PermitsOfficer",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Finance",
+    "employeeId": "EMP-BLCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@blantyre.council.mw",
+    "role": "Councillor",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-BLCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@blantyre.council.mw",
+    "role": "Auditor",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Assets",
+    "employeeId": "EMP-BLCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@blantyre.council.mw",
+    "role": "TownClerk",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Property",
+    "employeeId": "EMP-BLCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@blantyre.council.mw",
+    "role": "DirectorOfFinance",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Planning",
+    "employeeId": "EMP-BLCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@blantyre.council.mw",
+    "role": "BudgetOfficer",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Legal",
+    "employeeId": "EMP-BLCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@blantyre.council.mw",
+    "role": "ProcurementOfficer",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Audit",
+    "employeeId": "EMP-BLCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@blantyre.council.mw",
+    "role": "AssetManager",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Administration",
+    "employeeId": "EMP-BLCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@blantyre.council.mw",
+    "role": "PropertyManager",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Finance",
+    "employeeId": "EMP-BLCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@blantyre.council.mw",
+    "role": "LandUseOfficer",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-BLCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@blantyre.council.mw",
+    "role": "PermitsOfficer",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Assets",
+    "employeeId": "EMP-BLCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@blantyre.council.mw",
+    "role": "Councillor",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Property",
+    "employeeId": "EMP-BLCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@blantyre.council.mw",
+    "role": "Auditor",
+    "tenantId": "blantyre-city-council",
+    "councilName": "Blantyre City Council",
+    "department": "Planning",
+    "employeeId": "EMP-BLCC-0030",
+    "isActive": true
+  }
+]

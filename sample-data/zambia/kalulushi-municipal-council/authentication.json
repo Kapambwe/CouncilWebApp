@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@kalulushi.council.zm",
+    "role": "TownClerk",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-KLMC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@kalulushi.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-KLMC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@kalulushi.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-KLMC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@kalulushi.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-KLMC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@kalulushi.council.zm",
+    "role": "AssetManager",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-KLMC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@kalulushi.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-KLMC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@kalulushi.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-KLMC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@kalulushi.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-KLMC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@kalulushi.council.zm",
+    "role": "Councillor",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-KLMC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@kalulushi.council.zm",
+    "role": "Auditor",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-KLMC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@kalulushi.council.zm",
+    "role": "TownClerk",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-KLMC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@kalulushi.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-KLMC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@kalulushi.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-KLMC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@kalulushi.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-KLMC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@kalulushi.council.zm",
+    "role": "AssetManager",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-KLMC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@kalulushi.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-KLMC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@kalulushi.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-KLMC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@kalulushi.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-KLMC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@kalulushi.council.zm",
+    "role": "Councillor",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-KLMC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@kalulushi.council.zm",
+    "role": "Auditor",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-KLMC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@kalulushi.council.zm",
+    "role": "TownClerk",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-KLMC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@kalulushi.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-KLMC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@kalulushi.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-KLMC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@kalulushi.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-KLMC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@kalulushi.council.zm",
+    "role": "AssetManager",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-KLMC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@kalulushi.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-KLMC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@kalulushi.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-KLMC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@kalulushi.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-KLMC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@kalulushi.council.zm",
+    "role": "Councillor",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-KLMC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@kalulushi.council.zm",
+    "role": "Auditor",
+    "tenantId": "kalulushi-municipal-council",
+    "councilName": "Kalulushi Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-KLMC-0030",
+    "isActive": true
+  }
+]

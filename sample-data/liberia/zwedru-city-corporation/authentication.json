@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@zwedru.corporation.lr",
+    "role": "TownClerk",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Administration",
+    "employeeId": "EMP-ZWCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@zwedru.corporation.lr",
+    "role": "DirectorOfFinance",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Finance",
+    "employeeId": "EMP-ZWCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@zwedru.corporation.lr",
+    "role": "BudgetOfficer",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Procurement",
+    "employeeId": "EMP-ZWCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@zwedru.corporation.lr",
+    "role": "ProcurementOfficer",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Assets",
+    "employeeId": "EMP-ZWCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@zwedru.corporation.lr",
+    "role": "AssetManager",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Property",
+    "employeeId": "EMP-ZWCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@zwedru.corporation.lr",
+    "role": "PropertyManager",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Planning",
+    "employeeId": "EMP-ZWCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@zwedru.corporation.lr",
+    "role": "LandUseOfficer",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Legal",
+    "employeeId": "EMP-ZWCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@zwedru.corporation.lr",
+    "role": "PermitsOfficer",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Audit",
+    "employeeId": "EMP-ZWCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@zwedru.corporation.lr",
+    "role": "Councillor",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Administration",
+    "employeeId": "EMP-ZWCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@zwedru.corporation.lr",
+    "role": "Auditor",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Finance",
+    "employeeId": "EMP-ZWCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@zwedru.corporation.lr",
+    "role": "TownClerk",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Procurement",
+    "employeeId": "EMP-ZWCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@zwedru.corporation.lr",
+    "role": "DirectorOfFinance",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Assets",
+    "employeeId": "EMP-ZWCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@zwedru.corporation.lr",
+    "role": "BudgetOfficer",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Property",
+    "employeeId": "EMP-ZWCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@zwedru.corporation.lr",
+    "role": "ProcurementOfficer",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Planning",
+    "employeeId": "EMP-ZWCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@zwedru.corporation.lr",
+    "role": "AssetManager",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Legal",
+    "employeeId": "EMP-ZWCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@zwedru.corporation.lr",
+    "role": "PropertyManager",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Audit",
+    "employeeId": "EMP-ZWCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@zwedru.corporation.lr",
+    "role": "LandUseOfficer",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Administration",
+    "employeeId": "EMP-ZWCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@zwedru.corporation.lr",
+    "role": "PermitsOfficer",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Finance",
+    "employeeId": "EMP-ZWCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@zwedru.corporation.lr",
+    "role": "Councillor",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Procurement",
+    "employeeId": "EMP-ZWCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@zwedru.corporation.lr",
+    "role": "Auditor",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Assets",
+    "employeeId": "EMP-ZWCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@zwedru.corporation.lr",
+    "role": "TownClerk",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Property",
+    "employeeId": "EMP-ZWCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@zwedru.corporation.lr",
+    "role": "DirectorOfFinance",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Planning",
+    "employeeId": "EMP-ZWCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@zwedru.corporation.lr",
+    "role": "BudgetOfficer",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Legal",
+    "employeeId": "EMP-ZWCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@zwedru.corporation.lr",
+    "role": "ProcurementOfficer",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Audit",
+    "employeeId": "EMP-ZWCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@zwedru.corporation.lr",
+    "role": "AssetManager",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Administration",
+    "employeeId": "EMP-ZWCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@zwedru.corporation.lr",
+    "role": "PropertyManager",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Finance",
+    "employeeId": "EMP-ZWCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@zwedru.corporation.lr",
+    "role": "LandUseOfficer",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Procurement",
+    "employeeId": "EMP-ZWCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@zwedru.corporation.lr",
+    "role": "PermitsOfficer",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Assets",
+    "employeeId": "EMP-ZWCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@zwedru.corporation.lr",
+    "role": "Councillor",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Property",
+    "employeeId": "EMP-ZWCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@zwedru.corporation.lr",
+    "role": "Auditor",
+    "tenantId": "zwedru-city-corporation",
+    "councilName": "Zwedru City Corporation",
+    "department": "Planning",
+    "employeeId": "EMP-ZWCC-0030",
+    "isActive": true
+  }
+]

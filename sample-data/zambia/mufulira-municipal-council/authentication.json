@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@mufulira.council.zm",
+    "role": "TownClerk",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-MFMC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@mufulira.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-MFMC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@mufulira.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MFMC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@mufulira.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-MFMC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@mufulira.council.zm",
+    "role": "AssetManager",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-MFMC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@mufulira.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-MFMC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@mufulira.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-MFMC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@mufulira.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-MFMC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@mufulira.council.zm",
+    "role": "Councillor",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-MFMC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@mufulira.council.zm",
+    "role": "Auditor",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-MFMC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@mufulira.council.zm",
+    "role": "TownClerk",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MFMC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@mufulira.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-MFMC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@mufulira.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-MFMC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@mufulira.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-MFMC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@mufulira.council.zm",
+    "role": "AssetManager",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-MFMC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@mufulira.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-MFMC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@mufulira.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-MFMC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@mufulira.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-MFMC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@mufulira.council.zm",
+    "role": "Councillor",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MFMC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@mufulira.council.zm",
+    "role": "Auditor",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-MFMC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@mufulira.council.zm",
+    "role": "TownClerk",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-MFMC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@mufulira.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-MFMC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@mufulira.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-MFMC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@mufulira.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-MFMC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@mufulira.council.zm",
+    "role": "AssetManager",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-MFMC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@mufulira.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-MFMC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@mufulira.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MFMC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@mufulira.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-MFMC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@mufulira.council.zm",
+    "role": "Councillor",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-MFMC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@mufulira.council.zm",
+    "role": "Auditor",
+    "tenantId": "mufulira-municipal-council",
+    "councilName": "Mufulira Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-MFMC-0030",
+    "isActive": true
+  }
+]

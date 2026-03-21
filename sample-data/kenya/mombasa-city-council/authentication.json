@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@mombasa.council.ke",
+    "role": "TownClerk",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Administration",
+    "employeeId": "EMP-MBCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@mombasa.council.ke",
+    "role": "DirectorOfFinance",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Finance",
+    "employeeId": "EMP-MBCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@mombasa.council.ke",
+    "role": "BudgetOfficer",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MBCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@mombasa.council.ke",
+    "role": "ProcurementOfficer",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Assets",
+    "employeeId": "EMP-MBCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@mombasa.council.ke",
+    "role": "AssetManager",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Property",
+    "employeeId": "EMP-MBCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@mombasa.council.ke",
+    "role": "PropertyManager",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Planning",
+    "employeeId": "EMP-MBCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@mombasa.council.ke",
+    "role": "LandUseOfficer",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Legal",
+    "employeeId": "EMP-MBCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@mombasa.council.ke",
+    "role": "PermitsOfficer",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Audit",
+    "employeeId": "EMP-MBCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@mombasa.council.ke",
+    "role": "Councillor",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Administration",
+    "employeeId": "EMP-MBCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@mombasa.council.ke",
+    "role": "Auditor",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Finance",
+    "employeeId": "EMP-MBCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@mombasa.council.ke",
+    "role": "TownClerk",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MBCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@mombasa.council.ke",
+    "role": "DirectorOfFinance",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Assets",
+    "employeeId": "EMP-MBCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@mombasa.council.ke",
+    "role": "BudgetOfficer",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Property",
+    "employeeId": "EMP-MBCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@mombasa.council.ke",
+    "role": "ProcurementOfficer",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Planning",
+    "employeeId": "EMP-MBCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@mombasa.council.ke",
+    "role": "AssetManager",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Legal",
+    "employeeId": "EMP-MBCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@mombasa.council.ke",
+    "role": "PropertyManager",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Audit",
+    "employeeId": "EMP-MBCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@mombasa.council.ke",
+    "role": "LandUseOfficer",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Administration",
+    "employeeId": "EMP-MBCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@mombasa.council.ke",
+    "role": "PermitsOfficer",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Finance",
+    "employeeId": "EMP-MBCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@mombasa.council.ke",
+    "role": "Councillor",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MBCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@mombasa.council.ke",
+    "role": "Auditor",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Assets",
+    "employeeId": "EMP-MBCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@mombasa.council.ke",
+    "role": "TownClerk",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Property",
+    "employeeId": "EMP-MBCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@mombasa.council.ke",
+    "role": "DirectorOfFinance",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Planning",
+    "employeeId": "EMP-MBCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@mombasa.council.ke",
+    "role": "BudgetOfficer",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Legal",
+    "employeeId": "EMP-MBCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@mombasa.council.ke",
+    "role": "ProcurementOfficer",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Audit",
+    "employeeId": "EMP-MBCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@mombasa.council.ke",
+    "role": "AssetManager",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Administration",
+    "employeeId": "EMP-MBCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@mombasa.council.ke",
+    "role": "PropertyManager",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Finance",
+    "employeeId": "EMP-MBCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@mombasa.council.ke",
+    "role": "LandUseOfficer",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-MBCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@mombasa.council.ke",
+    "role": "PermitsOfficer",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Assets",
+    "employeeId": "EMP-MBCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@mombasa.council.ke",
+    "role": "Councillor",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Property",
+    "employeeId": "EMP-MBCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@mombasa.council.ke",
+    "role": "Auditor",
+    "tenantId": "mombasa-city-council",
+    "councilName": "Mombasa City Council",
+    "department": "Planning",
+    "employeeId": "EMP-MBCC-0030",
+    "isActive": true
+  }
+]

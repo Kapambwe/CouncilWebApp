@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@swakopmund.council.na",
+    "role": "TownClerk",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-SWKM-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@swakopmund.council.na",
+    "role": "DirectorOfFinance",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-SWKM-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@swakopmund.council.na",
+    "role": "BudgetOfficer",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-SWKM-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@swakopmund.council.na",
+    "role": "ProcurementOfficer",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-SWKM-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@swakopmund.council.na",
+    "role": "AssetManager",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Property",
+    "employeeId": "EMP-SWKM-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@swakopmund.council.na",
+    "role": "PropertyManager",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-SWKM-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@swakopmund.council.na",
+    "role": "LandUseOfficer",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-SWKM-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@swakopmund.council.na",
+    "role": "PermitsOfficer",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-SWKM-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@swakopmund.council.na",
+    "role": "Councillor",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-SWKM-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@swakopmund.council.na",
+    "role": "Auditor",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-SWKM-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@swakopmund.council.na",
+    "role": "TownClerk",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-SWKM-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@swakopmund.council.na",
+    "role": "DirectorOfFinance",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-SWKM-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@swakopmund.council.na",
+    "role": "BudgetOfficer",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Property",
+    "employeeId": "EMP-SWKM-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@swakopmund.council.na",
+    "role": "ProcurementOfficer",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-SWKM-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@swakopmund.council.na",
+    "role": "AssetManager",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-SWKM-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@swakopmund.council.na",
+    "role": "PropertyManager",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-SWKM-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@swakopmund.council.na",
+    "role": "LandUseOfficer",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-SWKM-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@swakopmund.council.na",
+    "role": "PermitsOfficer",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-SWKM-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@swakopmund.council.na",
+    "role": "Councillor",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-SWKM-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@swakopmund.council.na",
+    "role": "Auditor",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-SWKM-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@swakopmund.council.na",
+    "role": "TownClerk",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Property",
+    "employeeId": "EMP-SWKM-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@swakopmund.council.na",
+    "role": "DirectorOfFinance",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-SWKM-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@swakopmund.council.na",
+    "role": "BudgetOfficer",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-SWKM-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@swakopmund.council.na",
+    "role": "ProcurementOfficer",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-SWKM-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@swakopmund.council.na",
+    "role": "AssetManager",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-SWKM-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@swakopmund.council.na",
+    "role": "PropertyManager",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-SWKM-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@swakopmund.council.na",
+    "role": "LandUseOfficer",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-SWKM-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@swakopmund.council.na",
+    "role": "PermitsOfficer",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-SWKM-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@swakopmund.council.na",
+    "role": "Councillor",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Property",
+    "employeeId": "EMP-SWKM-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@swakopmund.council.na",
+    "role": "Auditor",
+    "tenantId": "swakopmund-municipality",
+    "councilName": "Swakopmund Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-SWKM-0030",
+    "isActive": true
+  }
+]

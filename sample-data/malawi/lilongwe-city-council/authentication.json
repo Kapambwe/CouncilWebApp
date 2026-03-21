@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@lilongwe.council.mw",
+    "role": "TownClerk",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Administration",
+    "employeeId": "EMP-LGCC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@lilongwe.council.mw",
+    "role": "DirectorOfFinance",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Finance",
+    "employeeId": "EMP-LGCC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@lilongwe.council.mw",
+    "role": "BudgetOfficer",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-LGCC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@lilongwe.council.mw",
+    "role": "ProcurementOfficer",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Assets",
+    "employeeId": "EMP-LGCC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@lilongwe.council.mw",
+    "role": "AssetManager",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Property",
+    "employeeId": "EMP-LGCC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@lilongwe.council.mw",
+    "role": "PropertyManager",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Planning",
+    "employeeId": "EMP-LGCC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@lilongwe.council.mw",
+    "role": "LandUseOfficer",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Legal",
+    "employeeId": "EMP-LGCC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@lilongwe.council.mw",
+    "role": "PermitsOfficer",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Audit",
+    "employeeId": "EMP-LGCC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@lilongwe.council.mw",
+    "role": "Councillor",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Administration",
+    "employeeId": "EMP-LGCC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@lilongwe.council.mw",
+    "role": "Auditor",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Finance",
+    "employeeId": "EMP-LGCC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@lilongwe.council.mw",
+    "role": "TownClerk",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-LGCC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@lilongwe.council.mw",
+    "role": "DirectorOfFinance",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Assets",
+    "employeeId": "EMP-LGCC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@lilongwe.council.mw",
+    "role": "BudgetOfficer",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Property",
+    "employeeId": "EMP-LGCC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@lilongwe.council.mw",
+    "role": "ProcurementOfficer",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Planning",
+    "employeeId": "EMP-LGCC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@lilongwe.council.mw",
+    "role": "AssetManager",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Legal",
+    "employeeId": "EMP-LGCC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@lilongwe.council.mw",
+    "role": "PropertyManager",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Audit",
+    "employeeId": "EMP-LGCC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@lilongwe.council.mw",
+    "role": "LandUseOfficer",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Administration",
+    "employeeId": "EMP-LGCC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@lilongwe.council.mw",
+    "role": "PermitsOfficer",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Finance",
+    "employeeId": "EMP-LGCC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@lilongwe.council.mw",
+    "role": "Councillor",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-LGCC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@lilongwe.council.mw",
+    "role": "Auditor",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Assets",
+    "employeeId": "EMP-LGCC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@lilongwe.council.mw",
+    "role": "TownClerk",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Property",
+    "employeeId": "EMP-LGCC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@lilongwe.council.mw",
+    "role": "DirectorOfFinance",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Planning",
+    "employeeId": "EMP-LGCC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@lilongwe.council.mw",
+    "role": "BudgetOfficer",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Legal",
+    "employeeId": "EMP-LGCC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@lilongwe.council.mw",
+    "role": "ProcurementOfficer",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Audit",
+    "employeeId": "EMP-LGCC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@lilongwe.council.mw",
+    "role": "AssetManager",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Administration",
+    "employeeId": "EMP-LGCC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@lilongwe.council.mw",
+    "role": "PropertyManager",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Finance",
+    "employeeId": "EMP-LGCC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@lilongwe.council.mw",
+    "role": "LandUseOfficer",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Procurement",
+    "employeeId": "EMP-LGCC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@lilongwe.council.mw",
+    "role": "PermitsOfficer",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Assets",
+    "employeeId": "EMP-LGCC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@lilongwe.council.mw",
+    "role": "Councillor",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Property",
+    "employeeId": "EMP-LGCC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@lilongwe.council.mw",
+    "role": "Auditor",
+    "tenantId": "lilongwe-city-council",
+    "councilName": "Lilongwe City Council",
+    "department": "Planning",
+    "employeeId": "EMP-LGCC-0030",
+    "isActive": true
+  }
+]

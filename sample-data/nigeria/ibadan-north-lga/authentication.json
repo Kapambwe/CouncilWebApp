@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@ibadan.lga.ng",
+    "role": "TownClerk",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Administration",
+    "employeeId": "EMP-IBLGA-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@ibadan.lga.ng",
+    "role": "DirectorOfFinance",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Finance",
+    "employeeId": "EMP-IBLGA-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@ibadan.lga.ng",
+    "role": "BudgetOfficer",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Procurement",
+    "employeeId": "EMP-IBLGA-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@ibadan.lga.ng",
+    "role": "ProcurementOfficer",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Assets",
+    "employeeId": "EMP-IBLGA-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@ibadan.lga.ng",
+    "role": "AssetManager",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Property",
+    "employeeId": "EMP-IBLGA-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@ibadan.lga.ng",
+    "role": "PropertyManager",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Planning",
+    "employeeId": "EMP-IBLGA-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@ibadan.lga.ng",
+    "role": "LandUseOfficer",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Legal",
+    "employeeId": "EMP-IBLGA-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@ibadan.lga.ng",
+    "role": "PermitsOfficer",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Audit",
+    "employeeId": "EMP-IBLGA-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@ibadan.lga.ng",
+    "role": "Councillor",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Administration",
+    "employeeId": "EMP-IBLGA-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@ibadan.lga.ng",
+    "role": "Auditor",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Finance",
+    "employeeId": "EMP-IBLGA-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@ibadan.lga.ng",
+    "role": "TownClerk",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Procurement",
+    "employeeId": "EMP-IBLGA-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@ibadan.lga.ng",
+    "role": "DirectorOfFinance",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Assets",
+    "employeeId": "EMP-IBLGA-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@ibadan.lga.ng",
+    "role": "BudgetOfficer",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Property",
+    "employeeId": "EMP-IBLGA-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@ibadan.lga.ng",
+    "role": "ProcurementOfficer",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Planning",
+    "employeeId": "EMP-IBLGA-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@ibadan.lga.ng",
+    "role": "AssetManager",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Legal",
+    "employeeId": "EMP-IBLGA-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@ibadan.lga.ng",
+    "role": "PropertyManager",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Audit",
+    "employeeId": "EMP-IBLGA-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@ibadan.lga.ng",
+    "role": "LandUseOfficer",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Administration",
+    "employeeId": "EMP-IBLGA-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@ibadan.lga.ng",
+    "role": "PermitsOfficer",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Finance",
+    "employeeId": "EMP-IBLGA-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@ibadan.lga.ng",
+    "role": "Councillor",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Procurement",
+    "employeeId": "EMP-IBLGA-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@ibadan.lga.ng",
+    "role": "Auditor",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Assets",
+    "employeeId": "EMP-IBLGA-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@ibadan.lga.ng",
+    "role": "TownClerk",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Property",
+    "employeeId": "EMP-IBLGA-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@ibadan.lga.ng",
+    "role": "DirectorOfFinance",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Planning",
+    "employeeId": "EMP-IBLGA-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@ibadan.lga.ng",
+    "role": "BudgetOfficer",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Legal",
+    "employeeId": "EMP-IBLGA-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@ibadan.lga.ng",
+    "role": "ProcurementOfficer",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Audit",
+    "employeeId": "EMP-IBLGA-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@ibadan.lga.ng",
+    "role": "AssetManager",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Administration",
+    "employeeId": "EMP-IBLGA-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@ibadan.lga.ng",
+    "role": "PropertyManager",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Finance",
+    "employeeId": "EMP-IBLGA-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@ibadan.lga.ng",
+    "role": "LandUseOfficer",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Procurement",
+    "employeeId": "EMP-IBLGA-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@ibadan.lga.ng",
+    "role": "PermitsOfficer",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Assets",
+    "employeeId": "EMP-IBLGA-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@ibadan.lga.ng",
+    "role": "Councillor",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Property",
+    "employeeId": "EMP-IBLGA-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@ibadan.lga.ng",
+    "role": "Auditor",
+    "tenantId": "ibadan-north-lga",
+    "councilName": "Ibadan North LGA",
+    "department": "Planning",
+    "employeeId": "EMP-IBLGA-0030",
+    "isActive": true
+  }
+]

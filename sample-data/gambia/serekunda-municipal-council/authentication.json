@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@serekunda.council.gm",
+    "role": "TownClerk",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-SMC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@serekunda.council.gm",
+    "role": "DirectorOfFinance",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-SMC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@serekunda.council.gm",
+    "role": "BudgetOfficer",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-SMC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@serekunda.council.gm",
+    "role": "ProcurementOfficer",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-SMC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@serekunda.council.gm",
+    "role": "AssetManager",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-SMC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@serekunda.council.gm",
+    "role": "PropertyManager",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-SMC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@serekunda.council.gm",
+    "role": "LandUseOfficer",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-SMC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@serekunda.council.gm",
+    "role": "PermitsOfficer",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-SMC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@serekunda.council.gm",
+    "role": "Councillor",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-SMC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@serekunda.council.gm",
+    "role": "Auditor",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-SMC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@serekunda.council.gm",
+    "role": "TownClerk",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-SMC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@serekunda.council.gm",
+    "role": "DirectorOfFinance",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-SMC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@serekunda.council.gm",
+    "role": "BudgetOfficer",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-SMC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@serekunda.council.gm",
+    "role": "ProcurementOfficer",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-SMC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@serekunda.council.gm",
+    "role": "AssetManager",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-SMC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@serekunda.council.gm",
+    "role": "PropertyManager",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-SMC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@serekunda.council.gm",
+    "role": "LandUseOfficer",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-SMC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@serekunda.council.gm",
+    "role": "PermitsOfficer",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-SMC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@serekunda.council.gm",
+    "role": "Councillor",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-SMC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@serekunda.council.gm",
+    "role": "Auditor",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-SMC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@serekunda.council.gm",
+    "role": "TownClerk",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-SMC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@serekunda.council.gm",
+    "role": "DirectorOfFinance",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-SMC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@serekunda.council.gm",
+    "role": "BudgetOfficer",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-SMC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@serekunda.council.gm",
+    "role": "ProcurementOfficer",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-SMC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@serekunda.council.gm",
+    "role": "AssetManager",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-SMC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@serekunda.council.gm",
+    "role": "PropertyManager",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-SMC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@serekunda.council.gm",
+    "role": "LandUseOfficer",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-SMC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@serekunda.council.gm",
+    "role": "PermitsOfficer",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-SMC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@serekunda.council.gm",
+    "role": "Councillor",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-SMC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@serekunda.council.gm",
+    "role": "Auditor",
+    "tenantId": "serekunda-municipal-council",
+    "councilName": "Serekunda Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-SMC-0030",
+    "isActive": true
+  }
+]

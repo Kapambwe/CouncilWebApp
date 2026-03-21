@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@drakenstein.council.za",
+    "role": "TownClerk",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-DLM-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@drakenstein.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-DLM-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@drakenstein.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-DLM-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@drakenstein.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-DLM-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@drakenstein.council.za",
+    "role": "AssetManager",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-DLM-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@drakenstein.council.za",
+    "role": "PropertyManager",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-DLM-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@drakenstein.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-DLM-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@drakenstein.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-DLM-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@drakenstein.council.za",
+    "role": "Councillor",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-DLM-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@drakenstein.council.za",
+    "role": "Auditor",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-DLM-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@drakenstein.council.za",
+    "role": "TownClerk",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-DLM-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@drakenstein.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-DLM-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@drakenstein.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-DLM-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@drakenstein.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-DLM-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@drakenstein.council.za",
+    "role": "AssetManager",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-DLM-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@drakenstein.council.za",
+    "role": "PropertyManager",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-DLM-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@drakenstein.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-DLM-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@drakenstein.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-DLM-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@drakenstein.council.za",
+    "role": "Councillor",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-DLM-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@drakenstein.council.za",
+    "role": "Auditor",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-DLM-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@drakenstein.council.za",
+    "role": "TownClerk",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-DLM-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@drakenstein.council.za",
+    "role": "DirectorOfFinance",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-DLM-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@drakenstein.council.za",
+    "role": "BudgetOfficer",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Legal",
+    "employeeId": "EMP-DLM-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@drakenstein.council.za",
+    "role": "ProcurementOfficer",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Audit",
+    "employeeId": "EMP-DLM-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@drakenstein.council.za",
+    "role": "AssetManager",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Administration",
+    "employeeId": "EMP-DLM-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@drakenstein.council.za",
+    "role": "PropertyManager",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Finance",
+    "employeeId": "EMP-DLM-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@drakenstein.council.za",
+    "role": "LandUseOfficer",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Procurement",
+    "employeeId": "EMP-DLM-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@drakenstein.council.za",
+    "role": "PermitsOfficer",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Assets",
+    "employeeId": "EMP-DLM-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@drakenstein.council.za",
+    "role": "Councillor",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Property",
+    "employeeId": "EMP-DLM-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@drakenstein.council.za",
+    "role": "Auditor",
+    "tenantId": "drakenstein-local-municipality",
+    "councilName": "Drakenstein Local Municipality",
+    "department": "Planning",
+    "employeeId": "EMP-DLM-0030",
+    "isActive": true
+  }
+]

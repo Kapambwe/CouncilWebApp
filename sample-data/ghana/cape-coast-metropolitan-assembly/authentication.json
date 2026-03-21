@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@cape-coast.assembly.gh",
+    "role": "TownClerk",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Administration",
+    "employeeId": "EMP-CCMA-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@cape-coast.assembly.gh",
+    "role": "DirectorOfFinance",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Finance",
+    "employeeId": "EMP-CCMA-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@cape-coast.assembly.gh",
+    "role": "BudgetOfficer",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Procurement",
+    "employeeId": "EMP-CCMA-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@cape-coast.assembly.gh",
+    "role": "ProcurementOfficer",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Assets",
+    "employeeId": "EMP-CCMA-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@cape-coast.assembly.gh",
+    "role": "AssetManager",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Property",
+    "employeeId": "EMP-CCMA-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@cape-coast.assembly.gh",
+    "role": "PropertyManager",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Planning",
+    "employeeId": "EMP-CCMA-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@cape-coast.assembly.gh",
+    "role": "LandUseOfficer",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Legal",
+    "employeeId": "EMP-CCMA-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@cape-coast.assembly.gh",
+    "role": "PermitsOfficer",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Audit",
+    "employeeId": "EMP-CCMA-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@cape-coast.assembly.gh",
+    "role": "Councillor",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Administration",
+    "employeeId": "EMP-CCMA-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@cape-coast.assembly.gh",
+    "role": "Auditor",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Finance",
+    "employeeId": "EMP-CCMA-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@cape-coast.assembly.gh",
+    "role": "TownClerk",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Procurement",
+    "employeeId": "EMP-CCMA-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@cape-coast.assembly.gh",
+    "role": "DirectorOfFinance",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Assets",
+    "employeeId": "EMP-CCMA-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@cape-coast.assembly.gh",
+    "role": "BudgetOfficer",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Property",
+    "employeeId": "EMP-CCMA-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@cape-coast.assembly.gh",
+    "role": "ProcurementOfficer",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Planning",
+    "employeeId": "EMP-CCMA-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@cape-coast.assembly.gh",
+    "role": "AssetManager",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Legal",
+    "employeeId": "EMP-CCMA-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@cape-coast.assembly.gh",
+    "role": "PropertyManager",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Audit",
+    "employeeId": "EMP-CCMA-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@cape-coast.assembly.gh",
+    "role": "LandUseOfficer",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Administration",
+    "employeeId": "EMP-CCMA-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@cape-coast.assembly.gh",
+    "role": "PermitsOfficer",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Finance",
+    "employeeId": "EMP-CCMA-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@cape-coast.assembly.gh",
+    "role": "Councillor",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Procurement",
+    "employeeId": "EMP-CCMA-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@cape-coast.assembly.gh",
+    "role": "Auditor",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Assets",
+    "employeeId": "EMP-CCMA-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@cape-coast.assembly.gh",
+    "role": "TownClerk",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Property",
+    "employeeId": "EMP-CCMA-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@cape-coast.assembly.gh",
+    "role": "DirectorOfFinance",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Planning",
+    "employeeId": "EMP-CCMA-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@cape-coast.assembly.gh",
+    "role": "BudgetOfficer",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Legal",
+    "employeeId": "EMP-CCMA-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@cape-coast.assembly.gh",
+    "role": "ProcurementOfficer",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Audit",
+    "employeeId": "EMP-CCMA-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@cape-coast.assembly.gh",
+    "role": "AssetManager",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Administration",
+    "employeeId": "EMP-CCMA-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@cape-coast.assembly.gh",
+    "role": "PropertyManager",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Finance",
+    "employeeId": "EMP-CCMA-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@cape-coast.assembly.gh",
+    "role": "LandUseOfficer",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Procurement",
+    "employeeId": "EMP-CCMA-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@cape-coast.assembly.gh",
+    "role": "PermitsOfficer",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Assets",
+    "employeeId": "EMP-CCMA-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@cape-coast.assembly.gh",
+    "role": "Councillor",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Property",
+    "employeeId": "EMP-CCMA-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@cape-coast.assembly.gh",
+    "role": "Auditor",
+    "tenantId": "cape-coast-metropolitan-assembly",
+    "councilName": "Cape Coast Metropolitan Assembly",
+    "department": "Planning",
+    "employeeId": "EMP-CCMA-0030",
+    "isActive": true
+  }
+]

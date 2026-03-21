@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@karonga.council.mw",
+    "role": "TownClerk",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-KTC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@karonga.council.mw",
+    "role": "DirectorOfFinance",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-KTC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@karonga.council.mw",
+    "role": "BudgetOfficer",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-KTC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@karonga.council.mw",
+    "role": "ProcurementOfficer",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-KTC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@karonga.council.mw",
+    "role": "AssetManager",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Property",
+    "employeeId": "EMP-KTC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@karonga.council.mw",
+    "role": "PropertyManager",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-KTC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@karonga.council.mw",
+    "role": "LandUseOfficer",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-KTC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@karonga.council.mw",
+    "role": "PermitsOfficer",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-KTC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@karonga.council.mw",
+    "role": "Councillor",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-KTC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@karonga.council.mw",
+    "role": "Auditor",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-KTC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@karonga.council.mw",
+    "role": "TownClerk",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-KTC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@karonga.council.mw",
+    "role": "DirectorOfFinance",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-KTC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@karonga.council.mw",
+    "role": "BudgetOfficer",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Property",
+    "employeeId": "EMP-KTC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@karonga.council.mw",
+    "role": "ProcurementOfficer",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-KTC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@karonga.council.mw",
+    "role": "AssetManager",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-KTC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@karonga.council.mw",
+    "role": "PropertyManager",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-KTC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@karonga.council.mw",
+    "role": "LandUseOfficer",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-KTC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@karonga.council.mw",
+    "role": "PermitsOfficer",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-KTC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@karonga.council.mw",
+    "role": "Councillor",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-KTC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@karonga.council.mw",
+    "role": "Auditor",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-KTC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@karonga.council.mw",
+    "role": "TownClerk",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Property",
+    "employeeId": "EMP-KTC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@karonga.council.mw",
+    "role": "DirectorOfFinance",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-KTC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@karonga.council.mw",
+    "role": "BudgetOfficer",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Legal",
+    "employeeId": "EMP-KTC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@karonga.council.mw",
+    "role": "ProcurementOfficer",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Audit",
+    "employeeId": "EMP-KTC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@karonga.council.mw",
+    "role": "AssetManager",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Administration",
+    "employeeId": "EMP-KTC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@karonga.council.mw",
+    "role": "PropertyManager",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Finance",
+    "employeeId": "EMP-KTC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@karonga.council.mw",
+    "role": "LandUseOfficer",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Procurement",
+    "employeeId": "EMP-KTC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@karonga.council.mw",
+    "role": "PermitsOfficer",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Assets",
+    "employeeId": "EMP-KTC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@karonga.council.mw",
+    "role": "Councillor",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Property",
+    "employeeId": "EMP-KTC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@karonga.council.mw",
+    "role": "Auditor",
+    "tenantId": "karonga-town-council",
+    "councilName": "Karonga Town Council",
+    "department": "Planning",
+    "employeeId": "EMP-KTC-0030",
+    "isActive": true
+  }
+]

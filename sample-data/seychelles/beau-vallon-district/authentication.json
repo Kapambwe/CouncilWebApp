@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@beau-vallon.district.sc",
+    "role": "TownClerk",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Administration",
+    "employeeId": "EMP-BVD-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@beau-vallon.district.sc",
+    "role": "DirectorOfFinance",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Finance",
+    "employeeId": "EMP-BVD-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@beau-vallon.district.sc",
+    "role": "BudgetOfficer",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Procurement",
+    "employeeId": "EMP-BVD-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@beau-vallon.district.sc",
+    "role": "ProcurementOfficer",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Assets",
+    "employeeId": "EMP-BVD-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@beau-vallon.district.sc",
+    "role": "AssetManager",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Property",
+    "employeeId": "EMP-BVD-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@beau-vallon.district.sc",
+    "role": "PropertyManager",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Planning",
+    "employeeId": "EMP-BVD-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@beau-vallon.district.sc",
+    "role": "LandUseOfficer",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Legal",
+    "employeeId": "EMP-BVD-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@beau-vallon.district.sc",
+    "role": "PermitsOfficer",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Audit",
+    "employeeId": "EMP-BVD-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@beau-vallon.district.sc",
+    "role": "Councillor",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Administration",
+    "employeeId": "EMP-BVD-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@beau-vallon.district.sc",
+    "role": "Auditor",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Finance",
+    "employeeId": "EMP-BVD-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@beau-vallon.district.sc",
+    "role": "TownClerk",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Procurement",
+    "employeeId": "EMP-BVD-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@beau-vallon.district.sc",
+    "role": "DirectorOfFinance",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Assets",
+    "employeeId": "EMP-BVD-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@beau-vallon.district.sc",
+    "role": "BudgetOfficer",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Property",
+    "employeeId": "EMP-BVD-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@beau-vallon.district.sc",
+    "role": "ProcurementOfficer",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Planning",
+    "employeeId": "EMP-BVD-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@beau-vallon.district.sc",
+    "role": "AssetManager",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Legal",
+    "employeeId": "EMP-BVD-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@beau-vallon.district.sc",
+    "role": "PropertyManager",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Audit",
+    "employeeId": "EMP-BVD-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@beau-vallon.district.sc",
+    "role": "LandUseOfficer",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Administration",
+    "employeeId": "EMP-BVD-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@beau-vallon.district.sc",
+    "role": "PermitsOfficer",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Finance",
+    "employeeId": "EMP-BVD-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@beau-vallon.district.sc",
+    "role": "Councillor",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Procurement",
+    "employeeId": "EMP-BVD-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@beau-vallon.district.sc",
+    "role": "Auditor",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Assets",
+    "employeeId": "EMP-BVD-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@beau-vallon.district.sc",
+    "role": "TownClerk",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Property",
+    "employeeId": "EMP-BVD-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@beau-vallon.district.sc",
+    "role": "DirectorOfFinance",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Planning",
+    "employeeId": "EMP-BVD-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@beau-vallon.district.sc",
+    "role": "BudgetOfficer",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Legal",
+    "employeeId": "EMP-BVD-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@beau-vallon.district.sc",
+    "role": "ProcurementOfficer",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Audit",
+    "employeeId": "EMP-BVD-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@beau-vallon.district.sc",
+    "role": "AssetManager",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Administration",
+    "employeeId": "EMP-BVD-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@beau-vallon.district.sc",
+    "role": "PropertyManager",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Finance",
+    "employeeId": "EMP-BVD-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@beau-vallon.district.sc",
+    "role": "LandUseOfficer",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Procurement",
+    "employeeId": "EMP-BVD-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@beau-vallon.district.sc",
+    "role": "PermitsOfficer",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Assets",
+    "employeeId": "EMP-BVD-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@beau-vallon.district.sc",
+    "role": "Councillor",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Property",
+    "employeeId": "EMP-BVD-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@beau-vallon.district.sc",
+    "role": "Auditor",
+    "tenantId": "beau-vallon-district",
+    "councilName": "Beau Vallon District",
+    "department": "Planning",
+    "employeeId": "EMP-BVD-0030",
+    "isActive": true
+  }
+]

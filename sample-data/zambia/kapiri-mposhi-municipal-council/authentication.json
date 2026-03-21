@@ -1,0 +1,272 @@
+[
+  {
+    "username": "townclerk1@kapiri-mposhi.council.zm",
+    "role": "TownClerk",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-KPMC-0001",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance2@kapiri-mposhi.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-KPMC-0002",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer3@kapiri-mposhi.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-KPMC-0003",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer4@kapiri-mposhi.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-KPMC-0004",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager5@kapiri-mposhi.council.zm",
+    "role": "AssetManager",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-KPMC-0005",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager6@kapiri-mposhi.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-KPMC-0006",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer7@kapiri-mposhi.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-KPMC-0007",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer8@kapiri-mposhi.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-KPMC-0008",
+    "isActive": true
+  },
+  {
+    "username": "councillor9@kapiri-mposhi.council.zm",
+    "role": "Councillor",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-KPMC-0009",
+    "isActive": true
+  },
+  {
+    "username": "auditor10@kapiri-mposhi.council.zm",
+    "role": "Auditor",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-KPMC-0010",
+    "isActive": true
+  },
+  {
+    "username": "townclerk11@kapiri-mposhi.council.zm",
+    "role": "TownClerk",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-KPMC-0011",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance12@kapiri-mposhi.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-KPMC-0012",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer13@kapiri-mposhi.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-KPMC-0013",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer14@kapiri-mposhi.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-KPMC-0014",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager15@kapiri-mposhi.council.zm",
+    "role": "AssetManager",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-KPMC-0015",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager16@kapiri-mposhi.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-KPMC-0016",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer17@kapiri-mposhi.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-KPMC-0017",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer18@kapiri-mposhi.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-KPMC-0018",
+    "isActive": true
+  },
+  {
+    "username": "councillor19@kapiri-mposhi.council.zm",
+    "role": "Councillor",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-KPMC-0019",
+    "isActive": true
+  },
+  {
+    "username": "auditor20@kapiri-mposhi.council.zm",
+    "role": "Auditor",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-KPMC-0020",
+    "isActive": true
+  },
+  {
+    "username": "townclerk21@kapiri-mposhi.council.zm",
+    "role": "TownClerk",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-KPMC-0021",
+    "isActive": true
+  },
+  {
+    "username": "directoroffinance22@kapiri-mposhi.council.zm",
+    "role": "DirectorOfFinance",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-KPMC-0022",
+    "isActive": true
+  },
+  {
+    "username": "budgetofficer23@kapiri-mposhi.council.zm",
+    "role": "BudgetOfficer",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Legal",
+    "employeeId": "EMP-KPMC-0023",
+    "isActive": true
+  },
+  {
+    "username": "procurementofficer24@kapiri-mposhi.council.zm",
+    "role": "ProcurementOfficer",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Audit",
+    "employeeId": "EMP-KPMC-0024",
+    "isActive": true
+  },
+  {
+    "username": "assetmanager25@kapiri-mposhi.council.zm",
+    "role": "AssetManager",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Administration",
+    "employeeId": "EMP-KPMC-0025",
+    "isActive": true
+  },
+  {
+    "username": "propertymanager26@kapiri-mposhi.council.zm",
+    "role": "PropertyManager",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Finance",
+    "employeeId": "EMP-KPMC-0026",
+    "isActive": true
+  },
+  {
+    "username": "landuseofficer27@kapiri-mposhi.council.zm",
+    "role": "LandUseOfficer",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Procurement",
+    "employeeId": "EMP-KPMC-0027",
+    "isActive": true
+  },
+  {
+    "username": "permitsofficer28@kapiri-mposhi.council.zm",
+    "role": "PermitsOfficer",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Assets",
+    "employeeId": "EMP-KPMC-0028",
+    "isActive": true
+  },
+  {
+    "username": "councillor29@kapiri-mposhi.council.zm",
+    "role": "Councillor",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Property",
+    "employeeId": "EMP-KPMC-0029",
+    "isActive": true
+  },
+  {
+    "username": "auditor30@kapiri-mposhi.council.zm",
+    "role": "Auditor",
+    "tenantId": "kapiri-mposhi-municipal-council",
+    "councilName": "Kapiri Mposhi Municipal Council",
+    "department": "Planning",
+    "employeeId": "EMP-KPMC-0030",
+    "isActive": true
+  }
+]
