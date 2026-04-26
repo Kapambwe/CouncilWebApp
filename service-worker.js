@@ -1,8 +1,8 @@
 // Council Web App - Service Worker for Progressive Web App
 // Provides offline capabilities, caching, and background sync
 
-const CACHE_NAME = 'council-app-v1.0.0';
-const RUNTIME_CACHE = 'council-app-runtime';
+const CACHE_NAME = 'council-app-v1.0.1';
+const RUNTIME_CACHE = 'council-app-runtime-v1.0.1';
 const OFFLINE_URL = '/offline.html';
 
 // Assets to cache on install
@@ -221,13 +221,13 @@ function getCachingStrategy(request) {
     const url = new URL(request.url);
     const pathname = url.pathname;
 
-    // Static assets - cache first
-    if (pathname.match(/\.(css|js|png|jpg|jpeg|gif|svg|woff|woff2|ttf|eot)$/)) {
-        return CACHE_STRATEGIES.CACHE_FIRST;
+    // Framework files change on every build and must not be served stale
+    if (pathname.startsWith('/_framework/')) {
+        return CACHE_STRATEGIES.NETWORK_FIRST;
     }
 
-    // Framework files - cache first
-    if (pathname.startsWith('/_framework/')) {
+    // Static assets - cache first
+    if (pathname.match(/\.(css|js|png|jpg|jpeg|gif|svg|woff|woff2|ttf|eot)$/)) {
         return CACHE_STRATEGIES.CACHE_FIRST;
     }
 

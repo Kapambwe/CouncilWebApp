@@ -133,6 +133,34 @@
             }
         })();
     </script>
+    <script>
+        (function () {
+            const isLocalhost = ['localhost', '127.0.0.1'].includes(window.location.hostname);
+            if (!isLocalhost || !('serviceWorker' in navigator) || !('caches' in window)) {
+                return;
+            }
+
+            window.addEventListener('load', async function () {
+                try {
+                    const registrations = await navigator.serviceWorker.getRegistrations();
+                    for (const registration of registrations) {
+                        await registration.unregister();
+                    }
+
+                    const cacheNames = await caches.keys();
+                    const councilCaches = cacheNames.filter(name => name.startsWith('council-app'));
+                    await Promise.all(councilCaches.map(name => caches.delete(name)));
+
+                    if (sessionStorage.getItem('council-sw-reset') !== '1') {
+                        sessionStorage.setItem('council-sw-reset', '1');
+                        window.location.reload();
+                    }
+                } catch (error) {
+                    console.warn('Failed to reset local service worker caches', error);
+                }
+            });
+        })();
+    </script>
 </body>
 
 </html>
