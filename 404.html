@@ -5,11 +5,12 @@
     <title>Redirecting...</title>
     <script type="text/javascript">
       // Redirect all 404 routes to index.html and preserve path/query
-        var redirectTo = '/CouncilWebApp/index.html' + location.search + location.hash;
+        var redirectTo = '/CouncilWebApp/index.html' + location.search;
         var path = location.pathname.replace('/CouncilWebApp', '');
       if (path && path !== '/index.html') {
-        redirectTo += '?path=' + encodeURIComponent(path);
+        redirectTo += (location.search ? '&' : '?') + 'path=' + encodeURIComponent(path);
       }
+      redirectTo += location.hash;
       window.location.replace(redirectTo);
     </script>
 </head>

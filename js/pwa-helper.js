@@ -11,9 +11,11 @@
     }
 
     // PWA Configuration
+    const baseHref = document.querySelector('base')?.getAttribute('href') || '/';
+
     const PWA_CONFIG = {
-        serviceWorkerUrl: '/service-worker.js',
-        scope: '/',
+        serviceWorkerUrl: new URL('service-worker.js', document.baseURI).pathname,
+        scope: baseHref,
         updateCheckInterval: 60000 // Check for updates every minute
     };
 

@@ -1,34 +1,17 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Council Web App</title>
-    <base href="/" id="dynamic-base">
-    <script>
-        // Dynamically set base path for GitHub Pages deployment
-        (function () {
-            var base = document.getElementById('dynamic-base');
-            var path = window.location.pathname.includes('/CouncilWebApp')
-                ? '/CouncilWebApp/'
-                : '/';
-            base.setAttribute('href', path);
-        })();
-    </script>
+    <base href="/CouncilWebApp/" />
+    <script src="js/index.js"></script>
     <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/app.css" />
     <link rel="icon" type="image/png" href="favicon.png" />
     <link href="CouncilWebApp.styles.css" rel="stylesheet" />
     <link href="_content/Radzen.Blazor/css/material-base.css" rel="stylesheet">
-
-    <!-- PWA Manifest - DISABLED -->
-    <!-- <link rel="manifest" href="manifest.json" /> -->
-    <!-- <meta name="theme-color" content="#0d6efd" /> -->
-    <!-- <meta name="apple-mobile-web-app-capable" content="yes" /> -->
-    <!-- <meta name="apple-mobile-web-app-status-bar-style" content="default" /> -->
-    <!-- <meta name="apple-mobile-web-app-title" content="Council App" /> -->
-    <!-- <link rel="apple-touch-icon" href="icon-192.png" /> -->
 
     <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -69,66 +52,8 @@
     <div id="blazor-error-ui">
         An unhandled error has occurred.
         <a href="." class="reload">Reload</a>
-        <span class="dismiss">🗙</span>
+        <span class="dismiss">ðŸ—™</span>
     </div>
-    
-    <!-- Performance Monitoring -->
-    <script>
-        (function() {
-            window.addEventListener('load', function() {
-                setTimeout(function() {
-                    try {
-                        const perfData = performance.getEntriesByType('resource');
-                        const dllFiles = perfData.filter(r => r.name.includes('.dll') || r.name.includes('.wasm'));
-                        const jsFiles = perfData.filter(r => r.name.includes('.js') && !r.name.includes('_framework'));
-                        
-                        const totalDllSize = dllFiles.reduce((sum, r) => sum + (r.transferSize || 0), 0);
-                        const totalJsSize = jsFiles.reduce((sum, r) => sum + (r.transferSize || 0), 0);
-                        const totalSize = totalDllSize + totalJsSize;
-                        
-                        console.log('%c📊 CouncilWebApp Performance Metrics', 'color: #4CAF50; font-size: 16px; font-weight: bold;');
-                        console.log('%c━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━', 'color: #4CAF50;');
-                        console.log('🔹 DLLs loaded:', dllFiles.length);
-                        console.log('🔹 Total DLL size:', (totalDllSize / 1024 / 1024).toFixed(2), 'MB');
-                        console.log('🔹 Total JS size:', (totalJsSize / 1024 / 1024).toFixed(2), 'MB');
-                        console.log('🔹 Total download:', (totalSize / 1024 / 1024).toFixed(2), 'MB');
-                        console.log('%c━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━', 'color: #4CAF50;');
-                        
-                        const navTiming = performance.getEntriesByType('navigation')[0];
-                        if (navTiming) {
-                            console.log('⏱️ Page Load Time:', (navTiming.loadEventEnd - navTiming.fetchStart).toFixed(0), 'ms');
-                            console.log('⏱️ DOM Content Loaded:', (navTiming.domContentLoadedEventEnd - navTiming.fetchStart).toFixed(0), 'ms');
-                            console.log('⏱️ Time to Interactive:', (navTiming.domInteractive - navTiming.fetchStart).toFixed(0), 'ms');
-                        }
-                        
-                        window.councilWebAppMetrics = {
-                            dllCount: dllFiles.length,
-                            dllSizeMB: (totalDllSize / 1024 / 1024),
-                            jsSizeMB: (totalJsSize / 1024 / 1024),
-                            totalSizeMB: (totalSize / 1024 / 1024),
-                            loadTimeMs: navTiming ? (navTiming.loadEventEnd - navTiming.fetchStart) : 0,
-                            timestamp: new Date().toISOString()
-                        };
-                    } catch (err) {
-                        console.error('Error collecting performance metrics:', err);
-                    }
-                }, 2000);
-            });
-            
-            window.trackFeatureAccess = function(featureName) {
-                if (!window.featureAccessLog) {
-                    window.featureAccessLog = [];
-                }
-                const access = {
-                    feature: featureName,
-                    timestamp: new Date().toISOString(),
-                    url: window.location.pathname
-                };
-                window.featureAccessLog.push(access);
-                console.log('%c📝 Feature Loaded: ' + featureName, 'color: #9C27B0; font-weight: bold;', access);
-            };
-        })();
-    </script>
     
     <script src="_framework/blazor.webassembly.66stpp682q.js"></script>
     <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
@@ -143,44 +68,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-minimap/3.6.1/Control.MiniMap.min.js"></script>
     
-    <script>
-        // If redirected from 404.html, restore path
-        (function () {
-            const params = new URLSearchParams(window.location.search);
-            const path = params.get('path');
-            if (path) {
-                window.history.replaceState(null, '', '/CouncilWebApp' + decodeURIComponent(path));
-            }
-        })();
-    </script>
-    <script>
-        (function () {
-            const isLocalhost = ['localhost', '127.0.0.1'].includes(window.location.hostname);
-            if (!isLocalhost || !('serviceWorker' in navigator) || !('caches' in window)) {
-                return;
-            }
-
-            window.addEventListener('load', async function () {
-                try {
-                    const registrations = await navigator.serviceWorker.getRegistrations();
-                    for (const registration of registrations) {
-                        await registration.unregister();
-                    }
-
-                    const cacheNames = await caches.keys();
-                    const councilCaches = cacheNames.filter(name => name.startsWith('council-app'));
-                    await Promise.all(councilCaches.map(name => caches.delete(name)));
-
-                    if (sessionStorage.getItem('council-sw-reset') !== '1') {
-                        sessionStorage.setItem('council-sw-reset', '1');
-                        window.location.reload();
-                    }
-                } catch (error) {
-                    console.warn('Failed to reset local service worker caches', error);
-                }
-            });
-        })();
-    </script>
 </body>
 
 </html>

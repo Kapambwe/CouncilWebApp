@@ -1,21 +1,22 @@
-// Council Web App - Service Worker for Progressive Web App
+﻿// Council Web App - Service Worker for Progressive Web App
 // Provides offline capabilities, caching, and background sync
 
 const CACHE_NAME = 'council-app-v1.0.1';
 const RUNTIME_CACHE = 'council-app-runtime-v1.0.1';
-const OFFLINE_URL = '/offline.html';
+const BASE_PATH = new URL(self.registration.scope).pathname.replace(/\/$/, '');
+const pathFor = path => `${BASE_PATH}${path}`;
+const OFFLINE_URL = pathFor('/offline.html');
 
 // Assets to cache on install
 const PRECACHE_ASSETS = [
-    '/',
-    '/index.html',
-    '/css/app.css',
-    '/lib/bootstrap/dist/css/bootstrap.min.css',
-    '/favicon.png',
-    '/icon-192.png',
-    '/manifest.json',
-    '/offline.html',
-    '/_framework/blazor.webassembly.js'
+    pathFor('/'),
+    pathFor('/index.html'),
+    pathFor('/css/app.css'),
+    pathFor('/lib/bootstrap/dist/css/bootstrap.min.css'),
+    pathFor('/favicon.png'),
+    pathFor('/icon-192.png'),
+    pathFor('/manifest.json'),
+    pathFor('/offline.html')
 ];
 
 // Cache strategies
@@ -222,7 +223,7 @@ function getCachingStrategy(request) {
     const pathname = url.pathname;
 
     // Framework files change on every build and must not be served stale
-    if (pathname.startsWith('/_framework/')) {
+    if (pathname.startsWith(pathFor('/_framework/'))) {
         return CACHE_STRATEGIES.NETWORK_FIRST;
     }
 
@@ -232,12 +233,12 @@ function getCachingStrategy(request) {
     }
 
     // Content libraries - cache first
-    if (pathname.startsWith('/_content/')) {
+    if (pathname.startsWith(pathFor('/_content/'))) {
         return CACHE_STRATEGIES.CACHE_FIRST;
     }
 
     // API calls - network first with fallback
-    if (pathname.startsWith('/api/')) {
+    if (pathname.startsWith(pathFor('/api/'))) {
         return CACHE_STRATEGIES.NETWORK_FIRST;
     }
 
