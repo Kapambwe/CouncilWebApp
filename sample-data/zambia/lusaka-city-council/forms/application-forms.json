@@ -1,0 +1,719 @@
+[
+  {
+    "formId": "FORM-PACRA-COMPANY-REG-001",
+    "applicationType": "company-registration",
+    "serviceCode": "PACRA-REG-001",
+    "title": "PACRA Company Registration",
+    "category": "License Forms",
+    "categoryKey": "license-forms",
+    "description": "Company registration template with directors, share capital, and office details.",
+    "fee": 850,
+    "currency": "ZMW",
+    "slaDays": 7,
+    "workflow": "company-registration-verification",
+    "isActive": true,
+    "version": "1.0.0",
+    "sections": [
+      {
+        "sectionId": "company-name",
+        "title": "Proposed Company Name",
+        "order": 1,
+        "fields": [
+          { "id": "name_ref", "label": "Name Clearance Reference Number", "type": "text", "required": true, "placeholder": "Enter approved name clearance ref" },
+          { "id": "name1", "label": "Approved Company Name", "type": "text", "required": true, "placeholder": "Enter approved name" }
+        ]
+      },
+      {
+        "sectionId": "company-type",
+        "title": "Company Type",
+        "order": 2,
+        "fields": [
+          { "id": "comp_type", "label": "Nature of Company", "type": "select", "required": true, "options": [ "Private Limited by Shares", "Private Limited by Guarantee", "Public Limited Company" ] },
+          { "id": "business_sector", "label": "Primary Business Sector", "type": "text", "required": true, "placeholder": "e.g. ICT, Agriculture, Mining" }
+        ]
+      },
+      {
+        "sectionId": "registered-office",
+        "title": "Registered Office",
+        "order": 3,
+        "fields": [
+          { "id": "office_address", "label": "Physical Address in Zambia", "type": "text", "required": true, "placeholder": "Plot No, Street, Town" },
+          { "id": "postal_address", "label": "Postal Address", "type": "text", "required": false, "placeholder": "P.O. Box" },
+          { "id": "email", "label": "Official Email Address", "type": "text", "required": true, "placeholder": "info@company.co.zm" }
+        ]
+      },
+      {
+        "sectionId": "declaration",
+        "title": "Declaration of Compliance",
+        "order": 4,
+        "fields": [
+          { "id": "decl_name", "label": "Full Name of Declarant", "type": "text", "required": true },
+          { "id": "signature", "label": "Digital Signature", "type": "signature", "required": true }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "PACRA Name Clearance", "National ID / Passport", "Articles of Association" ],
+    "checklist": [
+      { "id": 1, "text": "Validate name clearance reference", "isMandatory": true },
+      { "id": 2, "text": "Verify incorporation particulars", "isMandatory": true },
+      { "id": 3, "text": "Confirm declaration signature", "isMandatory": true }
+    ]
+  },
+  {
+    "formId": "FORM-BUSINESS-PERMIT-001",
+    "applicationType": "business-permit",
+    "serviceCode": "BUS-PERMIT-001",
+    "title": "Business Permit Application",
+    "category": "Permit Forms",
+    "categoryKey": "permit-forms",
+    "description": "Standard business permit application with premises and declaration details.",
+    "fee": 500,
+    "currency": "ZMW",
+    "slaDays": 10,
+    "workflow": "business-permit-review",
+    "isActive": true,
+    "version": "1.0.0",
+    "sections": [
+      {
+        "sectionId": "business-information",
+        "title": "Business Information",
+        "order": 1,
+        "fields": [
+          { "id": "bus_name", "label": "Business Name", "type": "text", "required": true, "placeholder": "Verified from PACRA" },
+          { "id": "pacra_no", "label": "PACRA Reg Number", "type": "text", "required": true, "placeholder": "Verified from PACRA" },
+          { "id": "bus_desc", "label": "Description of Business Activities", "type": "textarea", "required": true }
+        ]
+      },
+      {
+        "sectionId": "location-premises",
+        "title": "Location & Premises",
+        "order": 2,
+        "fields": [
+          { "id": "stand_no", "label": "Stand Number", "type": "text", "required": true },
+          { "id": "street_no", "label": "Street / Road Name", "type": "text", "required": true },
+          { "id": "area", "label": "Area / Ward", "type": "text", "required": true }
+        ]
+      },
+      {
+        "sectionId": "permit-declaration",
+        "title": "Declaration",
+        "order": 3,
+        "fields": [
+          { "id": "decl_date", "label": "Declaration Date", "type": "date", "required": true },
+          { "id": "signature", "label": "Applicant Signature", "type": "signature", "required": true }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "Business registration certificate", "Tax clearance certificate", "Premises lease or title" ],
+    "checklist": [
+      { "id": 1, "text": "Verify business registration", "isMandatory": true },
+      { "id": 2, "text": "Verify premises occupation evidence", "isMandatory": true },
+      { "id": 3, "text": "Confirm declaration", "isMandatory": true }
+    ]
+  },
+  {
+    "formId": "FORM-RETAIL-001",
+    "applicationType": "retail-trading-license",
+    "serviceCode": "RETAIL-TRADING-001",
+    "title": "Retail Trading License",
+    "category": "License Forms",
+    "categoryKey": "license-forms",
+    "description": "Retail trading license application for small and medium businesses.",
+    "fee": 350,
+    "currency": "ZMW",
+    "slaDays": 10,
+    "workflow": "retail-license-review",
+    "isActive": true,
+    "version": "1.0.0",
+    "sections": [
+      {
+        "sectionId": "applicant-business",
+        "title": "Applicant & Business Information",
+        "order": 1,
+        "fields": [
+          { "id": "full_name", "label": "Full Name of Applicant", "type": "text", "required": true, "placeholder": "Verified from NRC" },
+          { "id": "bus_name", "label": "Business Name", "type": "text", "required": true },
+          { "id": "goods_desc", "label": "Description of Goods to be Sold", "type": "textarea", "required": true }
+        ]
+      },
+      {
+        "sectionId": "premises-information",
+        "title": "Premises Information",
+        "order": 2,
+        "fields": [
+          { "id": "stand_no", "label": "Stand No", "type": "text", "required": true },
+          { "id": "street_no", "label": "Street Name", "type": "text", "required": true },
+          { "id": "area", "label": "Area / Ward", "type": "text", "required": true }
+        ]
+      },
+      {
+        "sectionId": "declaration",
+        "title": "Declaration",
+        "order": 3,
+        "fields": [
+          { "id": "decl_date", "label": "Declaration Date", "type": "date", "required": true },
+          { "id": "signature", "label": "Applicant Signature", "type": "signature", "required": true }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "PACRA certificate", "Tax clearance certificate", "Premises lease", "Council rates clearance" ],
+    "checklist": [
+      { "id": 1, "text": "Verify applicant identity", "isMandatory": true },
+      { "id": 2, "text": "Verify business registration", "isMandatory": true },
+      { "id": 3, "text": "Confirm premises suitability", "isMandatory": true }
+    ]
+  },
+  {
+    "formId": "FORM-WHOLESALE-001",
+    "applicationType": "wholesale-trading-license",
+    "serviceCode": "WHOLESALE-TRADING-001",
+    "title": "Wholesale Trading License",
+    "category": "License Forms",
+    "categoryKey": "license-forms",
+    "description": "Wholesale license application with premises and trader declarations.",
+    "fee": 500,
+    "currency": "ZMW",
+    "slaDays": 14,
+    "workflow": "wholesale-license-review",
+    "isActive": true,
+    "version": "1.0.0",
+    "sections": [
+      {
+        "sectionId": "basic-information",
+        "title": "Basic Information",
+        "order": 1,
+        "fields": [
+          { "id": "fullName", "label": "Full name of Applicant", "type": "text", "required": true },
+          { "id": "postalAddress", "label": "Postal Address", "type": "text", "required": true },
+          { "id": "phoneNumber", "label": "Phone Number", "type": "text", "required": true }
+        ]
+      },
+      {
+        "sectionId": "business-details",
+        "title": "Business Details",
+        "order": 2,
+        "fields": [
+          { "id": "businessName", "label": "Business Name", "type": "text", "required": true },
+          { "id": "goodsDescription", "label": "Description of goods to be sold", "type": "textarea", "required": true },
+          { "id": "premisesStandNo", "label": "Premises Stand No", "type": "text", "required": true },
+          { "id": "premisesStreetNo", "label": "Premises Street No", "type": "text", "required": true }
+        ]
+      },
+      {
+        "sectionId": "declaration",
+        "title": "Declaration",
+        "order": 3,
+        "fields": [
+          { "id": "declarationConfirmed", "label": "Confirm declaration", "type": "checkbox", "required": true },
+          { "id": "declarationDate", "label": "Declaration Date", "type": "date", "required": true },
+          { "id": "applicantSignature", "label": "Applicant Signature", "type": "signature", "required": false }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "Business registration certificate", "Tax clearance certificate", "Premises proof" ],
+    "checklist": [
+      { "id": 1, "text": "Verify premises occupancy", "isMandatory": true },
+      { "id": 2, "text": "Verify trading scope", "isMandatory": true }
+    ]
+  },
+  {
+    "formId": "FORM-MANUFACTURING-001",
+    "applicationType": "manufacturing-license",
+    "serviceCode": "MANUFACTURING-001",
+    "title": "Manufacturing License",
+    "category": "License Forms",
+    "categoryKey": "license-forms",
+    "description": "Manufacturing license application with production premises and declarations.",
+    "fee": 750,
+    "currency": "ZMW",
+    "slaDays": 21,
+    "workflow": "manufacturing-license-review",
+    "isActive": true,
+    "version": "1.0.0",
+    "sections": [
+      {
+        "sectionId": "applicant-details",
+        "title": "Applicant Details",
+        "order": 1,
+        "fields": [
+          { "id": "fullName", "label": "FULL NAME OF APPLICANT", "type": "text", "required": true },
+          { "id": "postalAddress", "label": "POSTAL ADDRESS", "type": "text", "required": false },
+          { "id": "phoneNumber", "label": "PHONE NO", "type": "text", "required": false }
+        ]
+      },
+      {
+        "sectionId": "business-information",
+        "title": "Business Information",
+        "order": 2,
+        "fields": [
+          { "id": "businessName", "label": "BUSINESS NAME (IF ANY)", "type": "text", "required": false },
+          { "id": "standNo", "label": "STAND NO", "type": "text", "required": false },
+          { "id": "streetName", "label": "STREET NAME", "type": "text", "required": false },
+          { "id": "town", "label": "TOWN", "type": "text", "required": false }
+        ]
+      },
+      {
+        "sectionId": "manufacturing-details",
+        "title": "Manufacturing Details",
+        "order": 3,
+        "fields": [
+          { "id": "descriptionOfGoods", "label": "DESCRIPTION OF GOODS TO BE MANUFACTURED", "type": "textarea", "required": true }
+        ]
+      },
+      {
+        "sectionId": "declaration",
+        "title": "Declaration",
+        "order": 4,
+        "fields": [
+          { "id": "declarantName", "label": "Declarant Name", "type": "text", "required": true },
+          { "id": "declarantAddress", "label": "Declarant Address", "type": "text", "required": true },
+          { "id": "declarationDate", "label": "DATE", "type": "date", "required": true }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "Business registration certificate", "Environmental clearance", "Fire safety clearance" ],
+    "checklist": [
+      { "id": 1, "text": "Verify production premises", "isMandatory": true },
+      { "id": 2, "text": "Verify environmental compliance", "isMandatory": true }
+    ]
+  },
+  {
+    "formId": "FORM-SERVICE-LAND-LEASE-RENEW-001",
+    "applicationType": "land-lease-renewal",
+    "serviceCode": "LAND-LEASE-RENEW-001",
+    "title": "Land Lease Renewal",
+    "category": "Land Forms",
+    "categoryKey": "land-forms",
+    "description": "Renewal of an existing land lease with title and payment references.",
+    "fee": 1200,
+    "currency": "ZMW",
+    "slaDays": 21,
+    "workflow": "land-lease-renewal-review",
+    "isActive": true,
+    "version": "1.0.0",
+    "sections": [
+      {
+        "sectionId": "lease-details",
+        "title": "Lease Details",
+        "order": 1,
+        "fields": [
+          { "id": "leaseNumber", "label": "Lease Number", "type": "text", "required": true },
+          { "id": "parcelNumber", "label": "Parcel Number", "type": "text", "required": true },
+          { "id": "tenantName", "label": "Tenant Name", "type": "text", "required": true }
+        ]
+      },
+      {
+        "sectionId": "supporting-documents",
+        "title": "Supporting Documents",
+        "order": 2,
+        "fields": [
+          { "id": "currentLease", "label": "Current Lease Document", "type": "file", "required": true },
+          { "id": "paymentReference", "label": "Payment Reference", "type": "text", "required": true },
+          { "id": "renewalJustification", "label": "Renewal Justification", "type": "textarea", "required": true }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "Current lease", "Council rates clearance", "Proof of payment" ],
+    "checklist": [
+      { "id": 1, "text": "Verify current lease terms", "isMandatory": true },
+      { "id": 2, "text": "Confirm payment status", "isMandatory": true }
+    ]
+  },
+  {
+    "formId": "FORM-COUNCIL-GENERIC-PERMIT-001",
+    "applicationType": "generic-permit",
+    "serviceCode": "COUNCIL-PERMIT-001",
+    "title": "Council Generic Permit",
+    "category": "Permit Forms",
+    "categoryKey": "permit-forms",
+    "description": "A configurable council permit template for generic service issuance.",
+    "fee": 250,
+    "currency": "ZMW",
+    "slaDays": 7,
+    "workflow": "generic-permit-review",
+    "isActive": true,
+    "version": "1.0.0",
+    "sections": [
+      {
+        "sectionId": "permit-applicant",
+        "title": "Applicant Information",
+        "order": 1,
+        "fields": [
+          { "id": "applicantName", "label": "Applicant Name", "type": "text", "required": true },
+          { "id": "applicantId", "label": "Applicant ID Number", "type": "text", "required": true },
+          { "id": "contactNumber", "label": "Contact Number", "type": "tel", "required": true }
+        ]
+      },
+      {
+        "sectionId": "permit-purpose",
+        "title": "Permit Purpose",
+        "order": 2,
+        "fields": [
+          { "id": "permitType", "label": "Permit Type", "type": "select", "required": true, "options": [ "Temporary", "Annual", "Special", "Operational" ] },
+          { "id": "purpose", "label": "Purpose", "type": "textarea", "required": true },
+          { "id": "supportingFile", "label": "Supporting File", "type": "file", "required": false }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "Identity document", "Business registration", "Supporting evidence" ],
+    "checklist": [
+      { "id": 1, "text": "Validate applicant identity", "isMandatory": true },
+      { "id": 2, "text": "Validate permit purpose", "isMandatory": true }
+    ]
+  },
+  {
+    "formId": "FORM-COUNCIL-PLOT-001",
+    "applicationType": "plot-allocation",
+    "serviceCode": "COUNCIL-PLOT-001",
+    "title": "Council Plot Application",
+    "category": "Land Forms",
+    "categoryKey": "land-forms",
+    "description": "Council plot allocation template for stand or plot requests.",
+    "fee": 600,
+    "currency": "ZMW",
+    "slaDays": 14,
+    "workflow": "plot-allocation-review",
+    "isActive": true,
+    "version": "1.0.0",
+    "sections": [
+      {
+        "sectionId": "applicant-details",
+        "title": "Applicant Details",
+        "order": 1,
+        "fields": [
+          { "id": "fullName", "label": "Full Name", "type": "text", "required": true },
+          { "id": "nationalId", "label": "National ID", "type": "text", "required": true },
+          { "id": "phoneNumber", "label": "Phone Number", "type": "tel", "required": true }
+        ]
+      },
+      {
+        "sectionId": "plot-request",
+        "title": "Plot Request",
+        "order": 2,
+        "fields": [
+          { "id": "preferredWard", "label": "Preferred Ward", "type": "text", "required": true },
+          { "id": "plotPurpose", "label": "Plot Purpose", "type": "textarea", "required": true },
+          { "id": "attachment", "label": "Supporting Attachment", "type": "file", "required": false }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "National ID", "Proof of residence", "Location sketch" ],
+    "checklist": [
+      { "id": 1, "text": "Verify identity and residence", "isMandatory": true },
+      { "id": 2, "text": "Confirm plot purpose", "isMandatory": true }
+    ]
+  },
+  {
+    "formId": "FORM-LAND-TITLE-001",
+    "applicationType": "land-title",
+    "serviceCode": "LAND-TITLE-001",
+    "title": "Land Title Application",
+    "category": "Land Forms",
+    "categoryKey": "land-forms",
+    "description": "Land title and tenure regularization template with parcel and ownership evidence.",
+    "fee": 1500,
+    "currency": "ZMW",
+    "slaDays": 21,
+    "workflow": "land-title-verification",
+    "isActive": true,
+    "version": "1.0.0",
+    "sections": [
+      {
+        "sectionId": "parcel-details",
+        "title": "Parcel Details",
+        "order": 1,
+        "fields": [
+          { "id": "parcelNumber", "label": "Parcel Number", "type": "text", "required": true },
+          { "id": "plotNumber", "label": "Plot Number", "type": "text", "required": true },
+          { "id": "ward", "label": "Ward", "type": "text", "required": true },
+          { "id": "siteArea", "label": "Site Area (sqm)", "type": "number", "required": false }
+        ]
+      },
+      {
+        "sectionId": "ownership-proof",
+        "title": "Ownership Proof",
+        "order": 2,
+        "fields": [
+          { "id": "ownershipStatus", "label": "Ownership Status", "type": "select", "required": true, "options": [ "Leasehold", "Customary", "State Land", "Freehold" ] },
+          { "id": "titleDeed", "label": "Existing Title / Deed Reference", "type": "text", "required": false },
+          { "id": "supportingFile", "label": "Supporting Documents", "type": "file", "required": true }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "Survey diagram", "Proof of ownership", "Utility bill", "Council rates clearance" ],
+    "checklist": [
+      { "id": 1, "text": "Verify parcel and ownership details", "isMandatory": true },
+      { "id": 2, "text": "Confirm supporting survey documents", "isMandatory": true }
+    ]
+  },
+  {
+    "formId": "FORM-STARTER-PACK-APP",
+    "applicationType": "starter-pack",
+    "serviceCode": "STARTER-PACK-APP",
+    "title": "Starter Pack Permit Application",
+    "category": "Permit Forms",
+    "categoryKey": "permit-forms",
+    "description": "Starter pack permit template for small traders and micro-enterprises.",
+    "fee": 0,
+    "currency": "ZMW",
+    "slaDays": 7,
+    "workflow": "starter-pack-review",
+    "isActive": true,
+    "version": "1.0.0",
+    "sections": [
+      {
+        "sectionId": "applicant",
+        "title": "Applicant Information",
+        "order": 1,
+        "fields": [
+          { "id": "fullName", "label": "Full Name", "type": "text", "required": true },
+          { "id": "nationalId", "label": "National ID / NRC", "type": "text", "required": true },
+          { "id": "phone", "label": "Phone Number", "type": "tel", "required": true },
+          { "id": "businessName", "label": "Business Name", "type": "text", "required": true }
+        ]
+      },
+      {
+        "sectionId": "operations",
+        "title": "Business Operations",
+        "order": 2,
+        "fields": [
+          { "id": "businessType", "label": "Business Type", "type": "select", "required": true, "options": [ "Retail", "Wholesale", "Food", "Transport", "Manufacturing", "Service" ] },
+          { "id": "location", "label": "Trading Location", "type": "text", "required": true },
+          { "id": "supportingDocuments", "label": "Supporting Documents", "type": "file", "required": false }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "National ID", "Business plan", "Location proof" ],
+    "checklist": [
+      { "id": 1, "text": "Confirm applicant identity", "isMandatory": true },
+      { "id": 2, "text": "Confirm trading location", "isMandatory": true }
+    ]
+  },
+  {
+    "formId": "FORM-PUBLIC-CONSULTATION-001",
+    "applicationType": "public-consultation",
+    "serviceCode": "CONSULT-001",
+    "title": "Public Consultation Submission",
+    "category": "Public Consultations",
+    "categoryKey": "public-consultations",
+    "description": "Citizen and stakeholder input form for public consultations.",
+    "fee": 0,
+    "currency": "ZMW",
+    "slaDays": 5,
+    "workflow": "public-consultation-review",
+    "isActive": true,
+    "version": "1.0.0",
+    "sections": [
+      {
+        "sectionId": "stakeholder",
+        "title": "Stakeholder Details",
+        "order": 1,
+        "fields": [
+          { "id": "name", "label": "Full Name / Organization", "type": "text", "required": true },
+          { "id": "email", "label": "Email Address", "type": "email", "required": true },
+          { "id": "phone", "label": "Phone Number", "type": "tel", "required": false }
+        ]
+      },
+      {
+        "sectionId": "submission",
+        "title": "Consultation Response",
+        "order": 2,
+        "fields": [
+          { "id": "commentSummary", "label": "Comment Summary", "type": "textarea", "required": true },
+          { "id": "supportLevel", "label": "Support Level", "type": "select", "required": true, "options": [ "Support", "Oppose", "Neutral" ] },
+          { "id": "attachment", "label": "Supporting Attachment", "type": "file", "required": false }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "Attendance sheet or notice reference" ],
+    "checklist": [
+      { "id": 1, "text": "Capture stakeholder identity", "isMandatory": true },
+      { "id": 2, "text": "Store consultation response", "isMandatory": true }
+    ]
+  },
+  {
+    "formId": "FORM-CDF-BURSARY-001",
+    "applicationType": "cdf-bursary",
+    "serviceCode": "CDF-BURSARY-001",
+    "title": "CDF Bursary Application",
+    "category": "CDF Forms",
+    "categoryKey": "cdf-forms",
+    "description": "CDF bursary and grant intake for student or community support requests.",
+    "fee": 0,
+    "currency": "ZMW",
+    "slaDays": 14,
+    "workflow": "cdf-bursary-assessment",
+    "isActive": true,
+    "version": "1.0.0",
+    "sections": [
+      {
+        "sectionId": "applicant-details",
+        "title": "Applicant Details",
+        "order": 1,
+        "fields": [
+          { "id": "fullName", "label": "Full Name", "type": "text", "required": true },
+          { "id": "nationalId", "label": "National ID", "type": "text", "required": true },
+          { "id": "phoneNumber", "label": "Phone Number", "type": "tel", "required": true },
+          { "id": "ward", "label": "Ward", "type": "text", "required": true }
+        ]
+      },
+      {
+        "sectionId": "grant-request",
+        "title": "Grant Request",
+        "order": 2,
+        "fields": [
+          { "id": "projectTitle", "label": "Project Title", "type": "text", "required": true },
+          { "id": "requestedAmount", "label": "Requested Amount (ZMW)", "type": "number", "required": true },
+          { "id": "communityImpact", "label": "Expected Community Impact", "type": "textarea", "required": true },
+          { "id": "is_registered_cooperative", "label": "Is Registered Cooperative?", "type": "checkbox", "required": true }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "Ward recommendation letter", "Student admission letter or project brief", "National ID" ],
+    "checklist": [
+      { "id": 1, "text": "Verify eligibility criteria", "isMandatory": true },
+      { "id": 2, "text": "Confirm requested amount against limits", "isMandatory": true }
+    ]
+  },
+  {
+    "formId": "FORM-COMMUNITY-001",
+    "applicationType": "cdf-community-project",
+    "serviceCode": "CDF-COMMUNITY-001",
+    "title": "CDF Community Projects Application",
+    "category": "CDF Forms",
+    "categoryKey": "cdf-forms",
+    "description": "Community-driven CDF project proposal and committee recommendation form.",
+    "fee": 0,
+    "currency": "ZMW",
+    "slaDays": 21,
+    "workflow": "cdf-community-project-review",
+    "isActive": true,
+    "version": "1.0.0",
+    "sections": [
+      {
+        "sectionId": "official-use",
+        "title": "Official Use Only",
+        "order": 1,
+        "fields": [
+          { "id": "projectIdentificationNumber", "label": "Project identification number", "type": "text", "required": false },
+          { "id": "cpZoneWardCodeNumber", "label": "CP/Zone/Ward Code Number", "type": "text", "required": false },
+          { "id": "dateOfApplication", "label": "Date of Application", "type": "date", "required": true }
+        ]
+      },
+      {
+        "sectionId": "general-proposal",
+        "title": "Section A: General Proposal Details",
+        "order": 2,
+        "fields": [
+          { "id": "communityName", "label": "Name of Community making the proposal", "type": "text", "required": true },
+          { "id": "district", "label": "Name of District", "type": "text", "required": true },
+          { "id": "constituency", "label": "Name of Constituency", "type": "text", "required": true },
+          { "id": "ward", "label": "Name of Ward", "type": "text", "required": true },
+          { "id": "zone", "label": "Name of Zone", "type": "text", "required": true },
+          { "id": "landTitleOwnership", "label": "Land Title/Ownership (where applicable)", "type": "text", "required": false },
+          { "id": "projectTypeSector", "label": "Type of Project", "type": "text", "required": true },
+          { "id": "estimatedBeneficiaryPopulation", "label": "Estimated population benefiting from the project", "type": "text", "required": true },
+          { "id": "hasPriorProjectInvolvement", "label": "Community project involvement details", "type": "textarea", "required": false },
+          { "id": "hasPriorFunding", "label": "Prior funding details", "type": "textarea", "required": false }
+        ]
+      },
+      {
+        "sectionId": "project-identification",
+        "title": "Section B: Project Identification",
+        "order": 3,
+        "fields": [
+          { "id": "mainAreaProblems", "label": "Main problems in the area", "type": "textarea", "required": true },
+          { "id": "addressedProblemExplanation", "label": "Problem addressed and how", "type": "textarea", "required": true },
+          { "id": "projectIdentificationMethod", "label": "How the community identified the project", "type": "textarea", "required": true },
+          { "id": "hasPreviousImplementation", "label": "Previous implementation done before", "type": "text", "required": true },
+          { "id": "previousImplementationExplanation", "label": "Previous implementation history", "type": "textarea", "required": false },
+          { "id": "projectBeneficiaries", "label": "Beneficiaries of the proposed project", "type": "textarea", "required": true },
+          { "id": "estimatedProjectCost", "label": "Estimated cost of the project", "type": "text", "required": true },
+          { "id": "communityContributionDetails", "label": "Community contribution details", "type": "textarea", "required": true },
+          { "id": "projectCommitteeMembers", "label": "Proposed Project Committee Members", "type": "textarea", "required": true },
+          { "id": "projectSustainabilityStrategy", "label": "Project sustainability strategy", "type": "textarea", "required": true },
+          { "id": "proposerName", "label": "Proposer Name", "type": "text", "required": true },
+          { "id": "proposerNrc", "label": "Proposer NRC No.", "type": "text", "required": true },
+          { "id": "proposerAddress", "label": "Proposer Address", "type": "textarea", "required": true },
+          { "id": "proposerPhone", "label": "Proposer Phone", "type": "text", "required": true },
+          { "id": "proposerDate", "label": "Proposer Date", "type": "date", "required": true },
+          { "id": "seconderName", "label": "Seconder Name", "type": "text", "required": true },
+          { "id": "seconderNrc", "label": "Seconder NRC No.", "type": "text", "required": true },
+          { "id": "seconderAddress", "label": "Seconder Address", "type": "textarea", "required": true },
+          { "id": "seconderPhone", "label": "Seconder Phone", "type": "text", "required": true },
+          { "id": "seconderDate", "label": "Seconder Date", "type": "date", "required": true }
+        ]
+      },
+      {
+        "sectionId": "wdc-recommendation",
+        "title": "Section C: Ward Development Committee Recommendation",
+        "order": 4,
+        "fields": [
+          { "id": "wdcRecommendationStatus", "label": "Recommended / Not Recommended / Deferred", "type": "text", "required": false },
+          { "id": "wdcReasons", "label": "Reasons", "type": "textarea", "required": false },
+          { "id": "wdcChairpersonName", "label": "Chairperson Name", "type": "text", "required": false },
+          { "id": "wdcSignature", "label": "Signature", "type": "text", "required": false },
+          { "id": "wdcDate", "label": "Date", "type": "date", "required": false }
+        ]
+      },
+      {
+        "sectionId": "cdfc-decision",
+        "title": "Section D: CDFC Decision",
+        "order": 5,
+        "fields": [
+          { "id": "cdfcApprovalStatus", "label": "Approved / Not Approved", "type": "text", "required": false },
+          { "id": "cdfcReasons", "label": "Reasons", "type": "textarea", "required": false },
+          { "id": "cdfcChairpersonName", "label": "Chairperson Name", "type": "text", "required": false }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "Community minutes", "Project brief", "Site evidence", "Committee list" ],
+    "checklist": [
+      { "id": 1, "text": "Confirm community proposal details", "isMandatory": true },
+      { "id": 2, "text": "Verify ward and constituency references", "isMandatory": true },
+      { "id": 3, "text": "Capture WDC recommendation", "isMandatory": true },
+      { "id": 4, "text": "Capture CDFC decision", "isMandatory": true }
+    ]
+  },
+  {
+    "formId": "FORM-UNIVERSITY-BURSARY-001",
+    "applicationType": "university-bursary",
+    "serviceCode": "UNIVERSITY-BURSARY-001",
+    "title": "University Bursary Application",
+    "category": "CDF Forms",
+    "categoryKey": "cdf-forms",
+    "description": "University bursary application for student support.",
+    "fee": 0,
+    "currency": "ZMW",
+    "slaDays": 14,
+    "workflow": "bursary-assessment",
+    "isActive": true,
+    "version": "1.0.0",
+    "sections": [
+      {
+        "sectionId": "student-details",
+        "title": "Student Details",
+        "order": 1,
+        "fields": [
+          { "id": "studentName", "label": "Student Name", "type": "text", "required": true },
+          { "id": "universityName", "label": "University Name", "type": "text", "required": true }
+        ]
+      },
+      {
+        "sectionId": "support-request",
+        "title": "Support Request",
+        "order": 2,
+        "fields": [
+          { "id": "course", "label": "Course of Study", "type": "text", "required": true },
+          { "id": "feeAmount", "label": "Fee Amount", "type": "number", "required": true },
+          { "id": "proof", "label": "Proof of Enrollment", "type": "file", "required": true }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "Admission letter", "Student ID", "Fee statement" ],
+    "checklist": [
+      { "id": 1, "text": "Verify student enrollment", "isMandatory": true },
+      { "id": 2, "text": "Verify support request", "isMandatory": true }
+    ]
+  }
+]

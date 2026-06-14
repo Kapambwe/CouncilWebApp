@@ -1,0 +1,69 @@
+{
+  "country": "South Africa",
+  "council": "City of Johannesburg",
+  "projects": [
+    {
+      "id": 1,
+      "name": "Inner City Road Renewal",
+      "category": "Road Infrastructure",
+      "ward": 65,
+      "budget": 18400000,
+      "status": "In Progress",
+      "progress": 61,
+      "startDate": "2024-02-01T00:00:00",
+      "endDate": "2025-12-31T00:00:00"
+    },
+    {
+      "id": 2,
+      "name": "Soweto Market Upgrade",
+      "category": "Market Development",
+      "ward": 26,
+      "budget": 7200000,
+      "status": "In Progress",
+      "progress": 47,
+      "startDate": "2024-04-15T00:00:00",
+      "endDate": "2025-09-30T00:00:00"
+    },
+    {
+      "id": 3,
+      "name": "Alexandra Water Reticulation",
+      "category": "Water & Sanitation",
+      "ward": 91,
+      "budget": 9800000,
+      "status": "Delayed",
+      "progress": 29,
+      "startDate": "2024-01-20T00:00:00",
+      "endDate": "2025-08-31T00:00:00"
+    },
+    {
+      "id": 4,
+      "name": "Community Hall Refurbishment",
+      "category": "Public Buildings",
+      "ward": 7,
+      "budget": 4100000,
+      "status": "Completed",
+      "progress": 100,
+      "startDate": "2023-10-01T00:00:00",
+      "endDate": "2024-12-31T00:00:00"
+    },
+    {
+      "id": 5,
+      "name": "LED Streetlight Conversion",
+      "category": "Street Lighting",
+      "ward": 83,
+      "budget": 5300000,
+      "status": "Planned",
+      "progress": 0,
+      "startDate": "2025-02-01T00:00:00",
+      "endDate": "2026-03-31T00:00:00"
+    }
+  ],
+  "budgetThresholds": [
+    { "category": "Road Infrastructure", "min": 5000000, "max": 50000000 },
+    { "category": "Water & Sanitation", "min": 4000000, "max": 40000000 },
+    { "category": "Market Development", "min": 3000000, "max": 20000000 },
+    { "category": "Public Buildings", "min": 3000000, "max": 25000000 },
+    { "category": "Street Lighting", "min": 2000000, "max": 15000000 },
+    { "category": "Waste Management", "min": 4000000, "max": 20000000 }
+  ]
+}

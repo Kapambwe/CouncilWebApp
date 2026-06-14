@@ -1,0 +1,67 @@
+{
+  "catalogCode": "LCC-ZM-LOCAL-GOV-LAW-AS-CODE-SAMPLES",
+  "countryCode": "ZM",
+  "jurisdiction": "Zambia local government",
+  "publicBodyId": "lusaka-city-council",
+  "applicationId": "Council",
+  "status": "Sample",
+  "description": "Sample legal source pack for CouncilWebApp compliance controls, rule mapping, workflow violations, and source review.",
+  "sources": [
+    {
+      "sourceId": "source-zm-local-government-bill-2019",
+      "instrumentId": "ZM-BILL-2019-LOCAL-GOV",
+      "title": "The Local Government Bill, 2019",
+      "type": "Bill",
+      "number": "N.A.B. 2 of 2019",
+      "sourceFile": "C:\\Dev\\LawAndRegulations\\Processed\\The Local Government Bill, 2019,NAB 2.txt",
+      "controlAreas": [
+        "local authority functions",
+        "tariffs and fees",
+        "council proceedings",
+        "permit governance"
+      ]
+    },
+    {
+      "sourceId": "source-zm-pfm-act-2018-council",
+      "instrumentId": "ZM-ACT-2018-PFM-COUNCIL",
+      "title": "The Public Finance Management Act, 2018",
+      "type": "Act",
+      "number": "No. 1 of 2018",
+      "sourceFile": "C:\\Dev\\LawAndRegulations\\Processed\\The Public Finance Management ACT 2018.txt",
+      "controlAreas": [
+        "controlling officer review",
+        "fiduciary duties",
+        "audit committee escalation",
+        "expenditure controls"
+      ]
+    },
+    {
+      "sourceId": "source-zm-public-procurement-bill-2020",
+      "instrumentId": "ZM-BILL-2020-PUBLIC-PROCUREMENT",
+      "title": "The Public Procurement Bill, 2020",
+      "type": "Bill",
+      "number": "N.A.B. 8 of 2020",
+      "sourceFile": "C:\\Dev\\LawAndRegulations\\Processed\\The Public Procurement Bill, 2020 N.A.B 8.txt",
+      "controlAreas": [
+        "procurement method compliance",
+        "conflict declarations",
+        "value for money",
+        "procurement records"
+      ]
+    },
+    {
+      "sourceId": "source-zm-cdf-bill-2023",
+      "instrumentId": "ZM-BILL-2023-CDF",
+      "title": "The Constituency Development Fund Bill, 2023",
+      "type": "Bill",
+      "number": "N.A.B. 21 of 2023",
+      "sourceFile": "C:\\Dev\\LawAndRegulations\\Processed\\The Constituency Development Fund (Amendment) Bill, N.A.B 2023.txt",
+      "controlAreas": [
+        "CDF application accountability",
+        "project proposal review",
+        "committee review",
+        "CDF procurement compliance"
+      ]
+    }
+  ]
+}

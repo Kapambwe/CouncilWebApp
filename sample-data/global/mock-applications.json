@@ -1,0 +1,156 @@
+[
+  {
+    "applicationId": "APP-001",
+    "tenantId": "10000000-0000-0000-0000-000000000001",
+    "formId": "building-permit",
+    "formTitle": "Building Permit Application",
+    "category": "Permits",
+    "referenceNumber": "LCC/BP/2026/0001",
+    "applicantName": "John Mwale",
+    "applicantEmail": "j.mwale@email.com",
+    "applicantPhone": "+260977123456",
+    "status": 2,
+    "feeAmount": 500,
+    "currency": "ZMW",
+    "feePaid": true,
+    "paymentReference": "PAY-2026-001",
+    "submittedDate": "2026-06-01T10:00:00",
+    "slaDueDate": "2026-06-22T10:00:00",
+    "assignedOfficerName": "Susan Zulu",
+    "formData": {
+      "fullName": "John Mwale",
+      "plotNumber": "1234/M",
+      "landUse": "Residential"
+    }
+  },
+  {
+    "applicationId": "CDF-B-001",
+    "tenantId": "10000000-0000-0000-0000-000000000001",
+    "formId": "cdf-bursary",
+    "formTitle": "CDF Secondary School Bursary",
+    "category": "CDF",
+    "referenceNumber": "LCC/CDF-B/2026/012",
+    "applicantName": "Gift Phiri",
+    "applicantEmail": "g.phiri@email.com",
+    "status": 2,
+    "feeAmount": 0,
+    "currency": "ZMW",
+    "feePaid": true,
+    "submittedDate": "2026-06-05T09:00:00",
+    "slaDueDate": "2026-07-05T09:00:00",
+    "formData": {
+      "surname": "Phiri",
+      "firstName": "Gift",
+      "sex": "M",
+      "dateOfBirth": "2008-05-14",
+      "ward": "Kanyama Ward",
+      "hasDisability": "No"
+    },
+    "documents": [
+      { "documentType": "Admission Letter", "fileName": "Admission_School_A.pdf", "isVerified": true },
+      { "documentType": "Ward Recommendation", "fileName": "WDC_Rec_Phiri.pdf", "isVerified": true }
+    ]
+  },
+  {
+    "applicationId": "CDF-G-001",
+    "tenantId": "10000000-0000-0000-0000-000000000001",
+    "formId": "cdf-grant",
+    "formTitle": "CDF Empowerment Grant",
+    "category": "CDF",
+    "referenceNumber": "LCC/CDF-G/2026/045",
+    "applicantName": "Chilenje Women's Poultry Coop",
+    "status": 2,
+    "feeAmount": 0,
+    "currency": "ZMW",
+    "feePaid": true,
+    "submittedDate": "2026-06-07T14:30:00",
+    "slaDueDate": "2026-07-07T14:30:00",
+    "formData": {
+      "projectTitle": "Poultry Expansion Phase 1",
+      "requestedAmount": 25000,
+      "communityImpact": "Empowering 15 women through sustainable poultry farming and egg supply to local markets.",
+      "is_registered_cooperative": true
+    },
+    "documents": [
+      { "documentType": "Cooperative Registration Certificate", "fileName": "Coop_Cert_778.pdf", "isVerified": true },
+      { "documentType": "Project Proposal", "fileName": "Poultry_Plan_v2.pdf", "isVerified": false }
+    ]
+  },
+  {
+    "applicationId": "CDF-L-001",
+    "tenantId": "10000000-0000-0000-0000-000000000001",
+    "formId": "cdf-loan",
+    "formTitle": "CDF Empowerment Loan",
+    "category": "CDF",
+    "referenceNumber": "LCC/CDF-L/2026/018",
+    "applicantName": "Kabwata Youth Carpentry Club",
+    "status": 2,
+    "feeAmount": 0,
+    "currency": "ZMW",
+    "feePaid": true,
+    "submittedDate": "2026-06-08T11:20:00",
+    "slaDueDate": "2026-07-23T11:20:00",
+    "formData": {
+      "businessName": "Kabwata Youth Carpentry",
+      "legalForm": "Youth Club",
+      "tpin": "1008899776",
+      "loanAmount": 50000,
+      "loanPurpose": "Purchase of modern woodworking machinery for furniture production.",
+      "repaymentPeriod": 24
+    }
+  },
+  {
+    "applicationId": "CDF-CP-001",
+    "tenantId": "10000000-0000-0000-0000-000000000001",
+    "formId": "cdf-community-project",
+    "formTitle": "CDF Community Project Proposal",
+    "category": "CDF",
+    "referenceNumber": "LCC/CDF-CP/2026/005",
+    "applicantName": "Matero East Community Committee",
+    "status": 2,
+    "feeAmount": 0,
+    "currency": "ZMW",
+    "feePaid": true,
+    "submittedDate": "2026-06-10T16:00:00",
+    "slaDueDate": "2026-08-10T16:00:00",
+    "formData": {
+      "communityName": "Matero East",
+      "ward": "Matero Ward",
+      "projectTypeSector": "Water and Sanitation",
+      "estimatedBeneficiaryPopulation": 5000,
+      "mainAreaProblems": "Lack of clean water supply leading to cholera outbreaks in the rainy season.",
+      "estimatedProjectCost": 150000
+    }
+  },
+  {
+    "applicationId": "TND-001",
+    "tenantId": "10000000-0000-0000-0000-000000000001",
+    "formId": "public-tender",
+    "formTitle": "Public Infrastructure Tender",
+    "category": "Tenders",
+    "referenceNumber": "LCC/TND/2026/0042",
+    "applicantName": "BuildZambia Construction Ltd",
+    "applicantEmail": "tenders@buildzambia.com",
+    "applicantPhone": "+260211998877",
+    "status": 2,
+    "feeAmount": 1000,
+    "currency": "ZMW",
+    "feePaid": true,
+    "paymentReference": "PAY-TND-42",
+    "submittedDate": "2026-06-09T10:00:00",
+    "slaDueDate": "2026-07-07T10:00:00",
+    "assignedOfficerName": "James Lungu",
+    "formData": {
+      "companyName": "BuildZambia Construction Ltd",
+      "tpin": "1002345678",
+      "bidAmount": "2500000",
+      "projectDuration": "12 Months",
+      "previousExperience": "Built Lusaka Flyover B"
+    },
+    "documents": [
+      { "documentType": "Technical Proposal", "fileName": "Technical_Proposal_v1.pdf", "isVerified": true },
+      { "documentType": "Financial Proposal", "fileName": "Financial_Bid_Signed.pdf", "isVerified": false },
+      { "documentType": "Tax Clearance", "fileName": "ZRA_Tax_Clearance_2026.pdf", "isVerified": true }
+    ]
+  }
+]

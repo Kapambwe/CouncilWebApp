@@ -1,0 +1,286 @@
+[
+  {
+    "formId": "trading-licence",
+    "title": "Standard Trading Licence",
+    "category": "Licensing",
+    "fee": 750,
+    "currency": "ZMW",
+    "slaDays": 7,
+    "workflow": "WF-LICENSE-TRADING",
+    "isActive": true,
+    "sections": [
+      {
+        "sectionId": "business",
+        "title": "Business Details",
+        "order": 1,
+        "fields": [
+          { "id": "businessName", "label": "Registered Business Name", "type": "text", "required": true },
+          { "id": "pacraNumber", "label": "PACRA Registration Number", "type": "text", "required": true },
+          { "id": "businessType", "label": "Type of Business", "type": "select", "required": true, "options": [ "Wholesale", "Retail", "Service", "Liquor", "Manufacturing" ] }
+        ]
+      },
+      {
+        "sectionId": "premises",
+        "title": "Premises Details",
+        "order": 2,
+        "fields": [
+          { "id": "plotNumber", "label": "Plot Number", "type": "text", "required": true },
+          { "id": "physicalAddress", "label": "Physical Address", "type": "textarea", "required": true },
+          { "id": "wastePlan", "label": "Waste Management Plan", "type": "textarea", "required": true }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "PACRA Certificate", "Fire Safety Certificate", "Health Inspection Report", "ID of Director" ],
+    "checklist": [
+      { "id": 1, "text": "Verify PACRA Status", "isMandatory": true },
+      { "id": 2, "text": "Site Inspection Completed", "isMandatory": true },
+      { "id": 3, "text": "Fire Safety Clearance Verified", "isMandatory": true },
+      { "id": 4, "text": "Health Inspector Clearance Verified", "isMandatory": true }
+    ]
+  },
+  {
+    "formId": "building-permit",
+    "title": "Residential Building Permit",
+    "category": "Permits",
+    "fee": 1500,
+    "currency": "ZMW",
+    "slaDays": 21,
+    "workflow": "WF-PERMIT-BUILDING",
+    "isActive": true,
+    "sections": [
+      {
+        "sectionId": "applicant",
+        "title": "Applicant Details",
+        "order": 1,
+        "fields": [
+          { "id": "fullName", "label": "Full Name", "type": "text", "required": true },
+          { "id": "nrcNumber", "label": "NRC / ID Number", "type": "text", "required": true },
+          { "id": "phone", "label": "Phone Number", "type": "tel", "required": true }
+        ]
+      },
+      {
+        "sectionId": "property",
+        "title": "Property Details",
+        "order": 2,
+        "fields": [
+          { "id": "plotNumber", "label": "Plot Number", "type": "text", "required": true },
+          { "id": "area", "label": "Area (sqm)", "type": "number", "required": true },
+          { "id": "buildingType", "label": "Building Type", "type": "select", "required": true, "options": [ "Single Storey", "Double Storey", "Apartment Block", "Extension" ] }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "Title Deed / Offer Letter", "Site Plan", "Architectural Drawings", "Structural Drawings" ],
+    "checklist": [
+      { "id": 1, "text": "Verify Title Deed", "isMandatory": true },
+      { "id": 2, "text": "Planning Department Review", "isMandatory": true },
+      { "id": 3, "text": "Engineering Department Review", "isMandatory": true },
+      { "id": 4, "text": "Environmental Impact Assessment (if applicable)", "isMandatory": false }
+    ]
+  },
+  {
+    "formId": "cdf-bursary",
+    "title": "CDF Secondary School Bursary",
+    "category": "CDF",
+    "fee": 0,
+    "currency": "ZMW",
+    "slaDays": 30,
+    "workflow": "WF-CDF-BURSARY",
+    "isActive": true,
+    "sections": [
+      {
+        "sectionId": "applicant",
+        "title": "A. APPLICANT’S PERSONAL INFORMATION",
+        "order": 1,
+        "fields": [
+          { "id": "surname", "label": "Surname", "type": "text", "required": true },
+          { "id": "firstName", "label": "First Name", "type": "text", "required": true },
+          { "id": "otherNames", "label": "Other Names", "type": "text", "required": true },
+          { "id": "sex", "label": "Sex (F/M)", "type": "select", "required": true, "options": ["F", "M"] },
+          { "id": "dateOfBirth", "label": "Date of Birth", "type": "date", "required": true },
+          { "id": "nrcNo", "label": "NRC NO", "type": "text", "required": false },
+          { "id": "ward", "label": "Ward", "type": "text", "required": true },
+          { "id": "hasDisability", "label": "Has Disability?", "type": "select", "required": true, "options": ["Yes", "No"] }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "Admission Letter", "NRC of Parent/Guardian", "Results Card", "Ward Recommendation" ],
+    "checklist": [
+      { "id": 1, "text": "Verify Ward Residency", "isMandatory": true },
+      { "id": 2, "text": "Verify Admission Status", "isMandatory": true },
+      { "id": 3, "text": "WDC Recommendation Review", "isMandatory": true },
+      { "id": 4, "text": "CDFC Final Approval", "isMandatory": true }
+    ]
+  },
+  {
+    "formId": "cdf-grant",
+    "title": "CDF Empowerment Grant",
+    "category": "CDF",
+    "fee": 0,
+    "currency": "ZMW",
+    "slaDays": 30,
+    "workflow": "WF-CDF-GRANT",
+    "isActive": true,
+    "sections": [
+      {
+        "sectionId": "project",
+        "title": "Project Details",
+        "order": 1,
+        "fields": [
+          { "id": "projectTitle", "label": "Project Title", "type": "text", "required": true },
+          { "id": "requestedAmount", "label": "Requested Amount (ZMW)", "type": "number", "required": true },
+          { "id": "communityImpact", "label": "Expected Community Impact", "type": "textarea", "required": true },
+          { "id": "is_registered_cooperative", "label": "Is Registered Cooperative?", "type": "checkbox", "required": true }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "Cooperative Registration Certificate", "Project Proposal", "TPIN Certificate", "Member List" ],
+    "checklist": [
+      { "id": 1, "text": "Verify Cooperative Registration", "isMandatory": true },
+      { "id": 2, "text": "Technical Assessment of Proposal", "isMandatory": true },
+      { "id": 3, "text": "Financial Viability Check", "isMandatory": true }
+    ]
+  },
+  {
+    "formId": "cdf-loan",
+    "title": "CDF Empowerment Loan",
+    "category": "CDF",
+    "fee": 0,
+    "currency": "ZMW",
+    "slaDays": 45,
+    "workflow": "WF-CDF-LOAN",
+    "isActive": true,
+    "sections": [
+      {
+        "sectionId": "business",
+        "title": "Business Details",
+        "order": 1,
+        "fields": [
+          { "id": "businessName", "label": "Name of Business/Cooperative", "type": "text", "required": true },
+          { "id": "legalForm", "label": "Legal Form (Limited/Coop/Club)", "type": "text", "required": true },
+          { "id": "tpin", "label": "TPIN", "type": "text", "required": true }
+        ]
+      },
+      {
+        "sectionId": "loan",
+        "title": "Loan Details",
+        "order": 2,
+        "fields": [
+          { "id": "loanAmount", "label": "Loan Amount", "type": "number", "required": true },
+          { "id": "loanPurpose", "label": "Purpose of Loan", "type": "textarea", "required": true },
+          { "id": "repaymentPeriod", "label": "Repayment Period (Months)", "type": "number", "required": true }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "Business Plan", "Registration Docs", "TPIN", "Collateral Details (if any)" ],
+    "checklist": [
+      { "id": 1, "text": "Creditworthiness Assessment", "isMandatory": true },
+      { "id": 2, "text": "Business Site Visit", "isMandatory": true },
+      { "id": 3, "text": "Loan Committee Review", "isMandatory": true }
+    ]
+  },
+  {
+    "formId": "cdf-community-project",
+    "title": "CDF Community Project Proposal",
+    "category": "CDF",
+    "fee": 0,
+    "currency": "ZMW",
+    "slaDays": 60,
+    "workflow": "WF-CDF-COMMUNITY",
+    "isActive": true,
+    "sections": [
+      {
+        "sectionId": "general",
+        "title": "General Proposal Details",
+        "order": 1,
+        "fields": [
+          { "id": "communityName", "label": "Name of Community", "type": "text", "required": true },
+          { "id": "ward", "label": "Ward", "type": "text", "required": true },
+          { "id": "projectTypeSector", "label": "Type of Project (Water/Health/Edu)", "type": "text", "required": true },
+          { "id": "estimatedBeneficiaryPopulation", "label": "Estimated Beneficiaries", "type": "number", "required": true }
+        ]
+      },
+      {
+        "sectionId": "identification",
+        "title": "Project Identification",
+        "order": 2,
+        "fields": [
+          { "id": "mainAreaProblems", "label": "Main Area Problems", "type": "textarea", "required": true },
+          { "id": "estimatedProjectCost", "label": "Estimated Cost (ZMW)", "type": "number", "required": true }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "Community Meeting Minutes", "WDC Recommendation", "Land Ownership Proof", "Technical Drawings (if applicable)" ],
+    "checklist": [
+      { "id": 1, "text": "Ward Development Committee Approval", "isMandatory": true },
+      { "id": 2, "text": "Technical Feasibility Study", "isMandatory": true },
+      { "id": 3, "text": "Environmental Impact Review", "isMandatory": false },
+      { "id": 4, "text": "CDFC Site Verification", "isMandatory": true }
+    ]
+  },
+  {
+    "formId": "cdf-skills",
+    "title": "Skills Development Bursary",
+    "category": "CDF",
+    "fee": 0,
+    "currency": "ZMW",
+    "slaDays": 21,
+    "workflow": "WF-CDF-SKILLS",
+    "isActive": true,
+    "sections": [
+      {
+        "sectionId": "applicant",
+        "title": "Applicant Information",
+        "order": 1,
+        "fields": [
+          { "id": "fullName", "label": "Full Name", "type": "text", "required": true },
+          { "id": "courseName", "label": "Course Applied For", "type": "text", "required": true },
+          { "id": "institution", "label": "Training Institution", "type": "text", "required": true }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "Admission Letter", "NRC Copy", "Grade 12 Results" ],
+    "checklist": [
+      { "id": 1, "text": "Verify Admission", "isMandatory": true },
+      { "id": 2, "text": "Check TEVETA Status of Institution", "isMandatory": true }
+    ]
+  },
+  {
+    "formId": "public-tender",
+    "title": "Public Infrastructure Tender",
+    "category": "Tenders",
+    "fee": 1000,
+    "currency": "ZMW",
+    "slaDays": 45,
+    "workflow": "WF-TENDER-INFRA",
+    "isActive": true,
+    "sections": [
+      {
+        "sectionId": "company",
+        "title": "Company Details",
+        "order": 1,
+        "fields": [
+          { "id": "companyName", "label": "Company Legal Name", "type": "text", "required": true },
+          { "id": "tpin", "label": "TPIN", "type": "text", "required": true },
+          { "id": "registrationDate", "label": "Registration Date", "type": "date", "required": true }
+        ]
+      },
+      {
+        "sectionId": "bid",
+        "title": "Bid Proposal",
+        "order": 2,
+        "fields": [
+          { "id": "bidAmount", "label": "Total Bid Amount", "type": "number", "required": true },
+          { "id": "projectDuration", "label": "Project Duration (Months)", "type": "number", "required": true },
+          { "id": "previousExperience", "label": "Relevant Experience", "type": "textarea", "required": true }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "Technical Proposal", "Financial Proposal", "Tax Clearance Certificate", "NAPSA Compliance", "Worker's Comp Certificate" ],
+    "checklist": [
+      { "id": 1, "text": "Validate Tax Compliance (ZRA)", "isMandatory": true },
+      { "id": 2, "text": "Technical Evaluation (Score > 70%)", "isMandatory": true },
+      { "id": 3, "text": "Financial Bid Analysis", "isMandatory": true },
+      { "id": 4, "text": "Procurement Committee Approval", "isMandatory": true }
+    ]
+  }
+]

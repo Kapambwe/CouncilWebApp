@@ -1,0 +1,69 @@
+{
+  "country": "Zambia",
+  "council": "Ndola City Council",
+  "projects": [
+    {
+      "id": 1,
+      "name": "Ndola Central Drainage Upgrade",
+      "category": "Water & Sanitation",
+      "ward": 1,
+      "budget": 6400000,
+      "status": "In Progress",
+      "progress": 58,
+      "startDate": "2024-02-10T00:00:00",
+      "endDate": "2025-08-31T00:00:00"
+    },
+    {
+      "id": 2,
+      "name": "Masala Market Expansion",
+      "category": "Market Development",
+      "ward": 4,
+      "budget": 5100000,
+      "status": "In Progress",
+      "progress": 45,
+      "startDate": "2024-03-01T00:00:00",
+      "endDate": "2025-05-31T00:00:00"
+    },
+    {
+      "id": 3,
+      "name": "Itawa Road Rehabilitation",
+      "category": "Road Infrastructure",
+      "ward": 3,
+      "budget": 9200000,
+      "status": "Delayed",
+      "progress": 33,
+      "startDate": "2024-01-15T00:00:00",
+      "endDate": "2025-11-30T00:00:00"
+    },
+    {
+      "id": 4,
+      "name": "Nkwazi Health Post",
+      "category": "Public Buildings",
+      "ward": 8,
+      "budget": 3700000,
+      "status": "Completed",
+      "progress": 100,
+      "startDate": "2023-09-01T00:00:00",
+      "endDate": "2024-12-31T00:00:00"
+    },
+    {
+      "id": 5,
+      "name": "Street Lighting Phase 1",
+      "category": "Street Lighting",
+      "ward": 2,
+      "budget": 2800000,
+      "status": "Planned",
+      "progress": 0,
+      "startDate": "2025-03-01T00:00:00",
+      "endDate": "2025-10-31T00:00:00"
+    }
+  ],
+  "budgetThresholds": [
+    { "category": "Road Infrastructure", "min": 1800000, "max": 18000000 },
+    { "category": "Water & Sanitation", "min": 1500000, "max": 11000000 },
+    { "category": "Market Development", "min": 1000000, "max": 7000000 },
+    { "category": "Public Buildings", "min": 1200000, "max": 9000000 },
+    { "category": "Street Lighting", "min": 800000, "max": 5000000 },
+    { "category": "Waste Management", "min": 2000000, "max": 9000000 }
+  ]
+}

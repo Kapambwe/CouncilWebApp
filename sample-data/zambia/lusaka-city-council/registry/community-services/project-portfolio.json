@@ -1,0 +1,124 @@
+{
+  "country": "Zambia",
+  "council": "Lusaka City Council",
+  "projects": [
+    {
+      "id": 1,
+      "name": "Main Market Renovation",
+      "category": "Market Development",
+      "ward": 4,
+      "budget": 4200000,
+      "status": "In Progress",
+      "progress": 65,
+      "startDate": "2024-03-01T00:00:00",
+      "endDate": "2025-06-30T00:00:00"
+    },
+    {
+      "id": 2,
+      "name": "Township Road Network",
+      "category": "Road Infrastructure",
+      "ward": 5,
+      "budget": 8500000,
+      "status": "In Progress",
+      "progress": 42,
+      "startDate": "2024-01-15T00:00:00",
+      "endDate": "2025-12-31T00:00:00"
+    },
+    {
+      "id": 3,
+      "name": "Central Water Supply",
+      "category": "Water & Sanitation",
+      "ward": 1,
+      "budget": 6200000,
+      "status": "Delayed",
+      "progress": 28,
+      "startDate": "2024-02-01T00:00:00",
+      "endDate": "2025-08-31T00:00:00"
+    },
+    {
+      "id": 4,
+      "name": "Community Health Center",
+      "category": "Public Buildings",
+      "ward": 9,
+      "budget": 5800000,
+      "status": "In Progress",
+      "progress": 78,
+      "startDate": "2023-11-01T00:00:00",
+      "endDate": "2025-03-31T00:00:00"
+    },
+    {
+      "id": 5,
+      "name": "Street Lighting Phase 2",
+      "category": "Street Lighting",
+      "ward": 7,
+      "budget": 2100000,
+      "status": "Completed",
+      "progress": 100,
+      "startDate": "2024-01-01T00:00:00",
+      "endDate": "2024-12-31T00:00:00"
+    },
+    {
+      "id": 6,
+      "name": "Waste Management Facility",
+      "category": "Waste Management",
+      "ward": 2,
+      "budget": 7300000,
+      "status": "In Progress",
+      "progress": 55,
+      "startDate": "2024-04-01T00:00:00",
+      "endDate": "2025-10-31T00:00:00"
+    },
+    {
+      "id": 7,
+      "name": "Old Town Drainage System",
+      "category": "Water & Sanitation",
+      "ward": 6,
+      "budget": 4800000,
+      "status": "Delayed",
+      "progress": 35,
+      "startDate": "2024-03-15T00:00:00",
+      "endDate": "2025-07-31T00:00:00"
+    },
+    {
+      "id": 8,
+      "name": "Garden Ward Roads",
+      "category": "Road Infrastructure",
+      "ward": 7,
+      "budget": 3200000,
+      "status": "In Progress",
+      "progress": 88,
+      "startDate": "2023-10-01T00:00:00",
+      "endDate": "2025-02-28T00:00:00"
+    },
+    {
+      "id": 9,
+      "name": "Highland Community Center",
+      "category": "Public Buildings",
+      "ward": 8,
+      "budget": 3500000,
+      "status": "Planned",
+      "progress": 0,
+      "startDate": "2025-02-01T00:00:00",
+      "endDate": "2026-04-30T00:00:00"
+    },
+    {
+      "id": 10,
+      "name": "Suburban Water Bore Holes",
+      "category": "Water & Sanitation",
+      "ward": 12,
+      "budget": 2800000,
+      "status": "In Progress",
+      "progress": 45,
+      "startDate": "2024-05-01T00:00:00",
+      "endDate": "2025-09-30T00:00:00"
+    }
+  ],
+  "budgetThresholds": [
+    { "category": "Road Infrastructure", "min": 2500000, "max": 25000000 },
+    { "category": "Water & Sanitation", "min": 2000000, "max": 15000000 },
+    { "category": "Market Development", "min": 1500000, "max": 10000000 },
+    { "category": "Public Buildings", "min": 1500000, "max": 12000000 },
+    { "category": "Street Lighting", "min": 1000000, "max": 7500000 },
+    { "category": "Waste Management", "min": 3000000, "max": 12000000 }
+  ]
+}
