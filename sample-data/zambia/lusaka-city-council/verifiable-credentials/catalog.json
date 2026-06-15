@@ -1,0 +1,195 @@
+{
+  "Country": "Zambia",
+  "Council": "Lusaka City Council",
+  "Catalog": [
+    {
+      "TypeKey": "LandTitleCredential",
+      "Title": "Land Title Credential",
+      "Category": "Land",
+      "Description": "Land title or tenure confirmation.",
+      "DefaultSubjectType": "Parcel",
+      "DefaultExpiryDays": 3650,
+      "DefaultWalletChannel": "Citizen wallet"
+    },
+    {
+      "TypeKey": "OccupancyPermitCredential",
+      "Title": "Occupancy Permit Credential",
+      "Category": "Land",
+      "Description": "Occupancy approval issued by council.",
+      "DefaultSubjectType": "Property",
+      "DefaultExpiryDays": 3650,
+      "DefaultWalletChannel": "Citizen wallet"
+    },
+    {
+      "TypeKey": "LandAllocationLetterCredential",
+      "Title": "Land Allocation Letter Credential",
+      "Category": "Land",
+      "Description": "Land allocation or provisional offer letter.",
+      "DefaultSubjectType": "Citizen",
+      "DefaultExpiryDays": 730,
+      "DefaultWalletChannel": "Citizen wallet"
+    },
+    {
+      "TypeKey": "BuildingPermitCredential",
+      "Title": "Building Permit Credential",
+      "Category": "Planning",
+      "Description": "Planning/building permit approval.",
+      "DefaultSubjectType": "Property",
+      "DefaultExpiryDays": 730,
+      "DefaultWalletChannel": "Citizen wallet"
+    },
+    {
+      "TypeKey": "SubdivisionPermitCredential",
+      "Title": "Subdivision Permit Credential",
+      "Category": "Planning",
+      "Description": "Subdivision permit approval.",
+      "DefaultSubjectType": "Property",
+      "DefaultExpiryDays": 730,
+      "DefaultWalletChannel": "Citizen wallet"
+    },
+    {
+      "TypeKey": "ChangeOfUseApprovalCredential",
+      "Title": "Change of Use Approval",
+      "Category": "Planning",
+      "Description": "Change of land use approval.",
+      "DefaultSubjectType": "Property",
+      "DefaultExpiryDays": 730,
+      "DefaultWalletChannel": "Citizen wallet"
+    },
+    {
+      "TypeKey": "PlanningComplianceCertificate",
+      "Title": "Planning Compliance Certificate",
+      "Category": "Compliance",
+      "Description": "Planning compliance confirmation.",
+      "DefaultSubjectType": "Property",
+      "DefaultExpiryDays": 365,
+      "DefaultWalletChannel": "Citizen wallet"
+    },
+    {
+      "TypeKey": "BusinessRegistrationConfirmation",
+      "Title": "Business Registration Confirmation",
+      "Category": "Business",
+      "Description": "Business or trading registration.",
+      "DefaultSubjectType": "Business",
+      "DefaultExpiryDays": 3650,
+      "DefaultWalletChannel": "Citizen wallet"
+    },
+    {
+      "TypeKey": "TradingLicenceCredential",
+      "Title": "Trading Licence Credential",
+      "Category": "Business",
+      "Description": "Trading licence or market permit.",
+      "DefaultSubjectType": "Business",
+      "DefaultExpiryDays": 365,
+      "DefaultWalletChannel": "Citizen wallet"
+    },
+    {
+      "TypeKey": "MarketStallAllocationCredential",
+      "Title": "Market Stall Allocation Credential",
+      "Category": "Business",
+      "Description": "Market stall or vendor allocation.",
+      "DefaultSubjectType": "Vendor",
+      "DefaultExpiryDays": 365,
+      "DefaultWalletChannel": "Citizen wallet"
+    },
+    {
+      "TypeKey": "ContractorPrequalificationCredential",
+      "Title": "Contractor Prequalification Credential",
+      "Category": "Procurement",
+      "Description": "Contractor qualification for council works.",
+      "DefaultSubjectType": "Contractor",
+      "DefaultExpiryDays": 365,
+      "DefaultWalletChannel": "Citizen wallet"
+    },
+    {
+      "TypeKey": "CouncilPaymentConfirmation",
+      "Title": "Council Payment Confirmation",
+      "Category": "Finance",
+      "Description": "Payment or receipt confirmation.",
+      "DefaultSubjectType": "Citizen",
+      "DefaultExpiryDays": 365,
+      "DefaultWalletChannel": "Citizen wallet"
+    },
+    {
+      "TypeKey": "TaxComplianceCredential",
+      "Title": "Tax Compliance Credential",
+      "Category": "Finance",
+      "Description": "Council tax compliance or clearance.",
+      "DefaultSubjectType": "Citizen",
+      "DefaultExpiryDays": 180,
+      "DefaultWalletChannel": "Citizen wallet"
+    },
+    {
+      "TypeKey": "ComplianceReportCredential",
+      "Title": "Compliance Report Credential",
+      "Category": "Compliance",
+      "Description": "Compliance report or clearance.",
+      "DefaultSubjectType": "Citizen",
+      "DefaultExpiryDays": 365,
+      "DefaultWalletChannel": "Citizen wallet"
+    },
+    {
+      "TypeKey": "InspectionReportCredential",
+      "Title": "Inspection Report Credential",
+      "Category": "Operations",
+      "Description": "Inspection outcome credential.",
+      "DefaultSubjectType": "Property",
+      "DefaultExpiryDays": 365,
+      "DefaultWalletChannel": "Citizen wallet"
+    },
+    {
+      "TypeKey": "ResolutionCredential",
+      "Title": "Council Resolution Credential",
+      "Category": "Governance",
+      "Description": "Council or committee resolution.",
+      "DefaultSubjectType": "Meeting",
+      "DefaultExpiryDays": 3650,
+      "DefaultWalletChannel": "Citizen wallet"
+    },
+    {
+      "TypeKey": "AppointmentLetterCredential",
+      "Title": "Appointment Letter Credential",
+      "Category": "Governance",
+      "Description": "Officer or representative appointment.",
+      "DefaultSubjectType": "Person",
+      "DefaultExpiryDays": 3650,
+      "DefaultWalletChannel": "Citizen wallet"
+    },
+    {
+      "TypeKey": "AuditReportCredential",
+      "Title": "Audit Report Credential",
+      "Category": "Finance",
+      "Description": "Audit report or assurance letter.",
+      "DefaultSubjectType": "Audit",
+      "DefaultExpiryDays": 3650,
+      "DefaultWalletChannel": "Citizen wallet"
+    },
+    {
+      "TypeKey": "SupplierRegistrationCredential",
+      "Title": "Supplier Registration Credential",
+      "Category": "Procurement",
+      "Description": "Supplier registration for council systems.",
+      "DefaultSubjectType": "Supplier",
+      "DefaultExpiryDays": 3650,
+      "DefaultWalletChannel": "Citizen wallet"
+    },
+    {
+      "TypeKey": "TenderAwardRecommendationCredential",
+      "Title": "Tender Award Recommendation",
+      "Category": "Procurement",
+      "Description": "Tender award recommendation output.",
+      "DefaultSubjectType": "Tender",
+      "DefaultExpiryDays": 365,
+      "DefaultWalletChannel": "Citizen wallet"
+    },
+    {
+      "TypeKey": "ComplaintResolutionCredential",
+      "Title": "Complaint Resolution Credential",
+      "Category": "Governance",
+      "Description": "Complaint or ward issue closure.",
+      "DefaultSubjectType": "Citizen",
+      "DefaultExpiryDays": 365,
+      "DefaultWalletChannel": "Citizen wallet"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "Country": "Zambia",
+  "Council": "Lusaka City Council",
+  "IssuanceHistory": [
+    {
+      "ApplicationId": "APP-001",
+      "CredentialId": "urn:uuid:11111111111111111111111111111111",
+      "CredentialType": "BuildingPermitCredential",
+      "Status": "Issued",
+      "IssuedBy": "officer-001",
+      "IssuedByName": "Susan Zulu",
+      "IssuedAt": "2026-06-12T09:30:00+02:00",
+      "WalletDeliveryChannel": "Citizen wallet",
+      "WalletDeliveryStatus": "Delivered",
+      "PayloadJson": "{\"id\":\"urn:uuid:11111111111111111111111111111111\",\"type\":[\"VerifiableCredential\",\"BuildingPermitCredential\"],\"issuer\":\"Council\",\"credentialSubject\":{\"applicationReference\":\"LCC/BP/2026/0001\",\"fullName\":\"John Mwale\",\"plotNumber\":\"1234/M\",\"landUse\":\"Residential\"}}",
+      "Claims": {
+        "applicationReference": "LCC/BP/2026/0001",
+        "applicationType": "Building Permit Application",
+        "applicationStatus": "Approved",
+        "council": "Susan Zulu",
+        "fullName": "John Mwale",
+        "plotNumber": "1234/M",
+        "landUse": "Residential"
+      }
+    },
+    {
+      "ApplicationId": "TND-001",
+      "CredentialId": "urn:uuid:22222222222222222222222222222222",
+      "CredentialType": "TenderAwardRecommendationCredential",
+      "Status": "Issued",
+      "IssuedBy": "officer-014",
+      "IssuedByName": "James Lungu",
+      "IssuedAt": "2026-06-14T15:45:00+02:00",
+      "WalletDeliveryChannel": "Citizen wallet",
+      "WalletDeliveryStatus": "Delivered",
+      "PayloadJson": "{\"id\":\"urn:uuid:22222222222222222222222222222222\",\"type\":[\"VerifiableCredential\",\"TenderAwardRecommendationCredential\"],\"issuer\":\"Council\",\"credentialSubject\":{\"applicationReference\":\"LCC/TND/2026/0042\",\"companyName\":\"BuildZambia Construction Ltd\",\"tpin\":\"1002345678\",\"bidAmount\":\"2500000\"}}",
+      "Claims": {
+        "applicationReference": "LCC/TND/2026/0042",
+        "applicationType": "Public Infrastructure Tender",
+        "applicationStatus": "Approved",
+        "council": "James Lungu",
+        "companyName": "BuildZambia Construction Ltd",
+        "tpin": "1002345678",
+        "bidAmount": "2500000"
+      }
+    }
+  ]
+}
