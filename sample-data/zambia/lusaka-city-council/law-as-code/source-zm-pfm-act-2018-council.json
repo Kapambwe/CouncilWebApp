@@ -1,0 +1,103 @@
+{
+  "sourceId": "source-zm-pfm-act-2018-council",
+  "instrumentId": "ZM-ACT-2018-PFM-COUNCIL",
+  "title": "The Public Finance Management Act, 2018",
+  "type": "Act",
+  "number": "No. 1 of 2018",
+  "sourceFile": "C:\\Dev\\LawAndRegulations\\Processed\\The Public Finance Management ACT 2018.txt",
+  "summary": "Sample extraction of public finance management controls covering treasury responsibilities, controlling officers, audit committees, the Consolidated Fund, banking, and disposal of public assets.",
+  "memorandumPoints": [
+    "Treasury and public finance management structure",
+    "Responsibilities of controlling and accounting officers",
+    "Internal audit and audit committees",
+    "Control of public finances and the Consolidated Fund",
+    "Management of public assets and stores",
+    "Financial misconduct and surcharge provisions",
+    "Control of state-owned enterprises and statutory corporations"
+  ],
+  "arrangementHighlights": [
+    "Management of public finances",
+    "Control of public funds and bank accounts",
+    "Financial misconduct and surcharge",
+    "Management and disposal of public assets and stores",
+    "Reports and statutory corporation controls"
+  ],
+  "controlAreas": [
+    "controlling officer review",
+    "fiduciary duties",
+    "audit committee escalation",
+    "public funds and bank controls",
+    "public asset disposal"
+  ],
+  "sampleClauses": [
+    {
+      "clauseId": "pfm-section-10",
+      "sectionCode": "10",
+      "heading": "Controlling officers",
+      "triggerCondition": "A payment, grant, or commitment is submitted",
+      "workflowCode": "PFM_CONTROLLING_OFFICER_REVIEW",
+      "ruleCode": "PFM-CO-REVIEW-001",
+      "ownerRole": "Controlling Officer",
+      "severity": "Critical",
+      "controlIntent": "Require accountable-officer review before the council commits public resources."
+    },
+    {
+      "clauseId": "pfm-section-12",
+      "sectionCode": "12",
+      "heading": "Fiduciary duties of controlling officer and controlling body",
+      "triggerCondition": "A high-value approval or exception override is requested",
+      "workflowCode": "PFM_FIDUCIARY_EXCEPTION_REVIEW",
+      "ruleCode": "PFM-FIDUCIARY-001",
+      "ownerRole": "Internal Auditor",
+      "severity": "Critical",
+      "controlIntent": "Prevent irregular expenditure and preserve auditable evidence for approvals."
+    },
+    {
+      "clauseId": "pfm-section-19",
+      "sectionCode": "19",
+      "heading": "Audit committees",
+      "triggerCondition": "Quarter-end review or unresolved audit finding",
+      "workflowCode": "PFM_AUDIT_COMMITTEE_ESCALATION",
+      "ruleCode": "PFM-AUDIT-ESC-001",
+      "ownerRole": "Audit Committee Secretary",
+      "severity": "High",
+      "controlIntent": "Escalate open audit observations through the audit committee workflow."
+    },
+    {
+      "clauseId": "pfm-section-22",
+      "sectionCode": "22",
+      "heading": "Disbursement from Consolidated Fund",
+      "triggerCondition": "Funds are released from the consolidated fund or a warrant is prepared",
+      "workflowCode": "PFM_CONSOLIDATED_FUND_CONTROL",
+      "ruleCode": "PFM-CONSOLIDATED-FUND-001",
+      "ownerRole": "Accountant-General",
+      "severity": "Critical",
+      "controlIntent": "Require treasury-backed release approval and traceable allocation to the proper vote."
+    },
+    {
+      "clauseId": "pfm-section-32",
+      "sectionCode": "32",
+      "heading": "Bank accounts in respect of public monies",
+      "triggerCondition": "A public-money account is opened, changed, or reconciled",
+      "workflowCode": "PFM_BANK_ACCOUNT_CONTROL",
+      "ruleCode": "PFM-BANK-ACCOUNT-001",
+      "ownerRole": "Director Finance",
+      "severity": "High",
+      "controlIntent": "Ensure all public monies are held and reconciled through approved bank accounts."
+    }
+  ],
+  "sampleFacts": [
+    {
+      "paymentType": "grant",
+      "amount": 850000,
+      "budgetLine": "Community projects",
+      "requiresControlOfficerApproval": true,
+      "hasAuditEvidence": false
+    },
+    {
+      "assetDisposalValue": 450000,
+      "disposalType": "auction",
+      "requiresCommitteeOfSurvey": true
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "sourceId": "source-zm-cdf-bill-2023",
+  "instrumentId": "ZM-BILL-2023-CDF",
+  "title": "The Constituency Development Fund Bill, 2023",
+  "type": "Bill",
+  "number": "N.A.B. 21 of 2023",
+  "sourceFile": "C:\\Dev\\LawAndRegulations\\Processed\\The Constituency Development Fund (Amendment) Bill, N.A.B 2023.txt",
+  "summary": "Sample extraction of the CDF bill covering decentralised management, committee governance, fund administration, project proposals, procurement, and reporting.",
+  "memorandumPoints": [
+    "Decentralised management, disbursement, utilisation, and accountability of the Fund",
+    "Continuation of the CDF Committee and revised committee functions",
+    "Provincial Constituency Development Fund Committee establishment",
+    "Repeal and replacement of the Constituency Development Fund Act, 2018"
+  ],
+  "arrangementHighlights": [
+    "Fund principles and administration",
+    "Constituency bank accounts and disbursement",
+    "Accountability, transparency, accounts, and audit",
+    "Project proposals and committee review",
+    "Procurement of services and works",
+    "General provisions, guidelines, and regulations"
+  ],
+  "controlAreas": [
+    "CDF application accountability",
+    "project proposal review",
+    "committee review",
+    "CDF procurement compliance",
+    "annual reporting and audit"
+  ],
+  "sampleClauses": [
+    {
+      "clauseId": "cdf-section-3",
+      "sectionCode": "3",
+      "heading": "Principles of management, disbursement and utilisation of Fund",
+      "triggerCondition": "A CDF application or project is submitted",
+      "workflowCode": "CDF_APPLICATION_ACCOUNTABILITY_REVIEW",
+      "ruleCode": "CDF-ACCOUNTABILITY-001",
+      "ownerRole": "CDF Committee Secretary",
+      "severity": "Critical",
+      "controlIntent": "Require decentralised accountability, utilisation, and transparency checks before approval."
+    },
+    {
+      "clauseId": "cdf-section-15",
+      "sectionCode": "15",
+      "heading": "Administration of Fund",
+      "triggerCondition": "The CDF administration workflow or committee role changes",
+      "workflowCode": "CDF_FUND_ADMINISTRATION_REVIEW",
+      "ruleCode": "CDF-FUND-ADMIN-001",
+      "ownerRole": "Community Development Officer",
+      "severity": "High",
+      "controlIntent": "Ensure the Fund is administered through the correct committee and control chain."
+    },
+    {
+      "clauseId": "cdf-section-18",
+      "sectionCode": "18",
+      "heading": "Accountability and transparency",
+      "triggerCondition": "A disbursement, utilisation report, or accountability exception is recorded",
+      "workflowCode": "CDF_ACCOUNTABILITY_REVIEW",
+      "ruleCode": "CDF-ACCOUNTABILITY-002",
+      "ownerRole": "Internal Auditor",
+      "severity": "Critical",
+      "controlIntent": "Preserve transparent evidence for each disbursement and project decision."
+    },
+    {
+      "clauseId": "cdf-section-23",
+      "sectionCode": "23",
+      "heading": "Invitation for project proposals",
+      "triggerCondition": "A project proposal intake window opens",
+      "workflowCode": "CDF_PROJECT_PROPOSAL_REVIEW",
+      "ruleCode": "CDF-PROPOSAL-001",
+      "ownerRole": "Community Development Officer",
+      "severity": "High",
+      "controlIntent": "Capture proposal evidence and route the proposal through the committee review process."
+    },
+    {
+      "clauseId": "cdf-section-28",
+      "sectionCode": "28",
+      "heading": "Procurement of services and works",
+      "triggerCondition": "A CDF project requires services or works procurement",
+      "workflowCode": "CDF_PROCUREMENT_COMPLIANCE",
+      "ruleCode": "CDF-PROCUREMENT-001",
+      "ownerRole": "Procurement Officer",
+      "severity": "High",
+      "controlIntent": "Route CDF-funded works and services through procurement compliance before award or payment."
+    }
+  ],
+  "sampleFacts": [
+    {
+      "projectType": "school-classroom-block",
+      "requestedAmount": 250000,
+      "hasCommitteeResolution": true,
+      "requiresProcurement": true
+    },
+    {
+      "projectType": "skills-training",
+      "requestedAmount": 90000,
+      "hasCommitteeResolution": false,
+      "requiresProcurement": false
+    }
+  ]
+}

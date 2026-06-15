@@ -14,6 +14,7 @@
       "type": "Bill",
       "number": "N.A.B. 2 of 2019",
       "sourceFile": "C:\\Dev\\LawAndRegulations\\Processed\\The Local Government Bill, 2019,NAB 2.txt",
+      "sampleFile": "wwwroot/sample-data/zambia/lusaka-city-council/law-as-code/source-zm-local-government-bill-2019.json",
       "controlAreas": [
         "local authority functions",
         "tariffs and fees",
@@ -28,6 +29,7 @@
       "type": "Act",
       "number": "No. 1 of 2018",
       "sourceFile": "C:\\Dev\\LawAndRegulations\\Processed\\The Public Finance Management ACT 2018.txt",
+      "sampleFile": "wwwroot/sample-data/zambia/lusaka-city-council/law-as-code/source-zm-pfm-act-2018-council.json",
       "controlAreas": [
         "controlling officer review",
         "fiduciary duties",
@@ -56,6 +58,7 @@
       "type": "Bill",
       "number": "N.A.B. 21 of 2023",
       "sourceFile": "C:\\Dev\\LawAndRegulations\\Processed\\The Constituency Development Fund (Amendment) Bill, N.A.B 2023.txt",
+      "sampleFile": "wwwroot/sample-data/zambia/lusaka-city-council/law-as-code/source-zm-cdf-bill-2023.json",
       "controlAreas": [
         "CDF application accountability",
         "project proposal review",

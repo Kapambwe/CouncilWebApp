@@ -1,0 +1,94 @@
+{
+  "sourceId": "source-zm-local-government-bill-2019",
+  "instrumentId": "ZM-BILL-2019-LOCAL-GOV",
+  "title": "The Local Government Bill, 2019",
+  "type": "Bill",
+  "number": "N.A.B. 2 of 2019",
+  "sourceFile": "C:\\Dev\\LawAndRegulations\\Processed\\The Local Government Bill, 2019,NAB 2.txt",
+  "summary": "Sample extraction of the bill that establishes local government structures, decentralised functions, council proceedings, fee powers, and ward development committees.",
+  "memorandumPoints": [
+    "Integrated local government system",
+    "Decentralisation of functions, responsibilities, and services",
+    "Democratic participation and control at local level",
+    "Revision of functions of local authorities",
+    "Review of tariffs, charges, and fees",
+    "Proceedings of the council and committees",
+    "Role of traditional leadership in democratic governance",
+    "Repeal and replacement of the Local Government Act, 1991"
+  ],
+  "arrangementHighlights": [
+    "Preliminary provisions and interpretation",
+    "Establishment and constitution of councils",
+    "Functions of local authority and standing orders",
+    "Central government support and guidance",
+    "Ward development committees",
+    "Finance, budgets, and financial year controls"
+  ],
+  "controlAreas": [
+    "local authority functions",
+    "council proceedings",
+    "fees and charges",
+    "council budget governance",
+    "ward development committees"
+  ],
+  "sampleClauses": [
+    {
+      "clauseId": "lgov-memorandum-001",
+      "sectionCode": "Memorandum",
+      "heading": "Objects of the Bill",
+      "triggerCondition": "A council service, tariff, or committee process is configured",
+      "workflowCode": "LGOV_POLICY_LEGAL_REVIEW",
+      "ruleCode": "LGOV-FUNCTION-MAP-001",
+      "ownerRole": "Legal Officer",
+      "severity": "High",
+      "controlIntent": "Confirm the service or process is grounded in a local government power or function."
+    },
+    {
+      "clauseId": "lgov-section-16",
+      "sectionCode": "16",
+      "heading": "Functions of local authority",
+      "triggerCondition": "A new council workflow, permit, or service is created",
+      "workflowCode": "LGOV_FUNCTION_MAPPING_REVIEW",
+      "ruleCode": "LGOV-FUNCTION-MAP-001",
+      "ownerRole": "Town Clerk",
+      "severity": "Critical",
+      "controlIntent": "Map each application, permit, or service to an approved local authority function."
+    },
+    {
+      "clauseId": "lgov-section-20",
+      "sectionCode": "20",
+      "heading": "Standing orders",
+      "triggerCondition": "Council meeting workflow is published or updated",
+      "workflowCode": "LGOV_COUNCIL_PROCEEDINGS_REVIEW",
+      "ruleCode": "LGOV-STANDING-ORDERS-001",
+      "ownerRole": "Council Secretary",
+      "severity": "Medium",
+      "controlIntent": "Ensure council and committee proceedings follow approved standing orders."
+    },
+    {
+      "clauseId": "lgov-section-41",
+      "sectionCode": "41",
+      "heading": "Budget",
+      "triggerCondition": "Annual budget or supplementary budget is prepared",
+      "workflowCode": "LGOV_BUDGET_GOVERNANCE",
+      "ruleCode": "LGOV-BUDGET-001",
+      "ownerRole": "Director Finance",
+      "severity": "High",
+      "controlIntent": "Confirm the local authority budget is processed through the correct approval chain."
+    }
+  ],
+  "sampleFacts": [
+    {
+      "applicationType": "business-permit",
+      "serviceName": "Business permit renewal",
+      "requestedFee": 1250,
+      "approvedTariff": 1000,
+      "needsCouncilApproval": true
+    },
+    {
+      "meetingType": "council-meeting",
+      "agendaItem": "Council standing orders update",
+      "requiresLegalReview": true
+    }
+  ]
+}
