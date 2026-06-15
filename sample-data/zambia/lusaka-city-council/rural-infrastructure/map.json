@@ -1,0 +1,71 @@
+{
+  "Country": "Zambia",
+  "Council": "Lusaka City Council",
+  "Title": "Rural Infrastructure Analysis",
+  "Subtitle": "Road access, water points, schools, clinics, and settlement coverage in rural and peri-urban areas.",
+  "CenterLatitude": -15.4167,
+  "CenterLongitude": 28.2833,
+  "Zoom": 11,
+  "Metrics": [
+    { "Title": "Rural Roads", "Value": "4", "Tone": "Info", "Description": "Sample road links for access analysis." },
+    { "Title": "Service Points", "Value": "5", "Tone": "Success", "Description": "Water, school, clinic, and bridge points." },
+    { "Title": "Settlements", "Value": "3", "Tone": "Warning", "Description": "Example settlement coverage areas." }
+  ],
+  "Layers": [
+    {
+      "Key": "rural-roads",
+      "Title": "Rural Roads",
+      "LayerType": "line",
+      "Color": "#b45309",
+      "FillColor": "#b45309",
+      "FillOpacity": 0.2,
+      "VisibleByDefault": true,
+      "Summary": "Access roads and link roads serving rural settlements.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "name": "Mumbwa Link Road", "condition": "Gravel", "status": "Seasonal access" }, "geometry": { "type": "LineString", "coordinates": [[28.181,-15.339],[28.239,-15.368],[28.311,-15.394]] } },
+          { "type": "Feature", "properties": { "name": "Kafue Access Road", "condition": "Earth", "status": "Needs grading" }, "geometry": { "type": "LineString", "coordinates": [[28.244,-15.448],[28.292,-15.431],[28.341,-15.421]] } },
+          { "type": "Feature", "properties": { "name": "Chinyunyu Road", "condition": "Gravel", "status": "Partially passable" }, "geometry": { "type": "LineString", "coordinates": [[28.127,-15.486],[28.189,-15.463],[28.245,-15.452]] } }
+        ]
+      }
+    },
+    {
+      "Key": "settlements",
+      "Title": "Settlements",
+      "LayerType": "polygon",
+      "Color": "#15803d",
+      "FillColor": "#22c55e",
+      "FillOpacity": 0.24,
+      "VisibleByDefault": true,
+      "Summary": "Settlement footprints used to identify service gaps.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "name": "Kanyama North Settlement", "households": 1240, "access": "Limited road access" }, "geometry": { "type": "Polygon", "coordinates": [[[28.205,-15.421],[28.224,-15.421],[28.224,-15.406],[28.205,-15.406],[28.205,-15.421]]] } },
+          { "type": "Feature", "properties": { "name": "Chawama Fringe Settlement", "households": 860, "access": "Shared access road" }, "geometry": { "type": "Polygon", "coordinates": [[[28.277,-15.441],[28.294,-15.441],[28.294,-15.428],[28.277,-15.428],[28.277,-15.441]]] } },
+          { "type": "Feature", "properties": { "name": "Mphala Settlement", "households": 540, "access": "Seasonal access" }, "geometry": { "type": "Polygon", "coordinates": [[[28.135,-15.476],[28.151,-15.476],[28.151,-15.463],[28.135,-15.463],[28.135,-15.476]]] } }
+        ]
+      }
+    },
+    {
+      "Key": "service-points",
+      "Title": "Service Points",
+      "LayerType": "point",
+      "Color": "#2563eb",
+      "FillColor": "#60a5fa",
+      "FillOpacity": 1,
+      "VisibleByDefault": true,
+      "Summary": "Water points, schools, clinics, and bridge points for service coverage analysis.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "name": "Mumbwa Borehole 01", "type": "Water Point", "status": "Operational" }, "geometry": { "type": "Point", "coordinates": [28.218,-15.414] } },
+          { "type": "Feature", "properties": { "name": "Kanyama Rural Clinic", "type": "Clinic", "status": "Needs staffing" }, "geometry": { "type": "Point", "coordinates": [28.228,-15.412] } },
+          { "type": "Feature", "properties": { "name": "Chinyunyu Primary School", "type": "School", "status": "Operational" }, "geometry": { "type": "Point", "coordinates": [28.143,-15.468] } },
+          { "type": "Feature", "properties": { "name": "Mushanga Bridge", "type": "Bridge", "status": "Requires inspection" }, "geometry": { "type": "Point", "coordinates": [28.296,-15.436] } }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "Country": "Zambia",
+  "Council": "Lusaka City Council",
+  "CenterLatitude": -15.4167,
+  "CenterLongitude": 28.2833,
+  "Zoom": 11,
+  "Layers": [
+    {
+      "Key": "wards",
+      "Title": "Wards",
+      "LayerType": "polygon",
+      "Color": "#0f766e",
+      "FillColor": "#14b8a6",
+      "FillOpacity": 0.25,
+      "VisibleByDefault": true,
+      "Summary": "Administrative ward boundaries and ward-level context.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "properties": { "name": "Central Ward", "wardCode": "LCC-01", "population": 21500 },
+            "geometry": {
+              "type": "Polygon",
+              "coordinates": [[[28.240, -15.390], [28.305, -15.390], [28.305, -15.430], [28.240, -15.430], [28.240, -15.390]]]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "name": "Matero Ward", "wardCode": "LCC-02", "population": 38400 },
+            "geometry": {
+              "type": "Polygon",
+              "coordinates": [[[28.190, -15.370], [28.255, -15.370], [28.255, -15.410], [28.190, -15.410], [28.190, -15.370]]]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "name": "Chilenje Ward", "wardCode": "LCC-03", "population": 26700 },
+            "geometry": {
+              "type": "Polygon",
+              "coordinates": [[[28.280, -15.430], [28.345, -15.430], [28.345, -15.470], [28.280, -15.470], [28.280, -15.430]]]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Key": "parcels",
+      "Title": "Council Parcels",
+      "LayerType": "polygon",
+      "Color": "#1d4ed8",
+      "FillColor": "#60a5fa",
+      "FillOpacity": 0.35,
+      "VisibleByDefault": true,
+      "Summary": "Sample council parcel footprints and status labels.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "properties": { "name": "Plot 1234/M", "owner": "John Mwale", "status": "Approved", "permit": "Building Permit" },
+            "geometry": {
+              "type": "Polygon",
+              "coordinates": [[[28.286, -15.412], [28.290, -15.412], [28.290, -15.416], [28.286, -15.416], [28.286, -15.412]]]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "name": "Plot 778/CB", "owner": "Mwamba Livestock Group", "status": "Issued", "permit": "Food Handling Permit" },
+            "geometry": {
+              "type": "Polygon",
+              "coordinates": [[[28.233, -15.403], [28.238, -15.403], [28.238, -15.407], [28.233, -15.407], [28.233, -15.403]]]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Key": "encroachments",
+      "Title": "Encroachment",
+      "LayerType": "point",
+      "Color": "#b91c1c",
+      "FillColor": "#ef4444",
+      "FillOpacity": 0.75,
+      "VisibleByDefault": true,
+      "Summary": "Reported encroachment incidents requiring inspection.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "properties": { "name": "Market verge encroachment", "severity": "High", "status": "Open" },
+            "geometry": { "type": "Point", "coordinates": [28.318, -15.387] }
+          },
+          {
+            "type": "Feature",
+            "properties": { "name": "Road reserve occupation", "severity": "Medium", "status": "Under Review" },
+            "geometry": { "type": "Point", "coordinates": [28.272, -15.448] }
+          }
+        ]
+      }
+    },
+    {
+      "Key": "compliance",
+      "Title": "Compliance Checks",
+      "LayerType": "point",
+      "Color": "#7c3aed",
+      "FillColor": "#a855f7",
+      "FillOpacity": 0.75,
+      "VisibleByDefault": true,
+      "Summary": "Inspection and compliance checkpoints from council workflows.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "properties": { "name": "Building inspection", "status": "Cleared", "caseId": "INS-2026-041" },
+            "geometry": { "type": "Point", "coordinates": [28.289, -15.415] }
+          },
+          {
+            "type": "Feature",
+            "properties": { "name": "Land use compliance", "status": "Pending", "caseId": "CMP-2026-118" },
+            "geometry": { "type": "Point", "coordinates": [28.246, -15.398] }
+          }
+        ]
+      }
+    }
+  ]
+}

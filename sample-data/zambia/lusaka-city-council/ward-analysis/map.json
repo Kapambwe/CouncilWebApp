@@ -1,0 +1,67 @@
+{
+  "Country": "Zambia",
+  "Council": "Lusaka City Council",
+  "Title": "Ward analysis workspace",
+  "Subtitle": "Ward performance, service coverage, and project planning overlays.",
+  "CenterLatitude": -15.4167,
+  "CenterLongitude": 28.2833,
+  "Zoom": 11,
+  "Metrics": [
+    { "Title": "Total wards", "Value": "12", "Tone": "Info", "Description": "All wards in the current council sample" },
+    { "Title": "At-risk wards", "Value": "3", "Tone": "Warning", "Description": "Performance score below 80%" },
+    { "Title": "Avg. performance", "Value": "84%", "Tone": "Success", "Description": "Weighted service and delivery score" },
+    { "Title": "Projects mapped", "Value": "89", "Tone": "Primary", "Description": "Ward-linked project records" }
+  ],
+  "Layers": [
+    {
+      "Key": "wards",
+      "Title": "Ward boundaries",
+      "LayerType": "polygon",
+      "Color": "#0f766e",
+      "FillColor": "#14b8a6",
+      "FillOpacity": 0.18,
+      "VisibleByDefault": true,
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "ward": 1, "name": "Central", "performance": 92 }, "geometry": { "type": "Polygon", "coordinates": [[[28.246, -15.395], [28.286, -15.395], [28.286, -15.425], [28.246, -15.425], [28.246, -15.395]]] } },
+          { "type": "Feature", "properties": { "ward": 5, "name": "Township", "performance": 78 }, "geometry": { "type": "Polygon", "coordinates": [[[28.192, -15.372], [28.255, -15.372], [28.255, -15.410], [28.192, -15.410], [28.192, -15.372]]] } },
+          { "type": "Feature", "properties": { "ward": 9, "name": "Compound A", "performance": 72 }, "geometry": { "type": "Polygon", "coordinates": [[[28.281, -15.442], [28.340, -15.442], [28.340, -15.476], [28.281, -15.476], [28.281, -15.442]]] } }
+        ]
+      }
+    },
+    {
+      "Key": "projects",
+      "Title": "Priority projects",
+      "LayerType": "point",
+      "Color": "#1d4ed8",
+      "FillColor": "#60a5fa",
+      "FillOpacity": 0.85,
+      "VisibleByDefault": true,
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "name": "Central Market drainage", "category": "Water & Sanitation", "status": "In Progress" }, "geometry": { "type": "Point", "coordinates": [28.274, -15.406] } },
+          { "type": "Feature", "properties": { "name": "Compound A road rehab", "category": "Road Infrastructure", "status": "Delayed" }, "geometry": { "type": "Point", "coordinates": [28.323, -15.448] } },
+          { "type": "Feature", "properties": { "name": "Township clinic upgrade", "category": "Public Buildings", "status": "Planned" }, "geometry": { "type": "Point", "coordinates": [28.214, -15.389] } }
+        ]
+      }
+    },
+    {
+      "Key": "service-delivery",
+      "Title": "Service delivery",
+      "LayerType": "point",
+      "Color": "#7c3aed",
+      "FillColor": "#a855f7",
+      "FillOpacity": 0.85,
+      "VisibleByDefault": true,
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "name": "Water access gap", "indicator": "82%", "status": "Needs support" }, "geometry": { "type": "Point", "coordinates": [28.309, -15.402] } },
+          { "type": "Feature", "properties": { "name": "Streetlight outage", "indicator": "75%", "status": "Needs support" }, "geometry": { "type": "Point", "coordinates": [28.246, -15.448] } }
+        ]
+      }
+    }
+  ]
+}

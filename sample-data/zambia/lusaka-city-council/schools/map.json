@@ -1,0 +1,52 @@
+{
+  "Country": "Zambia",
+  "Council": "Lusaka City Council",
+  "Title": "Schools Catchment Analysis",
+  "Subtitle": "Primary and secondary schools, capacities, catchments, and access routes.",
+  "CenterLatitude": -15.402,
+  "CenterLongitude": 28.287,
+  "Zoom": 12,
+  "Metrics": [
+    { "Title": "Schools", "Value": "5", "Tone": "Info", "Description": "Sample school locations." },
+    { "Title": "Capacity", "Value": "2,380", "Tone": "Success", "Description": "Combined nominal learner capacity." },
+    { "Title": "Over Capacity", "Value": "1", "Tone": "Warning", "Description": "One school shows a capacity pressure flag." }
+  ],
+  "Layers": [
+    {
+      "Key": "schools",
+      "Title": "Schools",
+      "LayerType": "point",
+      "Color": "#1d4ed8",
+      "FillColor": "#3b82f6",
+      "FillOpacity": 1,
+      "VisibleByDefault": true,
+      "Summary": "School locations with enrollment and condition data.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "name": "Kalingalinga Primary School", "level": "Primary", "enrollment": 680, "capacity": 620, "condition": "Fair" }, "geometry": { "type": "Point", "coordinates": [28.301,-15.398] } },
+          { "type": "Feature", "properties": { "name": "Kamwala Secondary School", "level": "Secondary", "enrollment": 910, "capacity": 760, "condition": "Good" }, "geometry": { "type": "Point", "coordinates": [28.284,-15.409] } },
+          { "type": "Feature", "properties": { "name": "Chilenje Primary School", "level": "Primary", "enrollment": 420, "capacity": 500, "condition": "Good" }, "geometry": { "type": "Point", "coordinates": [28.272,-15.423] } }
+        ]
+      }
+    },
+    {
+      "Key": "catchments",
+      "Title": "Catchment Areas",
+      "LayerType": "polygon",
+      "Color": "#16a34a",
+      "FillColor": "#4ade80",
+      "FillOpacity": 0.18,
+      "VisibleByDefault": true,
+      "Summary": "Catchment areas for school planning and walk-time analysis.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "name": "Kalingalinga Catchment", "pressure": "High" }, "geometry": { "type": "Polygon", "coordinates": [[[28.289,-15.393],[28.314,-15.393],[28.314,-15.406],[28.289,-15.406],[28.289,-15.393]]] } },
+          { "type": "Feature", "properties": { "name": "Kamwala Catchment", "pressure": "Medium" }, "geometry": { "type": "Polygon", "coordinates": [[[28.274,-15.404],[28.299,-15.404],[28.299,-15.418],[28.274,-15.418],[28.274,-15.404]]] } },
+          { "type": "Feature", "properties": { "name": "Chilenje Catchment", "pressure": "Low" }, "geometry": { "type": "Polygon", "coordinates": [[[28.262,-15.417],[28.285,-15.417],[28.285,-15.431],[28.262,-15.431],[28.262,-15.417]]] } }
+        ]
+      }
+    }
+  ]
+}

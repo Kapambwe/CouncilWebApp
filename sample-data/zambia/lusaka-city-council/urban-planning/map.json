@@ -1,0 +1,87 @@
+{
+  "Country": "Zambia",
+  "Council": "Lusaka City Council",
+  "Title": "Urban Planning Analysis",
+  "Subtitle": "Zoning, development sites, growth corridors, public facilities, and land use pressure.",
+  "CenterLatitude": -15.406,
+  "CenterLongitude": 28.279,
+  "Zoom": 12,
+  "Metrics": [
+    { "Title": "Zoning Areas", "Value": "4", "Tone": "Info", "Description": "Sample planning zones." },
+    { "Title": "Development Sites", "Value": "5", "Tone": "Success", "Description": "Sites under planning review." },
+    { "Title": "Pressure Flags", "Value": "2", "Tone": "Warning", "Description": "Sites needing planning attention." }
+  ],
+  "Layers": [
+    {
+      "Key": "zoning",
+      "Title": "Zoning Areas",
+      "LayerType": "polygon",
+      "Color": "#4338ca",
+      "FillColor": "#818cf8",
+      "FillOpacity": 0.2,
+      "VisibleByDefault": true,
+      "Summary": "Residential, mixed use, public, and conservation planning zones.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "name": "Residential Zone A", "zone": "Residential", "density": "Low" }, "geometry": { "type": "Polygon", "coordinates": [[[28.248,-15.394],[28.271,-15.394],[28.271,-15.407],[28.248,-15.407],[28.248,-15.394]]] } },
+          { "type": "Feature", "properties": { "name": "Mixed Use Corridor", "zone": "Mixed Use", "density": "Medium" }, "geometry": { "type": "Polygon", "coordinates": [[[28.271,-15.402],[28.299,-15.402],[28.299,-15.413],[28.271,-15.413],[28.271,-15.402]]] } },
+          { "type": "Feature", "properties": { "name": "Public Purpose Zone", "zone": "Public", "density": "Controlled" }, "geometry": { "type": "Polygon", "coordinates": [[[28.289,-15.413],[28.311,-15.413],[28.311,-15.426],[28.289,-15.426],[28.289,-15.413]]] } }
+        ]
+      }
+    },
+    {
+      "Key": "development-sites",
+      "Title": "Development Sites",
+      "LayerType": "point",
+      "Color": "#b45309",
+      "FillColor": "#f97316",
+      "FillOpacity": 1,
+      "VisibleByDefault": true,
+      "Summary": "Planned or active development applications and site reviews.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "name": "Site 01", "proposal": "Apartment block", "status": "Under review", "issue": "Parking" }, "geometry": { "type": "Point", "coordinates": [28.262,-15.398] } },
+          { "type": "Feature", "properties": { "name": "Site 02", "proposal": "Shopping complex", "status": "Approved", "issue": "None" }, "geometry": { "type": "Point", "coordinates": [28.279,-15.405] } },
+          { "type": "Feature", "properties": { "name": "Site 03", "proposal": "School expansion", "status": "Awaiting review", "issue": "Setback" }, "geometry": { "type": "Point", "coordinates": [28.294,-15.416] } }
+        ]
+      }
+    },
+    {
+      "Key": "growth-corridors",
+      "Title": "Growth Corridors",
+      "LayerType": "line",
+      "Color": "#16a34a",
+      "FillColor": "#4ade80",
+      "FillOpacity": 0.2,
+      "VisibleByDefault": true,
+      "Summary": "Priority growth lines used to guide service extension and land use change.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "name": "North Growth Corridor", "priority": "High", "program": "Infill and densification" }, "geometry": { "type": "LineString", "coordinates": [[28.259,-15.389],[28.274,-15.395],[28.291,-15.401],[28.305,-15.408]] } },
+          { "type": "Feature", "properties": { "name": "South Growth Corridor", "priority": "Medium", "program": "Transit-oriented development" }, "geometry": { "type": "LineString", "coordinates": [[28.270,-15.421],[28.283,-15.417],[28.297,-15.413],[28.309,-15.410]] } }
+        ]
+      }
+    },
+    {
+      "Key": "planning-facilities",
+      "Title": "Planning Support Facilities",
+      "LayerType": "point",
+      "Color": "#0f766e",
+      "FillColor": "#14b8a6",
+      "FillOpacity": 1,
+      "VisibleByDefault": true,
+      "Summary": "Public facilities and planning support assets used in analysis.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "name": "Urban Planning Desk", "type": "Office", "status": "Active" }, "geometry": { "type": "Point", "coordinates": [28.277,-15.407] } },
+          { "type": "Feature", "properties": { "name": "Public Market Hub", "type": "Market", "status": "Constrained access" }, "geometry": { "type": "Point", "coordinates": [28.268,-15.413] } },
+          { "type": "Feature", "properties": { "name": "Transport Node", "type": "Mobility", "status": "Planned" }, "geometry": { "type": "Point", "coordinates": [28.301,-15.409] } }
+        ]
+      }
+    }
+  ]
+}

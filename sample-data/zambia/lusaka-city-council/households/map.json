@@ -1,0 +1,52 @@
+{
+  "Country": "Zambia",
+  "Council": "Lusaka City Council",
+  "Title": "Household Service Coverage",
+  "Subtitle": "Household access, tenure, vulnerability, water, sanitation, and electricity coverage.",
+  "CenterLatitude": -15.409,
+  "CenterLongitude": 28.292,
+  "Zoom": 12,
+  "Metrics": [
+    { "Title": "Households", "Value": "6", "Tone": "Info", "Description": "Sample household records." },
+    { "Title": "Connected", "Value": "4", "Tone": "Success", "Description": "Households with utility access." },
+    { "Title": "At Risk", "Value": "2", "Tone": "Danger", "Description": "Households with service gaps." }
+  ],
+  "Layers": [
+    {
+      "Key": "households",
+      "Title": "Households",
+      "LayerType": "point",
+      "Color": "#0f766e",
+      "FillColor": "#14b8a6",
+      "FillOpacity": 1,
+      "VisibleByDefault": true,
+      "Summary": "Household locations with tenure and service access details.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "name": "HH-001", "head": "M. Phiri", "tenure": "Owner occupied", "water": "Piped", "electricity": "Yes", "sanitation": "Flush", "risk": "Low" }, "geometry": { "type": "Point", "coordinates": [28.268,-15.401] } },
+          { "type": "Feature", "properties": { "name": "HH-002", "head": "C. Banda", "tenure": "Rented", "water": "Shared tap", "electricity": "Yes", "sanitation": "Pit latrine", "risk": "Medium" }, "geometry": { "type": "Point", "coordinates": [28.281,-15.408] } },
+          { "type": "Feature", "properties": { "name": "HH-003", "head": "A. Zulu", "tenure": "Informal", "water": "Borehole", "electricity": "No", "sanitation": "Pit latrine", "risk": "High" }, "geometry": { "type": "Point", "coordinates": [28.294,-15.416] } },
+          { "type": "Feature", "properties": { "name": "HH-004", "head": "E. Mumba", "tenure": "Family land", "water": "Borehole", "electricity": "Partial", "sanitation": "Shared", "risk": "Medium" }, "geometry": { "type": "Point", "coordinates": [28.304,-15.422] } }
+        ]
+      }
+    },
+    {
+      "Key": "service-zones",
+      "Title": "Service Zones",
+      "LayerType": "polygon",
+      "Color": "#7c3aed",
+      "FillColor": "#a78bfa",
+      "FillOpacity": 0.18,
+      "VisibleByDefault": true,
+      "Summary": "Coverage zones used to compare access to water, sanitation, and power.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "name": "Zone A", "coverage": "High", "issue": "None" }, "geometry": { "type": "Polygon", "coordinates": [[[28.258,-15.395],[28.300,-15.395],[28.300,-15.414],[28.258,-15.414],[28.258,-15.395]]] } },
+          { "type": "Feature", "properties": { "name": "Zone B", "coverage": "Medium", "issue": "Intermittent water" }, "geometry": { "type": "Polygon", "coordinates": [[[28.286,-15.414],[28.326,-15.414],[28.326,-15.432],[28.286,-15.432],[28.286,-15.414]]] } }
+        ]
+      }
+    }
+  ]
+}

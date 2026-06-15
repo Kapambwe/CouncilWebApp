@@ -1,0 +1,69 @@
+{
+  "Country": "Zambia",
+  "Council": "Lusaka City Council",
+  "Title": "Roads and Parcels Analysis",
+  "Subtitle": "Road access, parcel boundaries, encroachment, and servitude checks.",
+  "CenterLatitude": -15.414,
+  "CenterLongitude": 28.296,
+  "Zoom": 12,
+  "Metrics": [
+    { "Title": "Road Segments", "Value": "4", "Tone": "Info", "Description": "Sample road links." },
+    { "Title": "Parcels", "Value": "5", "Tone": "Success", "Description": "Sample parcels for encroachment analysis." },
+    { "Title": "Flags", "Value": "2", "Tone": "Danger", "Description": "One access and one encroachment flag." }
+  ],
+  "Layers": [
+    {
+      "Key": "roads",
+      "Title": "Road Network",
+      "LayerType": "line",
+      "Color": "#9a3412",
+      "FillColor": "#9a3412",
+      "FillOpacity": 0.2,
+      "VisibleByDefault": true,
+      "Summary": "Access roads and collector roads.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "name": "Great East Road Spur", "class": "Collector", "surface": "Asphalt" }, "geometry": { "type": "LineString", "coordinates": [[28.246,-15.369],[28.279,-15.386],[28.319,-15.404]] } },
+          { "type": "Feature", "properties": { "name": "Manda Hill Service Road", "class": "Local", "surface": "Paved" }, "geometry": { "type": "LineString", "coordinates": [[28.291,-15.412],[28.306,-15.409],[28.318,-15.404]] } },
+          { "type": "Feature", "properties": { "name": "Chilumbulu Access Link", "class": "Local", "surface": "Gravel" }, "geometry": { "type": "LineString", "coordinates": [[28.268,-15.433],[28.283,-15.425],[28.302,-15.418]] } }
+        ]
+      }
+    },
+    {
+      "Key": "parcels",
+      "Title": "Parcels",
+      "LayerType": "polygon",
+      "Color": "#166534",
+      "FillColor": "#4ade80",
+      "FillOpacity": 0.22,
+      "VisibleByDefault": true,
+      "Summary": "Parcel footprints used for title and boundary checks.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "parcelNumber": "LP-1001", "owner": "City Council", "status": "Clear" }, "geometry": { "type": "Polygon", "coordinates": [[[28.286,-15.397],[28.294,-15.397],[28.294,-15.405],[28.286,-15.405],[28.286,-15.397]]] } },
+          { "type": "Feature", "properties": { "parcelNumber": "LP-1002", "owner": "Private", "status": "Encroached" }, "geometry": { "type": "Polygon", "coordinates": [[[28.298,-15.403],[28.306,-15.403],[28.306,-15.411],[28.298,-15.411],[28.298,-15.403]]] } },
+          { "type": "Feature", "properties": { "parcelNumber": "LP-1003", "owner": "Private", "status": "Boundary review" }, "geometry": { "type": "Polygon", "coordinates": [[[28.276,-15.414],[28.284,-15.414],[28.284,-15.422],[28.276,-15.422],[28.276,-15.414]]] } }
+        ]
+      }
+    },
+    {
+      "Key": "encroachment-points",
+      "Title": "Encroachment Flags",
+      "LayerType": "point",
+      "Color": "#ca8a04",
+      "FillColor": "#facc15",
+      "FillOpacity": 1,
+      "VisibleByDefault": true,
+      "Summary": "Points showing likely encroachment or servitude violations.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "name": "Flag 01", "issue": "Fence over servitude", "priority": "High" }, "geometry": { "type": "Point", "coordinates": [28.302,-15.405] } },
+          { "type": "Feature", "properties": { "name": "Flag 02", "issue": "Structure setback breach", "priority": "Medium" }, "geometry": { "type": "Point", "coordinates": [28.283,-15.421] } }
+        ]
+      }
+    }
+  ]
+}

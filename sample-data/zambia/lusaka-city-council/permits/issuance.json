@@ -1,0 +1,342 @@
+{
+  "Country": "Zambia",
+  "Council": "Lusaka City Council",
+  "Requirements": [
+    {
+      "RequirementId": "CPR-GOV-GOODS-001",
+      "StarterPackRequirementId": "REQ-GOV-GOODS-001",
+      "ContractId": "CON-SUP-GOV-GOODS-001",
+      "PermitType": "BusinessOperatingPermit",
+      "PermitName": "Council Business Operating Permit",
+      "CouncilName": "Lusaka City Council",
+      "Jurisdiction": "Lusaka",
+      "AppliesToSector": "General Supply",
+      "AppliesToActivity": "Retail, warehousing, and institutional goods supply",
+      "FeeAmount": 850,
+      "Currency": "ZMW",
+      "SlaDays": 14,
+      "IsMandatory": true,
+      "RequiredDocuments": [
+        "Business registration certificate",
+        "Tax clearance",
+        "Premises lease or title",
+        "Fire safety inspection"
+      ],
+      "EligibilityRules": [
+        "Business must operate within council jurisdiction",
+        "Premises must pass fire and health checks"
+      ]
+    },
+    {
+      "RequirementId": "CPR-AGRO-FOOD-001",
+      "StarterPackRequirementId": "REQ-BEEF-DRC-001",
+      "ContractId": "CON-EXP-BEEF-DRC-001",
+      "PermitType": "FoodHandlingPermit",
+      "PermitName": "Food Handling and Local Premises Permit",
+      "CouncilName": "Kitwe City Council",
+      "Jurisdiction": "Copperbelt",
+      "AppliesToSector": "Livestock",
+      "AppliesToActivity": "Cold storage, meat handling, and local aggregation",
+      "FeeAmount": 1250,
+      "Currency": "ZMW",
+      "SlaDays": 10,
+      "IsMandatory": true,
+      "RequiredDocuments": [
+        "Veterinary clearance",
+        "Premises inspection report",
+        "Waste disposal plan"
+      ],
+      "EligibilityRules": [
+        "Premises must pass health inspection",
+        "Waste handling plan must be approved"
+      ]
+    },
+    {
+      "RequirementId": "CPR-MARKET-STALL-001",
+      "StarterPackRequirementId": "REQ-GOAT-GULF-001",
+      "ContractId": "CON-EXP-GOAT-GULF-001",
+      "PermitType": "MarketTradingPermit",
+      "PermitName": "Livestock Market Trading Permit",
+      "CouncilName": "Choma Municipal Council",
+      "Jurisdiction": "Southern",
+      "AppliesToSector": "Livestock",
+      "AppliesToActivity": "Livestock aggregation and market operations",
+      "FeeAmount": 650,
+      "Currency": "ZMW",
+      "SlaDays": 7,
+      "IsMandatory": true,
+      "RequiredDocuments": [
+        "Cooperative certificate",
+        "Veterinary movement permit",
+        "Market allocation letter"
+      ],
+      "EligibilityRules": [
+        "Applicant must be allocated a market or aggregation space"
+      ]
+    }
+  ],
+  "Applications": [
+    {
+      "ApplicationId": "CPA-GOV-001",
+      "RequirementId": "CPR-GOV-GOODS-001",
+      "StarterPackApplicationId": "APP-GOV-001",
+      "ApplicantId": "APPL-003",
+      "ApplicantName": "Lusaka Office Supplies Ltd",
+      "BusinessName": "Lusaka Office Supplies Ltd",
+      "PermitType": "BusinessOperatingPermit",
+      "CouncilName": "Lusaka City Council",
+      "SubmittedFromApp": "CompanyApp.Client.Customer",
+      "SubmissionChannel": "Customer Wallet Portal",
+      "SourceReferenceType": "StarterPackApplication",
+      "SourceReferenceId": "APP-GOV-001",
+      "Ward": "Central",
+      "District": "Lusaka",
+      "Status": "UnderReview",
+      "CurrentWorkflowStage": "Premises Inspection",
+      "AssignedOfficer": "Permits Officer - LCC",
+      "RequirementsMet": true,
+      "IsEscalated": false,
+      "EscalationReason": "",
+      "EscalatedTo": "",
+      "SubmittedAt": "2026-06-09T10:00:00+02:00",
+      "SlaDueAt": "2026-06-23T10:00:00+02:00",
+      "ApprovedAt": null,
+      "IssuedCredentialId": "",
+      "WalletDeliveryStatus": "Pending",
+      "SubmittedDocuments": [
+        "business-registration.pdf",
+        "tax-clearance.pdf",
+        "lease-agreement.pdf"
+      ],
+      "SupportingEvidence": [
+        {
+          "EvidenceId": "EVD-GOV-001",
+          "ApplicationId": "CPA-GOV-001",
+          "EvidenceType": "PdfDocument",
+          "Title": "Business Registration Certificate",
+          "FileName": "business-registration.pdf",
+          "MimeType": "application/pdf",
+          "FileUrl": "/sample-evidence/business-registration.pdf",
+          "VerificationStatus": "Verified",
+          "SubmittedAt": "2026-06-09T11:00:00+02:00",
+          "ReviewedBy": "Council Evidence Officer",
+          "ReviewedAt": "2026-06-10T09:00:00+02:00",
+          "ReviewNotes": "PACRA registration certificate verified from uploaded PDF.",
+          "ProofMethod": "Ed25519Signature2020",
+          "HashProofVerified": false
+        },
+        {
+          "EvidenceId": "EVD-GOV-002",
+          "ApplicationId": "CPA-GOV-001",
+          "EvidenceType": "WalletVerifiableCredential",
+          "Title": "Tax Clearance Credential",
+          "FileName": "",
+          "MimeType": "application/vc+json",
+          "FileUrl": "",
+          "WalletCredentialId": "VC-ZRA-TAX-2026-0007",
+          "CredentialType": "TaxClearanceCredential",
+          "IssuerDid": "did:web:issuer.gov.zm",
+          "HolderDid": "did:web:wallet.customer.local",
+          "CredentialHash": "sha256:vc-zra-tax-2026-0007-credential-hash",
+          "ProofKeyId": "did:web:issuer.gov.zm#keys-1",
+          "ProofHash": "sha256:vc-zra-tax-2026-0007-proof-hash",
+          "ProofSignature": "sig:sample-tax-clearance",
+          "ProofMethod": "Ed25519Signature2020",
+          "HashProofVerified": true,
+          "VerificationStatus": "Verified",
+          "SubmittedAt": "2026-06-09T11:10:00+02:00",
+          "ReviewedBy": "Council Evidence Officer",
+          "ReviewedAt": "2026-06-10T09:00:00+02:00",
+          "ReviewNotes": "ZRA wallet credential signature valid."
+        }
+      ],
+      "FormData": {
+        "businessName": "Lusaka Office Supplies Ltd",
+        "registrationNumber": "1234567890",
+        "tpin": "1001122334",
+        "businessActivity": "Retail",
+        "premisesAddress": "Plot 123, Cairo Road, Lusaka",
+        "ward": "Central",
+        "floorArea": 120,
+        "fireInspectionNumber": "FIRE-LCC-2026-019"
+      },
+      "WorkflowSteps": [
+        {
+          "StepId": "STEP-GOV-001",
+          "StepName": "Intake",
+          "AssignedRole": "Permits Clerk",
+          "AssignedInstitution": "Lusaka City Council",
+          "Sequence": 1,
+          "Status": "Complete",
+          "CompletedAt": "2026-06-09T12:00:00+02:00",
+          "Notes": "Application captured"
+        },
+        {
+          "StepId": "STEP-GOV-002",
+          "StepName": "Payment Verification",
+          "AssignedRole": "Revenue Officer",
+          "AssignedInstitution": "Lusaka City Council",
+          "Sequence": 2,
+          "Status": "Complete",
+          "CompletedAt": "2026-06-10T10:00:00+02:00",
+          "Notes": "Permit fee confirmed"
+        },
+        {
+          "StepId": "STEP-GOV-003",
+          "StepName": "Premises Inspection",
+          "AssignedRole": "Inspector",
+          "AssignedInstitution": "Lusaka City Council",
+          "Sequence": 3,
+          "Status": "InProgress",
+          "Notes": "Inspection scheduled"
+        },
+        {
+          "StepId": "STEP-GOV-004",
+          "StepName": "Permit Issuance",
+          "AssignedRole": "Permits Officer",
+          "AssignedInstitution": "Lusaka City Council",
+          "Sequence": 4,
+          "Status": "Pending"
+        }
+      ]
+    },
+    {
+      "ApplicationId": "CPA-BEEF-001",
+      "RequirementId": "CPR-AGRO-FOOD-001",
+      "StarterPackApplicationId": "APP-BEEF-001",
+      "ApplicantId": "APPL-001",
+      "ApplicantName": "Mwamba Livestock Group",
+      "BusinessName": "Mwamba Livestock Group",
+      "PermitType": "FoodHandlingPermit",
+      "CouncilName": "Kitwe City Council",
+      "SubmittedFromApp": "CompanyApp.Client.Customer",
+      "SubmissionChannel": "Customer Wallet Portal",
+      "SourceReferenceType": "StarterPackApplication",
+      "SourceReferenceId": "APP-BEEF-001",
+      "Ward": "Mindolo",
+      "District": "Kitwe",
+      "Status": "Approved",
+      "CurrentWorkflowStage": "Permit Issued",
+      "AssignedOfficer": "Health Inspector - Kitwe",
+      "RequirementsMet": true,
+      "IsEscalated": false,
+      "EscalationReason": "",
+      "EscalatedTo": "",
+      "SubmittedAt": "2026-05-31T09:00:00+02:00",
+      "SlaDueAt": "2026-06-12T09:00:00+02:00",
+      "ApprovedAt": "2026-06-09T14:30:00+02:00",
+      "IssuedCredentialId": "COUNCIL-PERMIT-FOOD-001",
+      "WalletDeliveryStatus": "Delivered",
+      "SubmittedDocuments": [
+        "vet-clearance.pdf",
+        "premises-inspection.pdf",
+        "waste-plan.pdf"
+      ],
+      "SupportingEvidence": [
+        {
+          "EvidenceId": "EVD-BEEF-001",
+          "ApplicationId": "CPA-BEEF-001",
+          "EvidenceType": "PdfDocument",
+          "Title": "Veterinary Clearance",
+          "FileName": "vet-clearance.pdf",
+          "MimeType": "application/pdf",
+          "FileUrl": "/sample-evidence/vet-clearance.pdf",
+          "VerificationStatus": "Verified",
+          "SubmittedAt": "2026-05-31T10:00:00+02:00",
+          "ReviewedBy": "Council Evidence Officer",
+          "ReviewedAt": "2026-06-08T11:00:00+02:00",
+          "ReviewNotes": "Veterinary certificate accepted.",
+          "ProofMethod": "Ed25519Signature2020",
+          "HashProofVerified": false
+        },
+        {
+          "EvidenceId": "EVD-BEEF-002",
+          "ApplicationId": "CPA-BEEF-001",
+          "EvidenceType": "PdfDocument",
+          "Title": "Premises Inspection Report",
+          "FileName": "premises-inspection.pdf",
+          "MimeType": "application/pdf",
+          "FileUrl": "/sample-evidence/premises-inspection.pdf",
+          "VerificationStatus": "Verified",
+          "SubmittedAt": "2026-05-31T10:15:00+02:00",
+          "ReviewedBy": "Council Evidence Officer",
+          "ReviewedAt": "2026-06-08T11:00:00+02:00",
+          "ReviewNotes": "Inspection report accepted.",
+          "ProofMethod": "Ed25519Signature2020",
+          "HashProofVerified": false
+        },
+        {
+          "EvidenceId": "EVD-BEEF-003",
+          "ApplicationId": "CPA-BEEF-001",
+          "EvidenceType": "WalletVerifiableCredential",
+          "Title": "Cooperative Registration Credential",
+          "FileName": "",
+          "MimeType": "application/vc+json",
+          "FileUrl": "",
+          "WalletCredentialId": "VC-COOP-2026-0044",
+          "CredentialType": "CooperativeRegistrationCredential",
+          "IssuerDid": "did:web:issuer.gov.zm",
+          "HolderDid": "did:web:wallet.customer.local",
+          "CredentialHash": "sha256:vc-coop-2026-0044-credential-hash",
+          "ProofKeyId": "did:web:issuer.gov.zm#keys-1",
+          "ProofHash": "sha256:vc-coop-2026-0044-proof-hash",
+          "ProofSignature": "sig:sample-coop-registration",
+          "ProofMethod": "Ed25519Signature2020",
+          "HashProofVerified": true,
+          "VerificationStatus": "Verified",
+          "SubmittedAt": "2026-06-06T09:00:00+02:00",
+          "ReviewedBy": "Council Evidence Officer",
+          "ReviewedAt": "2026-06-09T09:00:00+02:00",
+          "ReviewNotes": "Credential issuer and holder match application."
+        }
+      ],
+      "FormData": {
+        "facilityType": "Cold room",
+        "dailyCapacity": 250,
+        "productCategory": "Beef",
+        "waterSource": "Borehole and municipal supply",
+        "wastePlan": "Daily waste removal through licensed contractor",
+        "coldChainAvailable": true,
+        "inspectionDate": "2026-06-03"
+      },
+      "WorkflowSteps": [
+        {
+          "StepId": "STEP-BEEF-001",
+          "StepName": "Intake",
+          "AssignedRole": "Permits Clerk",
+          "AssignedInstitution": "Kitwe City Council",
+          "Sequence": 1,
+          "Status": "Complete",
+          "CompletedAt": "2026-05-31T12:00:00+02:00"
+        },
+        {
+          "StepId": "STEP-BEEF-002",
+          "StepName": "Health Inspection",
+          "AssignedRole": "Health Inspector",
+          "AssignedInstitution": "Kitwe City Council",
+          "Sequence": 2,
+          "Status": "Complete",
+          "CompletedAt": "2026-06-06T09:30:00+02:00"
+        },
+        {
+          "StepId": "STEP-BEEF-003",
+          "StepName": "Permit Approval",
+          "AssignedRole": "Chief Health Officer",
+          "AssignedInstitution": "Kitwe City Council",
+          "Sequence": 3,
+          "Status": "Complete",
+          "CompletedAt": "2026-06-09T14:30:00+02:00"
+        },
+        {
+          "StepId": "STEP-BEEF-004",
+          "StepName": "Credential Delivery",
+          "AssignedRole": "Wallet Service",
+          "AssignedInstitution": "CompanyApp.Client.Customer",
+          "Sequence": 4,
+          "Status": "Complete",
+          "CompletedAt": "2026-06-10T08:00:00+02:00"
+        }
+      ]
+    }
+  ]
+}

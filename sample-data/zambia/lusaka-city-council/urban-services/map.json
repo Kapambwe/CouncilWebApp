@@ -1,0 +1,52 @@
+{
+  "Country": "Zambia",
+  "Council": "Lusaka City Council",
+  "Title": "Urban Services Analysis",
+  "Subtitle": "Waste routes, drainage, streetlights, markets, toilets, and service response points.",
+  "CenterLatitude": -15.409,
+  "CenterLongitude": 28.271,
+  "Zoom": 12,
+  "Metrics": [
+    { "Title": "Service Points", "Value": "8", "Tone": "Info", "Description": "Sample urban service locations." },
+    { "Title": "Active Routes", "Value": "3", "Tone": "Success", "Description": "Waste and drainage service routes." },
+    { "Title": "Alerts", "Value": "2", "Tone": "Warning", "Description": "Drainage and streetlight attention points." }
+  ],
+  "Layers": [
+    {
+      "Key": "service-routes",
+      "Title": "Service Routes",
+      "LayerType": "line",
+      "Color": "#0f766e",
+      "FillColor": "#14b8a6",
+      "FillOpacity": 0.2,
+      "VisibleByDefault": true,
+      "Summary": "Waste collection and drainage service routes.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "name": "Waste Route A", "type": "Waste", "status": "On schedule" }, "geometry": { "type": "LineString", "coordinates": [[28.241,-15.389],[28.255,-15.397],[28.272,-15.406],[28.289,-15.412]] } },
+          { "type": "Feature", "properties": { "name": "Drainage Route B", "type": "Drainage", "status": "Blocked segment" }, "geometry": { "type": "LineString", "coordinates": [[28.268,-15.424],[28.279,-15.417],[28.294,-15.410]] } }
+        ]
+      }
+    },
+    {
+      "Key": "service-points",
+      "Title": "Service Points",
+      "LayerType": "point",
+      "Color": "#2563eb",
+      "FillColor": "#60a5fa",
+      "FillOpacity": 1,
+      "VisibleByDefault": true,
+      "Summary": "Streetlights, markets, toilets, and response points.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "name": "Kamwala Market", "type": "Market", "status": "Busy" }, "geometry": { "type": "Point", "coordinates": [28.265,-15.414] } },
+          { "type": "Feature", "properties": { "name": "Freedom Way Streetlight Cluster", "type": "Streetlights", "status": "Partial outage" }, "geometry": { "type": "Point", "coordinates": [28.275,-15.407] } },
+          { "type": "Feature", "properties": { "name": "Chilenje Public Toilets", "type": "Toilets", "status": "Operational" }, "geometry": { "type": "Point", "coordinates": [28.281,-15.429] } },
+          { "type": "Feature", "properties": { "name": "Drainage Response 01", "type": "Maintenance", "status": "Open" }, "geometry": { "type": "Point", "coordinates": [28.294,-15.411] } }
+        ]
+      }
+    }
+  ]
+}

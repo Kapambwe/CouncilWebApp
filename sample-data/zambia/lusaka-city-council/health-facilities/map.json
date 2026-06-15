@@ -1,0 +1,51 @@
+{
+  "Country": "Zambia",
+  "Council": "Lusaka City Council",
+  "Title": "Health Facilities Analysis",
+  "Subtitle": "Clinics, health centres, referral routes, and service catchments.",
+  "CenterLatitude": -15.408,
+  "CenterLongitude": 28.275,
+  "Zoom": 12,
+  "Metrics": [
+    { "Title": "Facilities", "Value": "4", "Tone": "Info", "Description": "Sample health service points." },
+    { "Title": "Beds", "Value": "210", "Tone": "Success", "Description": "Approximate capacity across the sample sites." },
+    { "Title": "Referral Gaps", "Value": "1", "Tone": "Warning", "Description": "One route needs attention." }
+  ],
+  "Layers": [
+    {
+      "Key": "facilities",
+      "Title": "Facilities",
+      "LayerType": "point",
+      "Color": "#dc2626",
+      "FillColor": "#f87171",
+      "FillOpacity": 1,
+      "VisibleByDefault": true,
+      "Summary": "Health facilities with bed and staffing notes.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "name": "Chelstone Clinic", "type": "Clinic", "beds": 20, "staff": "Adequate", "status": "Operational" }, "geometry": { "type": "Point", "coordinates": [28.308,-15.383] } },
+          { "type": "Feature", "properties": { "name": "Matero Health Centre", "type": "Health Centre", "beds": 60, "staff": "Short staffed", "status": "Operational" }, "geometry": { "type": "Point", "coordinates": [28.257,-15.387] } },
+          { "type": "Feature", "properties": { "name": "Chawama Clinic", "type": "Clinic", "beds": 35, "staff": "Adequate", "status": "Operational" }, "geometry": { "type": "Point", "coordinates": [28.283,-15.432] } }
+        ]
+      }
+    },
+    {
+      "Key": "referral-routes",
+      "Title": "Referral Routes",
+      "LayerType": "line",
+      "Color": "#7c2d12",
+      "FillColor": "#7c2d12",
+      "FillOpacity": 0.2,
+      "VisibleByDefault": true,
+      "Summary": "Referral and ambulance routes used for service response planning.",
+      "GeoJson": {
+        "type": "FeatureCollection",
+        "features": [
+          { "type": "Feature", "properties": { "name": "Chelstone to UTH", "status": "Clear", "travelTime": "18 min" }, "geometry": { "type": "LineString", "coordinates": [[28.308,-15.383],[28.299,-15.392],[28.289,-15.402]] } },
+          { "type": "Feature", "properties": { "name": "Matero to UTH", "status": "Congested", "travelTime": "29 min" }, "geometry": { "type": "LineString", "coordinates": [[28.257,-15.387],[28.271,-15.395],[28.289,-15.402]] } }
+        ]
+      }
+    }
+  ]
+}
