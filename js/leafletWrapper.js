@@ -11,7 +11,11 @@ export function createMap(elementId, lat, lng, zoom) {
         map.remove();
     }
     
-    map = L.map(elementId).setView([lat, lng], zoom);
+    map = L.map(elementId, { zoomControl: false }).setView([lat, lng], zoom);
+
+    L.control.zoom({
+        position: 'bottomright'
+    }).addTo(map);
     
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',

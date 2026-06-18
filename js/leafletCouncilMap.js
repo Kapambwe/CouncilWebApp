@@ -247,9 +247,13 @@ export function initializeMap(elementId, options, dotNetRef) {
     }
 
     const map = L.map(elementId, {
-        zoomControl: true,
+        zoomControl: false,
         preferCanvas: true
     }).setView([options.centerLat ?? -15.3875, options.centerLng ?? 28.3228], options.zoom ?? 12);
+
+    L.control.zoom({
+        position: 'bottomright'
+    }).addTo(map);
 
     const baseLayers = createBaseLayers();
     baseLayers.Streets.addTo(map);
