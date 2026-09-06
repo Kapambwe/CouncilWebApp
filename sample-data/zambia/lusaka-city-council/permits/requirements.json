@@ -1,0 +1,79 @@
+{
+  "Country": "Zambia",
+  "Council": "Lusaka City Council",
+  "Requirements": [
+    {
+      "RequirementId": "CPR-GOV-GOODS-001",
+      "StarterPackRequirementId": "REQ-GOV-GOODS-001",
+      "ContractId": "CON-SUP-GOV-GOODS-001",
+      "PermitType": "BusinessOperatingPermit",
+      "PermitName": "Council Business Operating Permit",
+      "CouncilName": "Lusaka City Council",
+      "Jurisdiction": "Lusaka",
+      "AppliesToSector": "General Supply",
+      "AppliesToActivity": "Retail, warehousing, and institutional goods supply",
+      "FeeAmount": 850,
+      "Currency": "ZMW",
+      "SlaDays": 14,
+      "IsMandatory": true,
+      "RequiredDocuments": [
+        "Business registration certificate",
+        "Tax clearance",
+        "Premises lease or title",
+        "Fire safety inspection"
+      ],
+      "EligibilityRules": [
+        "Business must operate within council jurisdiction",
+        "Premises must pass fire and health checks"
+      ]
+    },
+    {
+      "RequirementId": "CPR-AGRO-FOOD-001",
+      "StarterPackRequirementId": "REQ-BEEF-DRC-001",
+      "ContractId": "CON-EXP-BEEF-DRC-001",
+      "PermitType": "FoodHandlingPermit",
+      "PermitName": "Food Handling and Local Premises Permit",
+      "CouncilName": "Kitwe City Council",
+      "Jurisdiction": "Copperbelt",
+      "AppliesToSector": "Livestock",
+      "AppliesToActivity": "Cold storage, meat handling, and local aggregation",
+      "FeeAmount": 1250,
+      "Currency": "ZMW",
+      "SlaDays": 10,
+      "IsMandatory": true,
+      "RequiredDocuments": [
+        "Veterinary clearance",
+        "Premises inspection report",
+        "Waste disposal plan"
+      ],
+      "EligibilityRules": [
+        "Premises must pass health inspection",
+        "Waste handling plan must be approved"
+      ]
+    },
+    {
+      "RequirementId": "CPR-MARKET-STALL-001",
+      "StarterPackRequirementId": "REQ-GOAT-GULF-001",
+      "ContractId": "CON-EXP-GOAT-GULF-001",
+      "PermitType": "MarketTradingPermit",
+      "PermitName": "Livestock Market Trading Permit",
+      "CouncilName": "Choma Municipal Council",
+      "Jurisdiction": "Southern",
+      "AppliesToSector": "Livestock",
+      "AppliesToActivity": "Livestock aggregation and market operations",
+      "FeeAmount": 650,
+      "Currency": "ZMW",
+      "SlaDays": 7,
+      "IsMandatory": true,
+      "RequiredDocuments": [
+        "Cooperative certificate",
+        "Veterinary movement permit",
+        "Market allocation letter"
+      ],
+      "EligibilityRules": [
+        "Applicant must be allocated a market or aggregation space"
+      ]
+    }
+  ],
+  "Applications": []
+}

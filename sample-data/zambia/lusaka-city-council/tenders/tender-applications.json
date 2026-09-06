@@ -1,0 +1,181 @@
+{
+  "Country": "Zambia",
+  "Council": "Lusaka City Council",
+  "Applications": [
+    {
+      "BidNumber": "BID-2026-0042-01",
+      "TenderReference": "LCC/TND/2026/0042",
+      "CompanyName": "Quality Builders Ltd",
+      "Amount": 2480000.00,
+      "SubmittedFields": {
+        "experience": "8 Years",
+        "timeframe": "10 Months",
+        "staff": "42 Personnel",
+        "insurance": "ZMW 2,000,000",
+        "methodology": "Phased foundation civil works, concurrent wall frame building, followed by immediate roof solar installations."
+      },
+      "SubmittedPdfFiles": [
+        "QualityBuilders_TechnicalProposal.pdf",
+        "QualityBuilders_BidSecurityBond_20k.pdf",
+        "QualityBuilders_CompanyProfile.pdf"
+      ],
+      "AttachedTokens": [
+        {
+          "DocumentType": "Tax Clearance Certificate",
+          "IssuerName": "Zambia Revenue Authority",
+          "IssuerDid": "did:gov:zm:zra",
+          "TokenReferenceNumber": "TAX-2026-00421",
+          "IssuedDate": "2026-05-10T09:00:00+02:00",
+          "ExpiryDate": "2027-05-10T09:00:00+02:00",
+          "VerificationStatus": "Verified"
+        },
+        {
+          "DocumentType": "NAPSA Compliance Certificate",
+          "IssuerName": "National Pension Scheme Authority",
+          "IssuerDid": "did:gov:zm:napsa",
+          "TokenReferenceNumber": "NPSA-2026-00331",
+          "IssuedDate": "2026-06-01T10:00:00+02:00",
+          "ExpiryDate": "2027-06-01T10:00:00+02:00",
+          "VerificationStatus": "Verified"
+        }
+      ]
+    },
+    {
+      "BidNumber": "BID-2026-0042-02",
+      "TenderReference": "LCC/TND/2026/0042",
+      "CompanyName": "Modern Construction Ltd",
+      "Amount": 2650000.00,
+      "SubmittedFields": {
+        "experience": "6 Years",
+        "timeframe": "12 Months",
+        "staff": "30 Personnel",
+        "insurance": "ZMW 1,500,000",
+        "methodology": "Traditional structural construction layout. Mobilization within 30 days."
+      },
+      "SubmittedPdfFiles": [
+        "ModernConst_TechnicalProposal_v1.pdf",
+        "ModernConst_BidSecurityBond.pdf"
+      ],
+      "AttachedTokens": [
+        {
+          "DocumentType": "Tax Clearance Certificate",
+          "IssuerName": "Zambia Revenue Authority",
+          "IssuerDid": "did:gov:zm:zra",
+          "TokenReferenceNumber": "TAX-2026-00994",
+          "IssuedDate": "2026-04-12T09:00:00+02:00",
+          "ExpiryDate": "2027-04-12T09:00:00+02:00",
+          "VerificationStatus": "Verified"
+        }
+      ]
+    },
+    {
+      "BidNumber": "BID-2026-0042-03",
+      "TenderReference": "LCC/TND/2026/0042",
+      "CompanyName": "Zambia Solar Waters Ltd",
+      "Amount": 950000.00,
+      "SubmittedFields": {
+        "experience": "5 Years",
+        "timeframe": "4 Months",
+        "staff": "22 Personnel",
+        "insurance": "ZMW 1,000,000",
+        "methodology": "Direct borehole drilling, hybrid solar pump mount, and local sanitation pipeline construction."
+      },
+      "SubmittedPdfFiles": [
+        "SolarWaters_Proposal.pdf",
+        "SolarWaters_SecurityBond.pdf"
+      ],
+      "AttachedTokens": [
+        {
+          "DocumentType": "Tax Clearance Certificate",
+          "IssuerName": "Zambia Revenue Authority",
+          "IssuerDid": "did:gov:zm:zra",
+          "TokenReferenceNumber": "TAX-2026-00872",
+          "IssuedDate": "2026-03-20T08:00:00+02:00",
+          "ExpiryDate": "2027-03-20T08:00:00+02:00",
+          "VerificationStatus": "Verified"
+        }
+      ]
+    },
+    {
+      "BidNumber": "BID-2026-0043-01",
+      "TenderReference": "LCC/TND/2026/0043",
+      "CompanyName": "Horizon Projects Ltd",
+      "Amount": 420000.00,
+      "SubmittedFields": {
+        "experience": "4 Years",
+        "timeframe": "2 Months",
+        "staff": "15 Personnel",
+        "insurance": "ZMW 500,000",
+        "methodology": "Procurement of standard timber, high-quality steel, carpentry assembly, and transport delivery."
+      },
+      "SubmittedPdfFiles": [
+        "Horizon_CarpentrySpecs.pdf"
+      ],
+      "AttachedTokens": [
+        {
+          "DocumentType": "Tax Clearance Certificate",
+          "IssuerName": "Zambia Revenue Authority",
+          "IssuerDid": "did:gov:zm:zra",
+          "TokenReferenceNumber": "TAX-2026-01122",
+          "IssuedDate": "2026-05-15T09:00:00+02:00",
+          "ExpiryDate": "2027-05-15T09:00:00+02:00",
+          "VerificationStatus": "Verified"
+        }
+      ]
+    },
+    {
+      "BidNumber": "BID-2026-0043-02",
+      "TenderReference": "LCC/TND/2026/0043",
+      "CompanyName": "TopGrade Office Suppliers",
+      "Amount": 460000.00,
+      "SubmittedFields": {
+        "experience": "3 Years",
+        "timeframe": "1 Month",
+        "staff": "10 Personnel",
+        "insurance": "ZMW 300,000",
+        "methodology": "Direct supply of prefabricated desks meeting specifications."
+      },
+      "SubmittedPdfFiles": [
+        "TopGrade_ProductCatalog.pdf"
+      ],
+      "AttachedTokens": [
+        {
+          "DocumentType": "Tax Clearance Certificate",
+          "IssuerName": "Zambia Revenue Authority",
+          "IssuerDid": "did:gov:zm:zra",
+          "TokenReferenceNumber": "TAX-2026-01445",
+          "IssuedDate": "2026-06-10T09:00:00+02:00",
+          "ExpiryDate": "2027-06-10T09:00:00+02:00",
+          "VerificationStatus": "Verified"
+        }
+      ]
+    },
+    {
+      "BidNumber": "BID-2026-0047-01",
+      "TenderReference": "LCC/TND/2026/0047",
+      "CompanyName": "Apex Technologies Ltd",
+      "Amount": 340000.00,
+      "SubmittedFields": {
+        "experience": "5 Years",
+        "timeframe": "3 Weeks",
+        "staff": "8 Personnel",
+        "insurance": "ZMW 1,000,000",
+        "methodology": "Delivery of server chassis, rack mounting, cabling, and OS configuration."
+      },
+      "SubmittedPdfFiles": [
+        "ApexTech_ServerQuotation.pdf"
+      ],
+      "AttachedTokens": [
+        {
+          "DocumentType": "Tax Clearance Certificate",
+          "IssuerName": "Zambia Revenue Authority",
+          "IssuerDid": "did:gov:zm:zra",
+          "TokenReferenceNumber": "TAX-2026-02211",
+          "IssuedDate": "2026-06-25T09:00:00+02:00",
+          "ExpiryDate": "2027-06-25T09:00:00+02:00",
+          "VerificationStatus": "Verified"
+        }
+      ]
+    }
+  ]
+}

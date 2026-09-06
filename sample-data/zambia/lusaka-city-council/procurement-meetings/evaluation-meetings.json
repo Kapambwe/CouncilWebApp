@@ -1,0 +1,70 @@
+{
+  "Country": "Zambia",
+  "Council": "Lusaka City Council",
+  "Meetings": [
+    {
+      "Id": "MEET-001",
+      "MeetingTitle": "Administrative Compliance Consensus Meeting",
+      "MeetingDate": "2026-07-08T10:00:00+02:00",
+      "Attendees": [ "John Mwale", "Mary Phiri", "Dr. James Zulu" ],
+      "Discussions": "Reviewed the checklist of mandatory submissions for all five bidders. Confirmed that all bids except Bidder 3 supplied original bid security and registration forms.",
+      "Resolution": "Passed Quality Builders, Modern Construction, Solar Waters, and Medical Supplies to Technical stage. Failed Bidder 3.",
+      "IsSigned": true,
+      "SignedBy": "Mary Phiri (Secretary)",
+      "SignedAt": "2026-07-08T12:00:00+02:00"
+    },
+    {
+      "Id": "MEET-002",
+      "MeetingTitle": "Technical Specifications Alignment Meeting",
+      "MeetingDate": "2026-07-09T09:00:00+02:00",
+      "Attendees": [ "John Mwale", "Mary Phiri", "Dr. James Zulu", "Eng. Albert Phiri" ],
+      "Discussions": "Audited engineering methodologies and structural drawings submitted by remaining bidders. Checked compatibility of proposed materials with local guidelines.",
+      "Resolution": "Approved technical designs for Quality Builders and Modern Construction. Requested clarifications from Zambia Solar Waters on panel mounting layouts.",
+      "IsSigned": true,
+      "SignedBy": "John Mwale (Chairperson)",
+      "SignedAt": "2026-07-09T11:30:00+02:00"
+    },
+    {
+      "Id": "MEET-003",
+      "MeetingTitle": "Technical & Financial Scoring Consensus Meeting",
+      "MeetingDate": "2026-07-10T14:00:00+02:00",
+      "Attendees": [ "John Mwale", "Mary Phiri", "Dr. James Zulu" ],
+      "Discussions": "Assessed technical specification matching scores and price schedules. Quality Builders scored highest overall with 91.5% technical score and lowest evaluated responsive price.",
+      "Resolution": "Recommend Quality Builders Ltd for the Rural Health Center award.",
+      "IsSigned": false
+    },
+    {
+      "Id": "MEET-004",
+      "MeetingTitle": "Tender Kickoff & Conflict of Interest Declaration",
+      "MeetingDate": "2026-07-01T09:00:00+02:00",
+      "Attendees": [ "John Mwale", "Mary Phiri", "Dr. James Zulu" ],
+      "Discussions": "Distributed evaluation guidelines, scorecards, and declarations of interest. All members signed declarations stating zero conflict with the bidders.",
+      "Resolution": "Agreed on evaluation timelines and milestones.",
+      "IsSigned": true,
+      "SignedBy": "John Mwale (Chairperson)",
+      "SignedAt": "2026-07-01T10:30:00+02:00"
+    },
+    {
+      "Id": "MEET-005",
+      "MeetingTitle": "Supplier Site Capabilities & Verification Audit",
+      "MeetingDate": "2026-07-05T14:00:00+02:00",
+      "Attendees": [ "Dr. James Zulu", "Eng. Albert Phiri" ],
+      "Discussions": "Presented findings from physical site audits of the bidders' equipment yards and completed reference projects in neighbouring districts.",
+      "Resolution": "Confirmed that Quality Builders and Modern Construction possess active yards, functional concrete mixers, and valid safety audit logs.",
+      "IsSigned": true,
+      "SignedBy": "Dr. James Zulu (Technical Expert)",
+      "SignedAt": "2026-07-05T16:00:00+02:00"
+    },
+    {
+      "Id": "MEET-006",
+      "MeetingTitle": "Contract Award Recommendation Review",
+      "MeetingDate": "2026-07-11T11:00:00+02:00",
+      "Attendees": [ "John Mwale", "Mary Phiri", "Dr. James Zulu", "James Phiri (Director)" ],
+      "Discussions": "Finalized the evaluation report package and drafted the award notice. Checked compliance with Zambia Public Procurement Authority thresholds.",
+      "Resolution": "Signed off on the final recommendation report to award the contract to Quality Builders Ltd at ZMW 2,480,000.",
+      "IsSigned": true,
+      "SignedBy": "Mary Phiri (Secretary)",
+      "SignedAt": "2026-07-11T12:30:00+02:00"
+    }
+  ]
+}

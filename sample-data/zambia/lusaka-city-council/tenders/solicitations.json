@@ -1,0 +1,108 @@
+{
+  "Country": "Zambia",
+  "Council": "Lusaka City Council",
+  "Solicitations": [
+    {
+      "ReferenceNumber": "LCC/TND/2026/0042",
+      "Title": "Construction of Rural Health Center in Ward 5",
+      "Description": "Civil works for a complete outpatient health center including masonry, solar panel roofing, and clean water plumbing.",
+      "ProcurementMethod": "Open National Bidding",
+      "EstimatedValue": 2500000.00,
+      "Status": "Closed",
+      "ClosingDate": "2026-07-05T12:00:00+02:00",
+      "Rules": {
+        "TechnicalWeight": 70,
+        "FinancialWeight": 30,
+        "MinQualificationScore": 70,
+        "RequiresBidSecurity": true,
+        "BidSecurityAmount": 20000.00,
+        "MinExperienceYears": 5
+      }
+    },
+    {
+      "ReferenceNumber": "LCC/TND/2026/0043",
+      "Title": "Supply and Delivery of 600 Double School Desks",
+      "Description": "Manufacture and distribution of durable double desks and high-back chairs to primary schools in Lusaka District.",
+      "ProcurementMethod": "Simplified Bidding",
+      "EstimatedValue": 450000.00,
+      "Status": "Active",
+      "ClosingDate": "2026-07-28T12:00:00+02:00",
+      "Rules": {
+        "TechnicalWeight": 50,
+        "FinancialWeight": 50,
+        "MinQualificationScore": 60,
+        "RequiresBidSecurity": false,
+        "BidSecurityAmount": 0.00,
+        "MinExperienceYears": 2
+      }
+    },
+    {
+      "ReferenceNumber": "LCC/TND/2026/0044",
+      "Title": "Borehole Drilling and Solar Pump Installations",
+      "Description": "Drilling of 10 commercial-grade boreholes and mounting of solar hybrid pump systems across priority rural wards.",
+      "ProcurementMethod": "Open National Bidding",
+      "EstimatedValue": 980000.00,
+      "Status": "Active",
+      "ClosingDate": "2026-08-05T12:00:00+02:00",
+      "Rules": {
+        "TechnicalWeight": 60,
+        "FinancialWeight": 40,
+        "MinQualificationScore": 70,
+        "RequiresBidSecurity": true,
+        "BidSecurityAmount": 10000.00,
+        "MinExperienceYears": 3
+      }
+    },
+    {
+      "ReferenceNumber": "LCC/TND/2026/0045",
+      "Title": "Rehabilitation of Ward 12 Feeder Roads",
+      "Description": "Grading, graveling, and side-drainage construction for 15km of priority feeder roads connecting local farms to markets.",
+      "ProcurementMethod": "Open National Bidding",
+      "EstimatedValue": 4800000.00,
+      "Status": "Pending",
+      "ClosingDate": "2026-08-15T12:00:00+02:00",
+      "Rules": {
+        "TechnicalWeight": 70,
+        "FinancialWeight": 30,
+        "MinQualificationScore": 75,
+        "RequiresBidSecurity": true,
+        "BidSecurityAmount": 50000.00,
+        "MinExperienceYears": 6
+      }
+    },
+    {
+      "ReferenceNumber": "LCC/TND/2026/0046",
+      "Title": "Supply and Installation of Solar Streetlights",
+      "Description": "Supply, installation, and commissioning of 120 smart solar-powered LED streetlights along major commercial roads.",
+      "ProcurementMethod": "Simplified Bidding",
+      "EstimatedValue": 750000.00,
+      "Status": "Active",
+      "ClosingDate": "2026-07-30T12:00:00+02:00",
+      "Rules": {
+        "TechnicalWeight": 60,
+        "FinancialWeight": 40,
+        "MinQualificationScore": 65,
+        "RequiresBidSecurity": false,
+        "BidSecurityAmount": 0.00,
+        "MinExperienceYears": 3
+      }
+    },
+    {
+      "ReferenceNumber": "LCC/TND/2026/0047",
+      "Title": "Supply of ICT Server Hardware & Networking",
+      "Description": "Procurement of rack-mount servers, managed switches, and backup UPS systems for the Civic Center datacenter.",
+      "ProcurementMethod": "Simplified Bidding",
+      "EstimatedValue": 350000.00,
+      "Status": "Pending",
+      "ClosingDate": "2026-08-20T12:00:00+02:00",
+      "Rules": {
+        "TechnicalWeight": 40,
+        "FinancialWeight": 60,
+        "MinQualificationScore": 60,
+        "RequiresBidSecurity": false,
+        "BidSecurityAmount": 0.00,
+        "MinExperienceYears": 2
+      }
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-﻿// Council Web App - Service Worker for Progressive Web App
+// Council Web App - Service Worker for Progressive Web App
 // Provides offline capabilities, caching, and background sync
 
 const CACHE_NAME = 'council-app-v1.0.1';

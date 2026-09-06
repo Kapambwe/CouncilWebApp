@@ -532,6 +532,58 @@
     ]
   },
   {
+    "formId": "public-tender",
+    "title": "Public Infrastructure Tender",
+    "category": "Tenders",
+    "categoryKey": "tender-forms",
+    "applicationType": "tender",
+    "serviceCode": "TND-PUBLIC",
+    "description": "Public infrastructure tender workflow with staged review, committee recommendation, and award approval.",
+    "fee": 1000,
+    "currency": "ZMW",
+    "slaDays": 45,
+    "workflow": "advertised -> submitted -> prequalified -> evaluated -> recommended -> approved -> contract-issued",
+    "isActive": true,
+    "version": "1.0.0",
+    "metadata": {
+      "applicationFamily": "Tender",
+      "workflowCode": "tender-public-bid",
+      "requiresTenderReview": true,
+      "requiresCommittee": true,
+      "requiresWalletHandoff": true,
+      "approvalStatus": "AwardApproved"
+    },
+    "sections": [
+      {
+        "sectionId": "company",
+        "title": "Company Details",
+        "order": 1,
+        "fields": [
+          { "id": "companyName", "label": "Company Legal Name", "type": "text", "required": true },
+          { "id": "tpin", "label": "TPIN", "type": "text", "required": true },
+          { "id": "registrationDate", "label": "Registration Date", "type": "date", "required": true }
+        ]
+      },
+      {
+        "sectionId": "bid",
+        "title": "Bid Proposal",
+        "order": 2,
+        "fields": [
+          { "id": "bidAmount", "label": "Total Bid Amount", "type": "number", "required": true },
+          { "id": "projectDuration", "label": "Project Duration (Months)", "type": "number", "required": true },
+          { "id": "previousExperience", "label": "Relevant Experience", "type": "textarea", "required": true }
+        ]
+      }
+    ],
+    "requiredDocuments": [ "Technical Proposal", "Financial Proposal", "Tax Clearance Certificate", "NAPSA Compliance", "Worker's Comp Certificate" ],
+    "checklist": [
+      { "id": 1, "text": "Validate Tax Compliance (ZRA)", "isMandatory": true },
+      { "id": 2, "text": "Technical Evaluation (Score > 70%)", "isMandatory": true },
+      { "id": 3, "text": "Financial Bid Analysis", "isMandatory": true },
+      { "id": 4, "text": "Procurement Committee Approval", "isMandatory": true }
+    ]
+  },
+  {
     "formId": "FORM-CDF-BURSARY-001",
     "applicationType": "cdf-bursary",
     "serviceCode": "CDF-BURSARY-001",

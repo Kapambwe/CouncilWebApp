@@ -1,0 +1,183 @@
+[
+  {
+    "username": "admin@default-council.zm",
+    "fullName": "System Administrator",
+    "role": "Admin",
+    "position": "Council System Administrator",
+    "department": "ICT",
+    "tenantId": "default-council",
+    "councilName": "Default Council",
+    "employeeId": "EMP-DC-0000",
+    "email": "admin@default-council.zm",
+    "phoneNumber": "+260-211-555-099",
+    "accessLevel": "Administrator",
+    "isActive": true,
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "All Modules",
+      "System Administration",
+      "Security",
+      "User Management"
+    ]
+  },
+  {
+    "username": "townclerk@default-council.zm",
+    "fullName": "Mr. Kelvin Phiri",
+    "role": "TownClerk",
+    "position": "Town Clerk",
+    "department": "Administration",
+    "tenantId": "default-council",
+    "councilName": "Default Council",
+    "employeeId": "EMP-DC-0001",
+    "email": "townclerk@default-council.zm",
+    "phoneNumber": "+260-211-555-100",
+    "accessLevel": "Executive",
+    "isActive": true,
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Administration",
+      "Council Operations",
+      "Governance"
+    ]
+  },
+  {
+    "username": "director.of.finance@default-council.zm",
+    "fullName": "Ms. Ruth Bwalya",
+    "role": "DirectorOfFinance",
+    "position": "Director of Finance",
+    "department": "Finance",
+    "tenantId": "default-council",
+    "councilName": "Default Council",
+    "employeeId": "EMP-DC-0002",
+    "email": "director.of.finance@default-council.zm",
+    "phoneNumber": "+260-211-555-101",
+    "accessLevel": "Senior Management",
+    "isActive": true,
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Management",
+      "Revenue Collection",
+      "Financial Reporting"
+    ]
+  },
+  {
+    "username": "budget.officer@default-council.zm",
+    "fullName": "Mr. Chanda Mwila",
+    "role": "BudgetOfficer",
+    "position": "Budget Officer",
+    "department": "Budget",
+    "tenantId": "default-council",
+    "councilName": "Default Council",
+    "employeeId": "EMP-DC-0003",
+    "email": "budget.officer@default-council.zm",
+    "phoneNumber": "+260-211-555-102",
+    "accessLevel": "Management",
+    "isActive": true,
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Budget Preparation",
+      "Budget Monitoring",
+      "Expenditure Control"
+    ]
+  },
+  {
+    "username": "procurement.officer@default-council.zm",
+    "fullName": "Ms. Janet Sichone",
+    "role": "ProcurementOfficer",
+    "position": "Procurement Officer",
+    "department": "Procurement",
+    "tenantId": "default-council",
+    "councilName": "Default Council",
+    "employeeId": "EMP-DC-0004",
+    "email": "procurement.officer@default-council.zm",
+    "phoneNumber": "+260-211-555-103",
+    "accessLevel": "Operational",
+    "isActive": true,
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Procurement Planning",
+      "Tender Management",
+      "Supplier Records"
+    ]
+  },
+  {
+    "username": "land.use.officer@default-council.zm",
+    "fullName": "Mr. Peter Mumba",
+    "role": "LandUseOfficer",
+    "position": "Land Use Officer",
+    "department": "Planning",
+    "tenantId": "default-council",
+    "councilName": "Default Council",
+    "employeeId": "EMP-DC-0005",
+    "email": "land.use.officer@default-council.zm",
+    "phoneNumber": "+260-211-555-104",
+    "accessLevel": "Operational",
+    "isActive": true,
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Land Use Planning",
+      "Development Control",
+      "Site Inspections"
+    ]
+  },
+  {
+    "username": "property.manager@default-council.zm",
+    "fullName": "Ms. Agnes Tembo",
+    "role": "PropertyManager",
+    "position": "Property Manager",
+    "department": "Property",
+    "tenantId": "default-council",
+    "councilName": "Default Council",
+    "employeeId": "EMP-DC-0006",
+    "email": "property.manager@default-council.zm",
+    "phoneNumber": "+260-211-555-105",
+    "accessLevel": "Management",
+    "isActive": true,
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Property Register",
+      "Lease Administration",
+      "Asset Tracking"
+    ]
+  },
+  {
+    "username": "councillor.1@default-council.zm",
+    "fullName": "Hon. Charity Ndlovu",
+    "role": "Councillor",
+    "position": "Ward Councillor",
+    "department": "Council",
+    "tenantId": "default-council",
+    "councilName": "Default Council",
+    "employeeId": "EMP-DC-0007",
+    "email": "councillor.1@default-council.zm",
+    "phoneNumber": "+260-211-555-106",
+    "accessLevel": "Member",
+    "isActive": true,
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Council Meetings",
+      "Ward Oversight",
+      "Constituency Engagement"
+    ]
+  },
+  {
+    "username": "internal.auditor@default-council.zm",
+    "fullName": "Mr. Stephen Banda",
+    "role": "Auditor",
+    "position": "Internal Auditor",
+    "department": "Audit",
+    "tenantId": "default-council",
+    "councilName": "Default Council",
+    "employeeId": "EMP-DC-0008",
+    "email": "internal.auditor@default-council.zm",
+    "phoneNumber": "+260-211-555-107",
+    "accessLevel": "Operational",
+    "isActive": true,
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Audit Trails",
+      "Compliance Review",
+      "Control Testing"
+    ]
+  }
+]

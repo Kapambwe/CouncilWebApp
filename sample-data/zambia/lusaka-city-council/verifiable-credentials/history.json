@@ -13,6 +13,16 @@
       "WalletDeliveryChannel": "Citizen wallet",
       "WalletDeliveryStatus": "Delivered",
       "PayloadJson": "{\"id\":\"urn:uuid:11111111111111111111111111111111\",\"type\":[\"VerifiableCredential\",\"BuildingPermitCredential\"],\"issuer\":\"Council\",\"credentialSubject\":{\"applicationReference\":\"LCC/BP/2026/0001\",\"fullName\":\"John Mwale\",\"plotNumber\":\"1234/M\",\"landUse\":\"Residential\"}}",
+      "Proof": {
+        "ProofId": "proof-000101",
+        "Type": "EcdsaSecp256r1Signature2019",
+        "Created": "2026-06-12T09:30:05+02:00",
+        "VerificationMethod": "did:key:z6MkCouncilIssuer#key-1",
+        "ProofPurpose": "assertionMethod",
+        "ProofValue": "z5N3b0d2VyaWZpYWJsZS1idWlsZGluZy1wZXJtaXQtcHJvb2Y",
+        "IssuerDid": "did:key:z6MkCouncilIssuer",
+        "IsVerified": true
+      },
       "Claims": {
         "applicationReference": "LCC/BP/2026/0001",
         "applicationType": "Building Permit Application",
@@ -34,6 +44,16 @@
       "WalletDeliveryChannel": "Citizen wallet",
       "WalletDeliveryStatus": "Delivered",
       "PayloadJson": "{\"id\":\"urn:uuid:22222222222222222222222222222222\",\"type\":[\"VerifiableCredential\",\"TenderAwardRecommendationCredential\"],\"issuer\":\"Council\",\"credentialSubject\":{\"applicationReference\":\"LCC/TND/2026/0042\",\"companyName\":\"BuildZambia Construction Ltd\",\"tpin\":\"1002345678\",\"bidAmount\":\"2500000\"}}",
+      "Proof": {
+        "ProofId": "proof-000102",
+        "Type": "EcdsaSecp256r1Signature2019",
+        "Created": "2026-06-14T15:45:05+02:00",
+        "VerificationMethod": "did:key:z6MkCouncilProcurement#key-1",
+        "ProofPurpose": "assertionMethod",
+        "ProofValue": "z5N3b0RlbmRlci1yZXZpZXctYW5kLWF3YXJkLXByb29m",
+        "IssuerDid": "did:key:z6MkCouncilProcurement",
+        "IsVerified": true
+      },
       "Claims": {
         "applicationReference": "LCC/TND/2026/0042",
         "applicationType": "Public Infrastructure Tender",

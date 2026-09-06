@@ -1,0 +1,171 @@
+{
+  "Country": "Zambia",
+  "Council": "Lusaka City Council",
+  "Evaluations": [
+    {
+      "ReferenceNumber": "EV-2026-0042",
+      "TenderReference": "LCC/TND/2026/0042",
+      "Status": "Completed",
+      "StartDate": "2026-07-08T09:00:00+02:00",
+      "EndDate": "2026-07-11T12:00:00+02:00",
+      "Committee": {
+        "Name": "Health Center Construction Evaluation Committee",
+        "Members": [
+          { "Name": "John Mwale", "Role": "Chairperson" },
+          { "Name": "Mary Phiri", "Role": "Secretary" },
+          { "Name": "Dr. James Zulu", "Role": "Technical Expert" }
+        ]
+      },
+      "BidsScoring": [
+        {
+          "CompanyName": "Quality Builders Ltd",
+          "AdministrativeScore": 100,
+          "TechnicalScore": 92,
+          "FinancialScore": 88,
+          "TotalScore": 91,
+          "Rank": 1,
+          "CommitteeVotes": [
+            {
+              "MemberName": "Mary Phiri",
+              "Role": "Secretary",
+              "Approved": true,
+              "Comment": "Responsive - Tax Clearance and NAPSA compliance credentials verified. Strong proposal."
+            },
+            {
+              "MemberName": "Dr. James Zulu",
+              "Role": "Technical Expert",
+              "Approved": true,
+              "Comment": "Responsive - Design layouts conform to medical clinic guidelines."
+            }
+          ]
+        },
+        {
+          "CompanyName": "Modern Construction Ltd",
+          "AdministrativeScore": 100,
+          "TechnicalScore": 82,
+          "FinancialScore": 84,
+          "TotalScore": 83,
+          "Rank": 2,
+          "CommitteeVotes": [
+            {
+              "MemberName": "Mary Phiri",
+              "Role": "Secretary",
+              "Approved": true,
+              "Comment": "Responsive - Submissions complete."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ReferenceNumber": "EV-2026-0043",
+      "TenderReference": "LCC/TND/2026/0043",
+      "Status": "InProgress",
+      "StartDate": "2026-07-10T09:00:00+02:00",
+      "Committee": {
+        "Name": "School Desks Supply Evaluation Committee",
+        "Members": [
+          { "Name": "Mary Phiri", "Role": "Chairperson" },
+          { "Name": "David Tembo", "Role": "Secretary" }
+        ]
+      },
+      "BidsScoring": [
+        {
+          "CompanyName": "Horizon Projects Ltd",
+          "AdministrativeScore": 100,
+          "TechnicalScore": 75,
+          "FinancialScore": 90,
+          "TotalScore": 82,
+          "Rank": 1,
+          "CommitteeVotes": [
+            {
+              "MemberName": "David Tembo",
+              "Role": "Secretary",
+              "Approved": true,
+              "Comment": "Meets specs. Pricing is competitive."
+            }
+          ]
+        },
+        {
+          "CompanyName": "TopGrade Office Suppliers",
+          "AdministrativeScore": 100,
+          "TechnicalScore": 80,
+          "FinancialScore": 75,
+          "TotalScore": 77,
+          "Rank": 2,
+          "CommitteeVotes": []
+        }
+      ]
+    },
+    {
+      "ReferenceNumber": "EV-2026-0044",
+      "TenderReference": "LCC/TND/2026/0044",
+      "Status": "InProgress",
+      "StartDate": "2026-07-11T10:00:00+02:00",
+      "Committee": {
+        "Name": "Borehole Drilling Committee",
+        "Members": [
+          { "Name": "John Mwale", "Role": "Chairperson" },
+          { "Name": "Dr. James Zulu", "Role": "Technical Expert" }
+        ]
+      },
+      "BidsScoring": [
+        {
+          "CompanyName": "Zambia Solar Waters Ltd",
+          "AdministrativeScore": 100,
+          "TechnicalScore": 85,
+          "FinancialScore": 80,
+          "TotalScore": 83,
+          "Rank": 1,
+          "CommitteeVotes": [
+            {
+              "MemberName": "Dr. James Zulu",
+              "Role": "Technical Expert",
+              "Approved": true,
+              "Comment": "Good drilling plan. Solar pump credentials are fully compliant."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ReferenceNumber": "EV-2026-0045",
+      "TenderReference": "LCC/TND/2026/0045",
+      "Status": "Pending",
+      "StartDate": "2026-07-12T09:00:00+02:00",
+      "Committee": {
+        "Name": "Feeder Roads Committee",
+        "Members": [
+          { "Name": "Eng. Albert Phiri", "Role": "Chairperson" }
+        ]
+      },
+      "BidsScoring": []
+    },
+    {
+      "ReferenceNumber": "EV-2026-0046",
+      "TenderReference": "LCC/TND/2026/0046",
+      "Status": "Pending",
+      "StartDate": "2026-07-12T10:00:00+02:00",
+      "Committee": {
+        "Name": "Solar Streetlight Committee",
+        "Members": [
+          { "Name": "John Mwale", "Role": "Chairperson" }
+        ]
+      },
+      "BidsScoring": []
+    },
+    {
+      "ReferenceNumber": "EV-2026-0047",
+      "TenderReference": "LCC/TND/2026/0047",
+      "Status": "Pending",
+      "StartDate": "2026-07-12T11:00:00+02:00",
+      "Committee": {
+        "Name": "ICT Infrastructure Committee",
+        "Members": [
+          { "Name": "Mary Phiri", "Role": "Chairperson" }
+        ]
+      },
+      "BidsScoring": []
+    }
+  ]
+}
