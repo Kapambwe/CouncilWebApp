@@ -1,0 +1,16 @@
+[
+  {
+    "projectId": "CDF-KBW-001", "proposalId": "WDC-KBW-2026-001", "projectName": "Kabwata Community Clinic Upgrade", "constituencyId": "C001", "wardId": "W001", "wardName": "Kabwata Ward 1", "estimatedCost": 850000, "allocationCeiling": 1000000, "planningReference": "IDP-2026-HEALTH-04", "priorityRank": 1, "status": "Validated", "decisionReason": "Quorum, minutes, planning alignment and allocation checks passed", "evidenceReference": "MIN-KBW-2026-001", "lastActor": "Council Planning Officer", "lastUpdatedUtc": "2026-09-10T08:00:00Z",
+    "events": [
+      { "status": "Received", "actor": "WDC Secretary", "tenant": "C001", "timestampUtc": "2026-08-01T08:00:00Z", "reason": "WDC project list received", "evidenceReference": "WDC-MIN-001" },
+      { "status": "Validated", "actor": "Council Planning Officer", "tenant": "C001", "timestampUtc": "2026-09-10T08:00:00Z", "reason": "Validation completed", "evidenceReference": "MIN-KBW-2026-001" }
+    ]
+  },
+  {
+    "projectId": "CDF-KBW-002", "proposalId": "WDC-KBW-2026-002", "projectName": "Matero Drainage and Flood Mitigation", "constituencyId": "C003", "wardId": "W007", "wardName": "Matero Ward 1", "estimatedCost": 1250000, "allocationCeiling": 1000000, "planningReference": "", "priorityRank": 2, "status": "ReturnedForCorrection", "decisionReason": "Allocation exceeded and IDP reference missing", "evidenceReference": "VALIDATION-2026-014", "lastActor": "Council CDF Reviewer", "lastUpdatedUtc": "2026-09-11T10:30:00Z",
+    "events": [
+      { "status": "Received", "actor": "WDC Chairperson", "tenant": "C003", "timestampUtc": "2026-08-04T09:00:00Z", "reason": "WDC submission received", "evidenceReference": "WDC-MIN-004" },
+      { "status": "ReturnedForCorrection", "actor": "Council CDF Reviewer", "tenant": "C003", "timestampUtc": "2026-09-11T10:30:00Z", "reason": "Correct cost and planning reference", "evidenceReference": "VALIDATION-2026-014" }
+    ]
+  }
+]

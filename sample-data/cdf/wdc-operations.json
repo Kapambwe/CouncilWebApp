@@ -1,0 +1,46 @@
+{
+  "CouncilName": "Lusaka City Council",
+  "Constituency": "Lusaka Central",
+  "Ward": "Kabwata Ward 4",
+  "Members": [
+    { "Id": "WDC-001", "Name": "Mary Banda", "Role": "Chairperson", "Organisation": "Community", "Contact": "mary.banda@example.zm", "AppointmentStatus": "Active", "TermEnd": "2028-06-30", "MeetingsAttended": 6 },
+    { "Id": "WDC-002", "Name": "Peter Phiri", "Role": "Secretary", "Organisation": "Community", "Contact": "peter.phiri@example.zm", "AppointmentStatus": "Active", "TermEnd": "2028-06-30", "MeetingsAttended": 6 },
+    { "Id": "WDC-003", "Name": "Grace Zulu", "Role": "Treasurer", "Organisation": "Community", "Contact": "grace.zulu@example.zm", "AppointmentStatus": "Active", "TermEnd": "2028-06-30", "MeetingsAttended": 5 },
+    { "Id": "WDC-004", "Name": "Hon. James Mwape", "Role": "Ex-officio Councillor", "Organisation": "Lusaka City Council", "Contact": "james.mwape@lcc.gov.zm", "AppointmentStatus": "Active", "TermEnd": "2027-12-31", "MeetingsAttended": 5 },
+    { "Id": "WDC-005", "Name": "Chief Chitimukulu Representative", "Role": "Traditional Leader", "Organisation": "Traditional Leadership", "Contact": "traditional.leader@example.zm", "AppointmentStatus": "Active", "TermEnd": "2028-06-30", "MeetingsAttended": 4 },
+    { "Id": "WDC-006", "Name": "Ruth Chanda", "Role": "Youth Representative", "Organisation": "Youth CSO", "Contact": "ruth.chanda@example.zm", "AppointmentStatus": "Active", "TermEnd": "2028-06-30", "MeetingsAttended": 5 }
+  ],
+  "Plans": [
+    { "Id": "WDP-2026-01", "Title": "Kabwata Ward Development Plan", "FinancialYear": "2026", "Status": "Submitted to Planning", "SubmittedOn": "2026-07-05", "PlanningReference": "IDP-LCC-KAB-2026", "EstimatedBudget": 4200000, "SubmittedBy": "Mary Banda" },
+    { "Id": "WDP-2027-01", "Title": "Kabwata Ward Development Plan", "FinancialYear": "2027", "Status": "Draft", "SubmittedOn": "2026-09-03", "PlanningReference": "IDP-LCC-KAB-2027-DRAFT", "EstimatedBudget": 5100000, "SubmittedBy": "Peter Phiri" }
+  ],
+  "Meetings": [
+    { "Id": "WDC-MTG-2026-08", "MeetingDate": "2026-08-12", "MeetingType": "Ordinary quarterly meeting", "Venue": "Kabwata Community Hall", "MembersPresent": 6, "TotalMembers": 8, "MinutesStatus": "Approved", "DecisionSummary": "Prioritised health-post rehabilitation and drainage project list.", "Actions": [ { "Description": "Submit prioritised project list to CDF Committee", "Owner": "Secretary", "DueDate": "2026-08-20", "Status": "Closed" }, { "Description": "Obtain engineering cost estimate", "Owner": "Ex-officio Councillor", "DueDate": "2026-09-18", "Status": "In progress" } ] },
+    { "Id": "WDC-MTG-2026-09", "MeetingDate": "2026-09-05", "MeetingType": "Special revenue and complaints meeting", "Venue": "Ward Office", "MembersPresent": 5, "TotalMembers": 8, "MinutesStatus": "Draft", "DecisionSummary": "Reviewed market-fee revenue opportunity and unresolved water complaint.", "Actions": [ { "Description": "Refer water complaint to Water Utilities Department", "Owner": "Secretary", "DueDate": "2026-09-12", "Status": "Open" }, { "Description": "Validate market-fee collection proposal", "Owner": "Treasurer", "DueDate": "2026-09-30", "Status": "Open" } ] }
+  ],
+  "QuarterlyReports": [
+    { "Id": "WDC-RPT-2026-Q2", "Quarter": "2026 Q2", "SubmittedOn": "2026-07-10", "Status": "Accepted by Planning", "PlanningReview": "Aligned with IDP", "ProjectValueMonitored": 3400000, "IssuesRaised": 4, "IssuesClosed": 3 },
+    { "Id": "WDC-RPT-2026-Q3", "Quarter": "2026 Q3", "SubmittedOn": "2026-09-08", "Status": "Under Council review", "PlanningReview": "Pending", "ProjectValueMonitored": 4100000, "IssuesRaised": 3, "IssuesClosed": 1 }
+  ],
+  "Resources": [
+    { "Id": "WDC-RES-001", "ResourceType": "Cash contribution", "Description": "Community contribution for drainage survey", "Value": 85000, "Custodian": "Treasurer", "Status": "Reconciled", "DocumentReference": "WDC-CASH-2026-04" },
+    { "Id": "WDC-RES-002", "ResourceType": "Equipment", "Description": "Community meeting projector", "Value": 12000, "Custodian": "Secretary", "Status": "In custody", "DocumentReference": "WDC-ASSET-2026-01" },
+    { "Id": "WDC-RES-003", "ResourceType": "Materials", "Description": "Drainage project sand and stone", "Value": 46000, "Custodian": "Project subcommittee", "Status": "Allocated", "DocumentReference": "WDC-MAT-2026-03" }
+  ],
+  "RevenueSources": [
+    { "Id": "REV-001", "Source": "Market stall fees", "LegalBasis": "Council market-fee schedule", "EstimatedAnnualYield": 680000, "CollectionMethod": "Council receipt/mobile payment", "Owner": "Council Finance", "Status": "Feasibility review" },
+    { "Id": "REV-002", "Source": "Community hall bookings", "LegalBasis": "Council user-charge schedule", "EstimatedAnnualYield": 220000, "CollectionMethod": "Council booking and receipt", "Owner": "Ward Office", "Status": "Proposed" }
+  ],
+  "Correspondence": [
+    { "Reference": "WDC/COR/2026/014", "ReceivedOn": "2026-09-05", "From": "Kabwata Residents Association", "Subject": "Water interruption near clinic", "ReferredDepartment": "Water Utilities", "ResponseDue": "2026-09-12", "Status": "Open" },
+    { "Reference": "WDC/COR/2026/011", "ReceivedOn": "2026-08-16", "From": "Youth CSO Network", "Subject": "Request for skills-training project", "ReferredDepartment": "Community Development", "ResponseDue": "2026-08-30", "Status": "Closed" }
+  ],
+  "Responsibilities": [
+    { "Role": "Chairperson", "Responsibility": "Convene meetings and ensure decisions are implemented", "Evidence": "Meeting record and action register", "Status": "Available" },
+    { "Role": "Secretary", "Responsibility": "Maintain minutes, correspondence and quarterly reports", "Evidence": "Minutes, correspondence and report registers", "Status": "Available" },
+    { "Role": "Treasurer", "Responsibility": "Maintain resource and financial records", "Evidence": "Resource ledger and reconciliation reference", "Status": "Partial" },
+    { "Role": "Ex-officio Councillor", "Responsibility": "Provide policy and technical advice and link WDC to Council", "Evidence": "Referral and technical-advice record", "Status": "Available" },
+    { "Role": "Traditional Leader", "Responsibility": "Provide cultural advice and represent community interests", "Evidence": "Consultation record", "Status": "Available" },
+    { "Role": "Community Representatives", "Responsibility": "Propose, represent and prioritise community needs", "Evidence": "Participation and prioritisation records", "Status": "Available" }
+  ]
+}
